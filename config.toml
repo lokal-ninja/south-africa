@@ -1,0 +1,15 @@
+baseURL = "https://za.shoogle.net/south-africa"
+languageCode = "en"
+title = "South Africa"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "south-africa"

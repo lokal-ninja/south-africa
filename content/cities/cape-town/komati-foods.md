@@ -1,0 +1,4 @@
+---
+title: "Komati Foods"
+url: /cape-town/komati-foods/
+---
