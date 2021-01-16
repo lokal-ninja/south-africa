@@ -1,6 +1,6 @@
 ---
 title: Montagu
 url: /montagu/
-latitude: -33.782221
-longitude: 20.121103
+latitude: -33.786994400000005
+longitude: 20.1178282
 ---
