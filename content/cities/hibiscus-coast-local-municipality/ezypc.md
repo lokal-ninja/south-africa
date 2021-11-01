@@ -1,5 +1,5 @@
 ---
 title: "ezyPC"
 url: /hibiscus-coast-local-municipality/ezypc/
-shop: supermarket
+shop: computer
 ---
