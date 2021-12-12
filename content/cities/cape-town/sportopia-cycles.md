@@ -1,5 +1,5 @@
 ---
 title: "Sportopia Cycles"
-url: /salt-river/sportopia-cycles/
+url: /cape-town/sportopia-cycles/
 shop: bicycle
 ---
