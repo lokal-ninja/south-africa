@@ -1,5 +1,5 @@
 ---
 title: "Bitflow"
 url: /wolmaransstad/bitflow/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chichi"
 url: /pretoria/chichi/
-shop: hairdresser
+shop: Friseur
 ---

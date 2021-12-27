@@ -1,6 +1,6 @@
 ---
 title: Bultfontein
 url: /bultfontein/
-latitude: -29.1681442
-longitude: 26.7754921
+latitude: -28.286
+longitude: 26.154
 ---

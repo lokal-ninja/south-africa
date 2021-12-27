@@ -1,6 +1,6 @@
 ---
 title: Pinelands
 url: /pinelands/
-latitude: -33.9316667
-longitude: 18.512777800000002
+latitude: -33.927
+longitude: 18.518
 ---

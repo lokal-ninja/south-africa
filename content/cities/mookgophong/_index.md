@@ -1,6 +1,6 @@
 ---
 title: Mookgophong
 url: /mookgophong/
-latitude: -24.514403
-longitude: 28.71627
+latitude: -24.523
+longitude: 28.711
 ---

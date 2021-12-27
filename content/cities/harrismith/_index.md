@@ -1,6 +1,6 @@
 ---
 title: Harrismith
 url: /harrismith/
-latitude: 
-longitude: 
+latitude: -28.277
+longitude: 29.127
 ---

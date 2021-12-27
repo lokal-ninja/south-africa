@@ -1,6 +1,6 @@
 ---
 title: Kestell
 url: /kestell/
-latitude: -28.311666900000002
-longitude: 28.6994343
+latitude: -28.315
+longitude: 28.703
 ---

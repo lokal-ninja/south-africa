@@ -1,5 +1,5 @@
 ---
 title: "Agrimark"
 url: /stellenbosch/agrimark/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

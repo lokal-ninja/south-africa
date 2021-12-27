@@ -1,6 +1,6 @@
 ---
 title: Durban North
 url: /durban-north/
-latitude: -29.780556
-longitude: 31.035833
+latitude: -29.761
+longitude: 31.038
 ---

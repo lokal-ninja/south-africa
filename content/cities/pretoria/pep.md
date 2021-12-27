@@ -1,5 +1,5 @@
 ---
 title: "Pep"
 url: /pretoria/pep/
-shop: clothes
+shop: Kleidung
 ---

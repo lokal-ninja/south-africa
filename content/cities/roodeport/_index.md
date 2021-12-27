@@ -1,6 +1,6 @@
 ---
 title: Roodeport
 url: /roodeport/
-latitude: 
-longitude: 
+latitude: -26.134
+longitude: 27.9
 ---

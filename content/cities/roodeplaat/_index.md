@@ -1,6 +1,6 @@
 ---
 title: Roodeplaat
 url: /roodeplaat/
-latitude: 
-longitude: 
+latitude: -25.593
+longitude: 28.387
 ---

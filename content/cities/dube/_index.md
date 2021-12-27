@@ -1,6 +1,6 @@
 ---
 title: Dube
 url: /dube/
-latitude: -26.2386111
-longitude: 27.8927778
+latitude: -26.238
+longitude: 27.9
 ---

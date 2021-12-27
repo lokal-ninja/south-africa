@@ -1,6 +1,6 @@
 ---
 title: Parow
 url: /parow/
-latitude: -33.9025
-longitude: 18.5869444
+latitude: -33.914
+longitude: 18.6
 ---

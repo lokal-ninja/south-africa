@@ -1,6 +1,6 @@
 ---
 title: Mouille Point Cape Town
 url: /mouille-point-cape-town/
-latitude: 
-longitude: 
+latitude: -33.901
+longitude: 18.403
 ---

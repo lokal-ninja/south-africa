@@ -1,6 +1,6 @@
 ---
 title: Struisbaai
 url: /struisbaai/
-latitude: 
-longitude: 
+latitude: -34.801
+longitude: 20.052
 ---

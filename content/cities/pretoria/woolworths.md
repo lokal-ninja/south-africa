@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /pretoria/woolworths/
-shop: clothes
+shop: Kleidung
 ---

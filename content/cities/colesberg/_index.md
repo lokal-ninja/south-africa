@@ -1,6 +1,6 @@
 ---
 title: Colesberg
 url: /colesberg/
-latitude: -30.721111
-longitude: 25.096667
+latitude: -30.726
+longitude: 25.092
 ---

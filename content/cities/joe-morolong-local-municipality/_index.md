@@ -1,6 +1,6 @@
 ---
 title: Joe Morolong Local Municipality
 url: /joe-morolong-local-municipality/
-latitude: 
-longitude: 
+latitude: -26.899
+longitude: 23.951
 ---

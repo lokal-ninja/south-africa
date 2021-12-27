@@ -1,5 +1,5 @@
 ---
 title: "Evergreens"
 url: /pretoria/evergreens/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

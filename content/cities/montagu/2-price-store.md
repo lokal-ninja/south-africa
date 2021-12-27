@@ -1,5 +1,5 @@
 ---
 title: "2 Price Store"
 url: /montagu/2-price-store/
-shop: supermarket
+shop: Supermarkt
 ---

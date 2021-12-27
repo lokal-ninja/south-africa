@@ -1,6 +1,6 @@
 ---
 title: Mowbray
 url: /mowbray/
-latitude: -33.9483333
-longitude: 18.4741667
+latitude: -33.948
+longitude: 18.479
 ---

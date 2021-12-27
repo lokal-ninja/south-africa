@@ -1,5 +1,5 @@
 ---
 title: "Grandmark"
 url: /polokwane/grandmark/
-shop: trade
+shop: Baustoffe
 ---

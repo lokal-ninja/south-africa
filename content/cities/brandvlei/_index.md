@@ -1,6 +1,6 @@
 ---
 title: Brandvlei
 url: /brandvlei/
-latitude: -30.463333000000002
-longitude: 20.486111
+latitude: -30.466
+longitude: 20.479
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HLONYANE GENERAL DEALER"
 url: /kwanobuhle/hlonyane-general-dealer/
-shop: convenience
+shop: Lebensmittel
 ---

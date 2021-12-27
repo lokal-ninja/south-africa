@@ -1,5 +1,5 @@
 ---
 title: "Motor Service Panel Beating"
 url: /pretoria/motor-service-panel-beating/
-shop: car repair
+shop: Autowerkstatt
 ---

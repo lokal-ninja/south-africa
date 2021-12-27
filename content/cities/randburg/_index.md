@@ -1,6 +1,6 @@
 ---
 title: Randburg
 url: /randburg/
-latitude: -26.096111
-longitude: 27.975
+latitude: -26.11
+longitude: 27.989
 ---

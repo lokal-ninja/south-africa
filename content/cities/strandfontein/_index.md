@@ -1,6 +1,6 @@
 ---
 title: Strandfontein
 url: /strandfontein/
-latitude: -31.755556000000002
-longitude: 18.227222
+latitude: -34.072
+longitude: 18.549
 ---

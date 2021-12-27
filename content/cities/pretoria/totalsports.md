@@ -1,5 +1,5 @@
 ---
 title: "Totalsports"
 url: /pretoria/totalsports/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /polokwane/game/
-shop: supermarket
+shop: Supermarkt
 ---

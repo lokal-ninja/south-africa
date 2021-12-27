@@ -1,6 +1,6 @@
 ---
 title: Knysna
 url: /knysna/
-latitude: 
-longitude: 
+latitude: -34.04
+longitude: 23.052
 ---

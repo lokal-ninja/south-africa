@@ -1,6 +1,6 @@
 ---
 title: Clarens
 url: /clarens/
-latitude: -28.513743
-longitude: 28.419444000000002
+latitude: -28.512
+longitude: 28.426
 ---

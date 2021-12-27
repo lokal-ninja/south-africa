@@ -1,6 +1,6 @@
 ---
 title: Piet Retief
 url: /piet-retief/
-latitude: 
-longitude: 
+latitude: -26.989
+longitude: 30.797
 ---

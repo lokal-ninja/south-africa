@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /polokwane/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

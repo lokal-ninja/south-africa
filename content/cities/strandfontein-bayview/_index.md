@@ -1,6 +1,6 @@
 ---
 title: Strandfontein (Bayview)
 url: /strandfontein-bayview/
-latitude: 
-longitude: 
+latitude: -34.071
+longitude: 18.581
 ---

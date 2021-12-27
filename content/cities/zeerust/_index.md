@@ -1,6 +1,6 @@
 ---
 title: Zeerust
 url: /zeerust/
-latitude: -25.537731
-longitude: 26.074382
+latitude: -25.545
+longitude: 26.074
 ---

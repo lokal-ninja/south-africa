@@ -1,5 +1,5 @@
 ---
 title: "Newtown Junction"
 url: /johannesburg/newtown-junction/
-shop: mall
+shop: Einkaufszentrum
 ---

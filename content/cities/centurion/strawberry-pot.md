@@ -1,5 +1,5 @@
 ---
 title: "Strawberry Pot"
 url: /centurion/strawberry-pot/
-shop: garden centre
+shop: Garten-Center
 ---

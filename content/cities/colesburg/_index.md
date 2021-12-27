@@ -1,6 +1,6 @@
 ---
 title: Colesburg
 url: /colesburg/
-latitude: 
-longitude: 
+latitude: -30.731
+longitude: 25.089
 ---

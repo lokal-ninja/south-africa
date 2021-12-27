@@ -1,6 +1,6 @@
 ---
 title: Kai !Garib
 url: /kai-garib/
-latitude: 
-longitude: 
+latitude: -28.608
+longitude: 21.105
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pretoria East
 url: /pretoria-east/
-latitude: 
-longitude: 
+latitude: -25.774
+longitude: 28.351
 ---

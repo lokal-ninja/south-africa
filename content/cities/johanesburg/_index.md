@@ -1,6 +1,6 @@
 ---
 title: Johanesburg
 url: /johanesburg/
-latitude: 
-longitude: 
+latitude: -26.239
+longitude: 28.053
 ---

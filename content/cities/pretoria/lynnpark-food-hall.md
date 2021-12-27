@@ -1,5 +1,5 @@
 ---
 title: "Lynnpark Food Hall"
 url: /pretoria/lynnpark-food-hall/
-shop: convenience
+shop: Lebensmittel
 ---

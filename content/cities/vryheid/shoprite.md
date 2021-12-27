@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /vryheid/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

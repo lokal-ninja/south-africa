@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /wolmaransstad/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bonnievale
 url: /bonnievale/
-latitude: -33.932218
-longitude: 20.09973
+latitude: -33.938
+longitude: 20.109
 ---

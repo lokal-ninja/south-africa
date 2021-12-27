@@ -1,5 +1,5 @@
 ---
 title: "Cashbuild"
 url: /bela-bela/cashbuild/
-shop: trade
+shop: Baustoffe
 ---

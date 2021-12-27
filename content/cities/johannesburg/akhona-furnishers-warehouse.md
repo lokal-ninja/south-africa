@@ -1,5 +1,5 @@
 ---
 title: "Akhona Furnishers Warehouse"
 url: /johannesburg/akhona-furnishers-warehouse/
-shop: furniture
+shop: Möbel
 ---

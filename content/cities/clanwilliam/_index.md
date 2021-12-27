@@ -1,6 +1,6 @@
 ---
 title: Clanwilliam
 url: /clanwilliam/
-latitude: -32.178551
-longitude: 18.89104
+latitude: -32.178
+longitude: 18.891
 ---

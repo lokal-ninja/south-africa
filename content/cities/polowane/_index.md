@@ -1,6 +1,6 @@
 ---
 title: Polowane
 url: /polowane/
-latitude: 
-longitude: 
+latitude: -23.908
+longitude: 29.44
 ---

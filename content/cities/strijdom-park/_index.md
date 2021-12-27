@@ -1,6 +1,6 @@
 ---
 title: Strijdom Park
 url: /strijdom-park/
-latitude: 
-longitude: 
+latitude: -26.084
+longitude: 27.97
 ---

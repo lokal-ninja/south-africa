@@ -1,6 +1,6 @@
 ---
 title: Ga-Maponto
 url: /ga-maponto/
-latitude: -23.310874700000003
-longitude: 29.210059500000003
+latitude: -23.314
+longitude: 29.212
 ---

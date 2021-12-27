@@ -1,6 +1,6 @@
 ---
 title: Mossel Bay
 url: /mossel-bay/
-latitude: 
-longitude: 
+latitude: -34.171
+longitude: 22.122
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wolmaransstad/spar/
-shop: supermarket
+shop: Supermarkt
 ---

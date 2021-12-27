@@ -1,6 +1,6 @@
 ---
 title: Saaelamani
 url: /saaelamani/
-latitude: 
-longitude: 
+latitude: -22.813
+longitude: 30.901
 ---

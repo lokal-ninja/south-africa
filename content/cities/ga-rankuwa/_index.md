@@ -1,6 +1,6 @@
 ---
 title: Ga-Rankuwa
 url: /ga-rankuwa/
-latitude: -25.588446
-longitude: 28.007511
+latitude: -25.617
+longitude: 27.973
 ---

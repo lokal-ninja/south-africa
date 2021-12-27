@@ -1,6 +1,6 @@
 ---
 title: Kuruman
 url: /kuruman/
-latitude: 
-longitude: 
+latitude: -27.456
+longitude: 23.434
 ---

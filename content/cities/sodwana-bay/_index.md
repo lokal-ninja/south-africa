@@ -1,6 +1,6 @@
 ---
 title: Sodwana Bay
 url: /sodwana-bay/
-latitude: -27.548832
-longitude: 32.671184100000005
+latitude: -27.544
+longitude: 32.67
 ---

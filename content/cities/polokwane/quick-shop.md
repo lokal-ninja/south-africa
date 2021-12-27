@@ -1,5 +1,5 @@
 ---
 title: "Quick Shop"
 url: /polokwane/quick-shop/
-shop: convenience
+shop: Lebensmittel
 ---

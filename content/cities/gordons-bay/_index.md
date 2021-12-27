@@ -1,6 +1,6 @@
 ---
 title: Gordon's Bay
 url: /gordons-bay/
-latitude: -34.161124900000004
-longitude: 18.8686867
+latitude: -34.151
+longitude: 18.882
 ---

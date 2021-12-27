@@ -1,6 +1,6 @@
 ---
 title: volksrust
 url: /volksrust/
-latitude: 
-longitude: 
+latitude: -27.368
+longitude: 29.884
 ---

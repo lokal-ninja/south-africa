@@ -1,5 +1,5 @@
 ---
 title: "Rudi's"
 url: /pretoria/rudis/
-shop: shoes
+shop: Schuhe
 ---

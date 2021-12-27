@@ -1,5 +1,5 @@
 ---
 title: "Archneer"
 url: /hatfield/archneer/
-shop: craft
+shop: Basteln
 ---

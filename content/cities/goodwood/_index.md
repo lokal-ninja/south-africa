@@ -1,6 +1,6 @@
 ---
 title: Goodwood
 url: /goodwood/
-latitude: -33.9066667
-longitude: 18.5491667
+latitude: -33.891
+longitude: 18.559
 ---

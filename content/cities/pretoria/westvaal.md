@@ -1,5 +1,5 @@
 ---
 title: "Westvaal"
 url: /pretoria/westvaal/
-shop: car
+shop: Autohaus
 ---

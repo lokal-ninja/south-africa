@@ -1,6 +1,6 @@
 ---
 title: Despatch
 url: /despatch/
-latitude: -33.8002778
-longitude: 25.475
+latitude: -33.801
+longitude: 25.474
 ---

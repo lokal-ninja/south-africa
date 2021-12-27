@@ -1,6 +1,6 @@
 ---
 title: Pierre van Ryneveld
 url: /pierre-van-ryneveld/
-latitude: -25.8369444
-longitude: 28.241666700000003
+latitude: -25.851
+longitude: 28.226
 ---

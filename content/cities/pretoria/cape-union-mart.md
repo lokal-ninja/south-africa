@@ -1,5 +1,5 @@
 ---
 title: "Cape Union Mart"
 url: /pretoria/cape-union-mart/
-shop: outdoor
+shop: Outdoor
 ---

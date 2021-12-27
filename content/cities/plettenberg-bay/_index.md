@@ -1,6 +1,6 @@
 ---
 title: Plettenberg Bay
 url: /plettenberg-bay/
-latitude: -34.052778
-longitude: 23.369444
+latitude: -34.054
+longitude: 23.373
 ---

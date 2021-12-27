@@ -1,5 +1,5 @@
 ---
 title: "ntk"
 url: /senwabarwana/ntk/
-shop: garden centre
+shop: Garten-Center
 ---

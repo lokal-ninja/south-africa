@@ -1,5 +1,5 @@
 ---
 title: "Sandcor"
 url: /rustenburg/sandcor/
-shop: trade
+shop: Baustoffe
 ---

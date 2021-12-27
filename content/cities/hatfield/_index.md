@@ -1,6 +1,6 @@
 ---
 title: Hatfield
 url: /hatfield/
-latitude: -25.7508333
-longitude: 28.2430556
+latitude: -25.749
+longitude: 28.238
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridge Books"
 url: /johannesburg/bridge-books/
-shop: books
+shop: Bücher
 ---

@@ -1,6 +1,6 @@
 ---
 title: Randfontein
 url: /randfontein/
-latitude: -26.173611
-longitude: 27.694167
+latitude: -26.19
+longitude: 27.697
 ---

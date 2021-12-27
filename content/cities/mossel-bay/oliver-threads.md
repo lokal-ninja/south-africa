@@ -1,5 +1,5 @@
 ---
 title: "Oliver Threads"
 url: /mossel-bay/oliver-threads/
-shop: tyres
+shop: Reifen
 ---

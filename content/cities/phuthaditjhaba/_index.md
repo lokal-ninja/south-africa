@@ -1,6 +1,6 @@
 ---
 title: Phuthaditjhaba
 url: /phuthaditjhaba/
-latitude: -28.480640500000003
-longitude: 28.824757400000003
+latitude: -28.535
+longitude: 28.8
 ---

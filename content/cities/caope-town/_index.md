@@ -1,6 +1,6 @@
 ---
 title: Caope Town
 url: /caope-town/
-latitude: 
-longitude: 
+latitude: -34.132
+longitude: 18.372
 ---

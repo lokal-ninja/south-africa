@@ -1,5 +1,5 @@
 ---
 title: "Caprivi"
 url: /pretoria/caprivi/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pampierstad
 url: /pampierstad/
-latitude: -27.776666700000003
-longitude: 24.689444400000003
+latitude: -27.777
+longitude: 24.7
 ---

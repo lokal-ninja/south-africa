@@ -1,5 +1,5 @@
 ---
 title: "MC Motor Corp"
 url: /pretoria/mc-motor-corp/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pofadder
 url: /pofadder/
-latitude: -29.128333
-longitude: 19.395833
+latitude: -29.125
+longitude: 19.397
 ---

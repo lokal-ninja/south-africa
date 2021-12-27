@@ -1,5 +1,5 @@
 ---
 title: "sallys beauty institute"
 url: /roodepoort/sallys-beauty-institute/
-shop: hairdresser
+shop: Friseur
 ---

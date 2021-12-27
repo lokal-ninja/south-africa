@@ -1,5 +1,5 @@
 ---
 title: "Tunnel Tuck Shop"
 url: /pretoria/tunnel-tuck-shop/
-shop: convenience
+shop: Lebensmittel
 ---

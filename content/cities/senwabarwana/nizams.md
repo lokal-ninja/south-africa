@@ -1,5 +1,5 @@
 ---
 title: "Nizams"
 url: /senwabarwana/nizams/
-shop: supermarket
+shop: Supermarkt
 ---

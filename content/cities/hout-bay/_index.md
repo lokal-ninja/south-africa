@@ -1,6 +1,6 @@
 ---
 title: Hout Bay
 url: /hout-bay/
-latitude: -34.043093
-longitude: 18.355645000000003
+latitude: -34.034
+longitude: 18.357
 ---

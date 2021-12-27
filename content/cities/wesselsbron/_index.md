@@ -1,6 +1,6 @@
 ---
 title: Wesselsbron
 url: /wesselsbron/
-latitude: -27.853889000000002
-longitude: 26.364722
+latitude: -27.853
+longitude: 26.366
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Informatiek"
 url: /lydenburg/informatiek/
-shop: computer
+shop: Computer
 ---

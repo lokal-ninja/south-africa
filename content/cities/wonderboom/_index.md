@@ -1,6 +1,6 @@
 ---
 title: Wonderboom
 url: /wonderboom/
-latitude: -24.473422600000003
-longitude: 29.6080474
+latitude: -25.68
+longitude: 28.193
 ---

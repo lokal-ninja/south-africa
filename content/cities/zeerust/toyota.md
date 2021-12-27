@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /zeerust/toyota/
-shop: car
+shop: Autohaus
 ---

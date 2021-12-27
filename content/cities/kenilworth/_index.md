@@ -1,6 +1,6 @@
 ---
 title: Kenilworth
 url: /kenilworth/
-latitude: -28.708086400000003
-longitude: 24.785857200000002
+latitude: -33.996
+longitude: 18.469
 ---

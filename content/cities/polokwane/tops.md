@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /polokwane/tops/
-shop: alcohol
+shop: Spirituosen
 ---

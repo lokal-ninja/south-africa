@@ -1,6 +1,6 @@
 ---
 title: Burgersdorp
 url: /burgersdorp/
-latitude: -24.0066667
-longitude: 30.3047222
+latitude: -31.015
+longitude: 26.37
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grahamstown
 url: /grahamstown/
-latitude: 
-longitude: 
+latitude: -33.307
+longitude: 26.523
 ---

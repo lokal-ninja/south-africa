@@ -1,5 +1,5 @@
 ---
 title: "Mr Price"
 url: /newcastle/mr-price/
-shop: clothes
+shop: Kleidung
 ---

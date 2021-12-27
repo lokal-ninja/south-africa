@@ -1,6 +1,6 @@
 ---
 title: Windsor Glen
 url: /windsor-glen/
-latitude: -26.1144444
-longitude: 27.9752778
+latitude: -26.116
+longitude: 27.972
 ---

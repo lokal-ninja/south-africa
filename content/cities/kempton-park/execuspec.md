@@ -1,5 +1,5 @@
 ---
 title: "Execuspec"
 url: /kempton-park/execuspec/
-shop: optician
+shop: Optiker
 ---

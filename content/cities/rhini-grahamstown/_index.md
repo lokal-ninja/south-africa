@@ -1,6 +1,6 @@
 ---
 title: Rhini, Grahamstown
 url: /rhini-grahamstown/
-latitude: 
-longitude: 
+latitude: -33.29
+longitude: 26.557
 ---

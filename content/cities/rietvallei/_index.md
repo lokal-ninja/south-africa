@@ -1,6 +1,6 @@
 ---
 title: Rietvallei
 url: /rietvallei/
-latitude: -26.1978964
-longitude: 27.763178600000003
+latitude: -25.899
+longitude: 28.253
 ---

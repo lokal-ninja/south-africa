@@ -1,6 +1,6 @@
 ---
 title: Germiston
 url: /germiston/
-latitude: -26.229444
-longitude: 28.180556000000003
+latitude: -26.161
+longitude: 28.133
 ---

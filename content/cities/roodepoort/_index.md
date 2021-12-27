@@ -1,6 +1,6 @@
 ---
 title: roodepoort
 url: /roodepoort/
-latitude: 
-longitude: 
+latitude: -26.122
+longitude: 27.896
 ---

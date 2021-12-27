@@ -1,5 +1,5 @@
 ---
 title: "Warrior"
 url: /pretoria/warrior/
-shop: doityourself
+shop: Baumarkt
 ---

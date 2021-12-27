@@ -1,6 +1,6 @@
 ---
 title: Saselamani
 url: /saselamani/
-latitude: 
-longitude: 
+latitude: -22.817
+longitude: 30.903
 ---

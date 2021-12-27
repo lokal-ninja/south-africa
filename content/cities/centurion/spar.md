@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /centurion/spar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selfast"
 url: /mokopane/selfast/
-shop: clothes
+shop: Kleidung
 ---

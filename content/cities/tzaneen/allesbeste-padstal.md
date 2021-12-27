@@ -1,5 +1,5 @@
 ---
 title: "Allesbeste Padstal"
 url: /tzaneen/allesbeste-padstal/
-shop: farm
+shop: Hofladen
 ---

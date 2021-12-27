@@ -1,6 +1,6 @@
 ---
 title: Stellenbosch Farms
 url: /stellenbosch-farms/
-latitude: 
-longitude: 
+latitude: -33.866
+longitude: 18.745
 ---

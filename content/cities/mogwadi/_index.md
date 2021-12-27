@@ -1,6 +1,6 @@
 ---
 title: Mogwadi
 url: /mogwadi/
-latitude: -23.3683333
-longitude: 29.3247222
+latitude: -23.367
+longitude: 29.325
 ---

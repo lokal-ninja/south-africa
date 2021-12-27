@@ -1,6 +1,6 @@
 ---
 title: Stilfontein
 url: /stilfontein/
-latitude: -26.842989000000003
-longitude: 26.783249
+latitude: -26.825
+longitude: 26.815
 ---

@@ -1,6 +1,6 @@
 ---
 title: Baardskeerdersbos
 url: /baardskeerdersbos/
-latitude: -34.588444
-longitude: 19.570208
+latitude: -34.59
+longitude: 19.568
 ---
