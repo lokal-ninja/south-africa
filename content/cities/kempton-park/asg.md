@@ -1,5 +1,5 @@
 ---
 title: "ASG"
 url: /kempton-park/asg/
-shop: Computer
+shop: computer
 ---

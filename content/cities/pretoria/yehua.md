@@ -1,5 +1,5 @@
 ---
 title: "YeHua"
 url: /pretoria/yehua/
-shop: Friseur
+shop: hairdresser
 ---

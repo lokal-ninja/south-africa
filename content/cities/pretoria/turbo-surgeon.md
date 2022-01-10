@@ -1,5 +1,5 @@
 ---
 title: "Turbo Surgeon"
 url: /pretoria/turbo-surgeon/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetPlus+"
 url: /gordons-bay/petplus/
-shop: Tiere
+shop: pet
 ---

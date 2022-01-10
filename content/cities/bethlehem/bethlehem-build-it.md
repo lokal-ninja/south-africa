@@ -1,5 +1,5 @@
 ---
 title: "Bethlehem Build it"
 url: /bethlehem/bethlehem-build-it/
-shop: Baumarkt
+shop: doityourself
 ---

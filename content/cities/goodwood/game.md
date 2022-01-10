@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /goodwood/game/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bakwena Motor Sales"
 url: /pretoria/bakwena-motor-sales/
-shop: Autohaus
+shop: car
 ---

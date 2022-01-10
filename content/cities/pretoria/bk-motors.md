@@ -1,5 +1,5 @@
 ---
 title: "BK Motors"
 url: /pretoria/bk-motors/
-shop: Autoteile
+shop: car parts
 ---

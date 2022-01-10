@@ -1,5 +1,5 @@
 ---
 title: "Tent Technics"
 url: /polokwane/tent-technics/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evergreen"
 url: /pretoria/evergreen/
-shop: Autoteile
+shop: car parts
 ---

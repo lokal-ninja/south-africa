@@ -1,5 +1,5 @@
 ---
 title: "Strand Fitment Centre"
 url: /strand/strand-fitment-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

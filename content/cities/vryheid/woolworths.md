@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /vryheid/woolworths/
-shop: Kleidung
+shop: clothes
 ---

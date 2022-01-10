@@ -1,5 +1,5 @@
 ---
 title: "Freeway Autobody"
 url: /johanesburg/freeway-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

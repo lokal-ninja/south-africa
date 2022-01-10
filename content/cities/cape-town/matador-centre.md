@@ -1,5 +1,5 @@
 ---
 title: "Matador Centre"
 url: /cape-town/matador-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

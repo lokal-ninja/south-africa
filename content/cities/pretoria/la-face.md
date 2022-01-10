@@ -1,5 +1,5 @@
 ---
 title: "La Face"
 url: /pretoria/la-face/
-shop: Friseur
+shop: hairdresser
 ---

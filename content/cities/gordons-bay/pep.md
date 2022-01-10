@@ -1,5 +1,5 @@
 ---
 title: "Pep"
 url: /gordons-bay/pep/
-shop: Kleidung
+shop: clothes
 ---

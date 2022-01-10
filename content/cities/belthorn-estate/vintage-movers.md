@@ -1,5 +1,5 @@
 ---
 title: "Vintage Movers"
 url: /belthorn-estate/vintage-movers/
-shop: Fahrrad
+shop: bicycle
 ---

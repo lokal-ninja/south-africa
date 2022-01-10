@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /johannesburg/bmw/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquor City"
 url: /pretoria/liquor-city-3/
-shop: Spirituosen
+shop: alcohol
 ---

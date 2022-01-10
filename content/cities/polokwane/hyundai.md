@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /polokwane/hyundai/
-shop: Autohaus
+shop: car
 ---

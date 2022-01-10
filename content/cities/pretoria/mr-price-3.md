@@ -1,5 +1,5 @@
 ---
 title: "Mr Price"
 url: /pretoria/mr-price-3/
-shop: Kleidung
+shop: clothes
 ---

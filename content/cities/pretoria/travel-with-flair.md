@@ -1,5 +1,5 @@
 ---
 title: "Travel with Flair"
 url: /pretoria/travel-with-flair/
-shop: Reisebüro
+shop: travel agency
 ---

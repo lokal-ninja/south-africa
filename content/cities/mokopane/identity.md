@@ -1,5 +1,5 @@
 ---
 title: "Identity"
 url: /mokopane/identity/
-shop: Kleidung
+shop: clothes
 ---

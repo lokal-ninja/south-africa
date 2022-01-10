@@ -1,5 +1,5 @@
 ---
 title: "Mr Price"
 url: /vryheid/mr-price/
-shop: Kleidung
+shop: clothes
 ---

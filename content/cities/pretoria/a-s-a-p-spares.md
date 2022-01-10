@@ -1,5 +1,5 @@
 ---
 title: "A.S.A.P Spares"
 url: /pretoria/a-s-a-p-spares/
-shop: Autoteile
+shop: car parts
 ---

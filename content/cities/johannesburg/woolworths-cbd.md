@@ -1,5 +1,5 @@
 ---
 title: "Woolworths CBD"
 url: /johannesburg/woolworths-cbd/
-shop: Warenhaus
+shop: department store
 ---

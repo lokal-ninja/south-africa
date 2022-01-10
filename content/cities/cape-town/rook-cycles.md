@@ -1,5 +1,5 @@
 ---
 title: "Rook Cycles"
 url: /cape-town/rook-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

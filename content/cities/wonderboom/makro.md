@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /wonderboom/makro/
-shop: Großhandel
+shop: wholesale
 ---

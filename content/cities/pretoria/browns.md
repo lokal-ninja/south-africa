@@ -1,5 +1,5 @@
 ---
 title: "Browns"
 url: /pretoria/browns/
-shop: Schmuck
+shop: jewelry
 ---

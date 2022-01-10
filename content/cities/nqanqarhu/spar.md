@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /nqanqarhu/spar/
-shop: Supermarkt
+shop: supermarket
 ---

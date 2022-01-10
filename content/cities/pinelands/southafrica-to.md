@@ -1,5 +1,5 @@
 ---
 title: "SouthAfrica.to"
 url: /pinelands/southafrica-to/
-shop: Reisebüro
+shop: travel agency
 ---

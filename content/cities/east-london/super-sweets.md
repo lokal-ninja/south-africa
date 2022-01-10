@@ -1,5 +1,5 @@
 ---
 title: "Super Sweets"
 url: /east-london/super-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

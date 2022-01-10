@@ -1,5 +1,5 @@
 ---
 title: "Cakeboss"
 url: /mogwadi/cakeboss/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ackermans"
 url: /bethlehem/ackermans/
-shop: Kleidung
+shop: clothes
 ---

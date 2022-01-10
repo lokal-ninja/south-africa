@@ -1,5 +1,5 @@
 ---
 title: "VEE's"
 url: /mossel-bay/vees/
-shop: Videothek
+shop: video
 ---

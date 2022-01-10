@@ -1,5 +1,5 @@
 ---
 title: "Furnmart"
 url: /polokwane/furnmart/
-shop: Möbel
+shop: furniture
 ---

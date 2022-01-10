@@ -1,5 +1,5 @@
 ---
 title: "HI-Q"
 url: /vryheid/hi-q/
-shop: Autowerkstatt
+shop: car repair
 ---

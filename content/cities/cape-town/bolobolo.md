@@ -1,5 +1,5 @@
 ---
 title: "Bolo'Bolo"
 url: /cape-town/bolobolo/
-shop: Bücher
+shop: books
 ---

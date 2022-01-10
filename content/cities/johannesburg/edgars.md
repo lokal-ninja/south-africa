@@ -1,5 +1,5 @@
 ---
 title: "Edgars"
 url: /johannesburg/edgars/
-shop: Warenhaus
+shop: department store
 ---

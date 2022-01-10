@@ -1,5 +1,5 @@
 ---
 title: "Pits Supermarket"
 url: /mogwadi/pits-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WKG"
 url: /pretoria/wkg/
-shop: Autowerkstatt
+shop: car repair
 ---

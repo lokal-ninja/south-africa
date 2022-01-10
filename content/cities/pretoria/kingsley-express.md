@@ -1,5 +1,5 @@
 ---
 title: "Kingsley Express"
 url: /pretoria/kingsley-express/
-shop: Lebensmittel
+shop: convenience
 ---

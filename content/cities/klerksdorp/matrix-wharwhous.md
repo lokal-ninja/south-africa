@@ -1,5 +1,5 @@
 ---
 title: "Matrix wharwhous"
 url: /klerksdorp/matrix-wharwhous/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House Of Superior"
 url: /pretoria/house-of-superior/
-shop: Kleidung
+shop: clothes
 ---

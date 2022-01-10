@@ -1,5 +1,5 @@
 ---
 title: "MTN"
 url: /vryheid/mtn/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /pretoria/renault/
-shop: Autohaus
+shop: car
 ---

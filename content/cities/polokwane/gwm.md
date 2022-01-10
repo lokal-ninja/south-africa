@@ -1,5 +1,5 @@
 ---
 title: "GWM"
 url: /polokwane/gwm/
-shop: Autohaus
+shop: car
 ---

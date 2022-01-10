@@ -1,5 +1,5 @@
 ---
 title: "Jet Radio Car Airconditioners"
 url: /pretoria/jet-radio-car-airconditioners/
-shop: Autowerkstatt
+shop: car repair
 ---

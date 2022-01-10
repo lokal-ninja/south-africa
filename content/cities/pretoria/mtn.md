@@ -1,5 +1,5 @@
 ---
 title: "MTN"
 url: /pretoria/mtn/
-shop: Handy
+shop: mobile phone
 ---

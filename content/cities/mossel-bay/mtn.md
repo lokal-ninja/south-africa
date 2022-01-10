@@ -1,5 +1,5 @@
 ---
 title: "MTN"
 url: /mossel-bay/mtn/
-shop: Handy
+shop: mobile phone
 ---

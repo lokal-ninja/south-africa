@@ -1,5 +1,5 @@
 ---
 title: "Bolllies"
 url: /pretoria/bolllies/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supa Mag Repairs"
 url: /pretoria/supa-mag-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

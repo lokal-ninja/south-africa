@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /gordons-bay/specsavers/
-shop: Optiker
+shop: optician
 ---

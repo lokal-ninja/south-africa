@@ -1,5 +1,5 @@
 ---
 title: "Doves"
 url: /mossel-bay/doves/
-shop: Bestattungen
+shop: funeral directors
 ---

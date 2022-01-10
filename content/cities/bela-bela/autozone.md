@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bela-bela/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clicks"
 url: /johannesburg/clicks/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E Bargain Store"
 url: /pretoria/e-bargain-store/
-shop: Lebensmittel
+shop: convenience
 ---

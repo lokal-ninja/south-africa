@@ -1,5 +1,5 @@
 ---
 title: "Wannenburg Onderdele"
 url: /pretoria/wannenburg-onderdele/
-shop: Autoteile
+shop: car parts
 ---

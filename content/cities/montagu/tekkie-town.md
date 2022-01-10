@@ -1,5 +1,5 @@
 ---
 title: "Tekkie Town"
 url: /montagu/tekkie-town/
-shop: Schuhe
+shop: shoes
 ---

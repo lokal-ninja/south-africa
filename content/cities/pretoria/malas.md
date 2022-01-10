@@ -1,5 +1,5 @@
 ---
 title: "Malas"
 url: /pretoria/malas/
-shop: Autoteile
+shop: car parts
 ---

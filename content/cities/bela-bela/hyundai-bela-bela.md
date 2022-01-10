@@ -1,5 +1,5 @@
 ---
 title: "Hyundai Bela-Bela"
 url: /bela-bela/hyundai-bela-bela/
-shop: Autohaus
+shop: car
 ---

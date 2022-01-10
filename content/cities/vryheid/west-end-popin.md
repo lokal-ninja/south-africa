@@ -1,5 +1,5 @@
 ---
 title: "West End PopIn"
 url: /vryheid/west-end-popin/
-shop: Lebensmittel
+shop: convenience
 ---

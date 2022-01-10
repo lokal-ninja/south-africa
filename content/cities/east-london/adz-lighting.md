@@ -1,5 +1,5 @@
 ---
 title: "ADZ Lighting"
 url: /east-london/adz-lighting/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mutha Hair Salon"
 url: /pretoria/mutha-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

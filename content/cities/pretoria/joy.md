@@ -1,5 +1,5 @@
 ---
 title: "Joy"
 url: /pretoria/joy/
-shop: Friseur
+shop: hairdresser
 ---

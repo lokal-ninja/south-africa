@@ -1,5 +1,5 @@
 ---
 title: "Shopping Mall"
 url: /cape-town/shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

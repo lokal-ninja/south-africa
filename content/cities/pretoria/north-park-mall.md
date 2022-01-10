@@ -1,5 +1,5 @@
 ---
 title: "North Park Mall"
 url: /pretoria/north-park-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

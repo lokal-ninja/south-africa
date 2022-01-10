@@ -1,5 +1,5 @@
 ---
 title: "Savalot Superstore"
 url: /uitenhage/savalot-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

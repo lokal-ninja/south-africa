@@ -1,5 +1,5 @@
 ---
 title: "Goldwagen"
 url: /soweto/goldwagen/
-shop: Autoteile
+shop: car parts
 ---

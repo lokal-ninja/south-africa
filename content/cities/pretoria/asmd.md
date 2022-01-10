@@ -1,5 +1,5 @@
 ---
 title: "ASMD"
 url: /pretoria/asmd/
-shop: Autoteile
+shop: car parts
 ---

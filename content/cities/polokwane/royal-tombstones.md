@@ -1,5 +1,5 @@
 ---
 title: "Royal Tombstones"
 url: /polokwane/royal-tombstones/
-shop: Bestattungen
+shop: funeral directors
 ---

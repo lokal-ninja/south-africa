@@ -1,5 +1,5 @@
 ---
 title: "Henry Motors"
 url: /pretoria/henry-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

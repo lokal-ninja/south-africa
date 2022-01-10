@@ -1,5 +1,5 @@
 ---
 title: "Blue Bottle Liquor"
 url: /pretoria/blue-bottle-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

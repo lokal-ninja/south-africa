@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /pretoria/oasis/
-shop: Wasser
+shop: water
 ---

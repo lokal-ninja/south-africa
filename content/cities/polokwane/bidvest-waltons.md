@@ -1,5 +1,5 @@
 ---
 title: "Bidvest Waltons"
 url: /polokwane/bidvest-waltons/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucerna"
 url: /mossel-bay/lucerna/
-shop: Friseur
+shop: hairdresser
 ---

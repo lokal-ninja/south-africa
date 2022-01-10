@@ -1,5 +1,5 @@
 ---
 title: "Copy N Print"
 url: /lenasia/copy-n-print/
-shop: Schreibwaren
+shop: office supplies
 ---

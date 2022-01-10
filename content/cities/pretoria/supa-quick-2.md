@@ -1,5 +1,5 @@
 ---
 title: "Supa Quick"
 url: /pretoria/supa-quick-2/
-shop: Autowerkstatt
+shop: car repair
 ---

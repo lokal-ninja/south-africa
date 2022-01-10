@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Plaza"
 url: /phoenix/phoenix-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

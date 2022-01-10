@@ -1,5 +1,5 @@
 ---
 title: "Vuma Auto Spares"
 url: /pretoria/vuma-auto-spares/
-shop: Autoteile
+shop: car parts
 ---

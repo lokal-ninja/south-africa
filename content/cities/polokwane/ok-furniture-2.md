@@ -1,5 +1,5 @@
 ---
 title: "OK Furniture"
 url: /polokwane/ok-furniture-2/
-shop: Möbel
+shop: furniture
 ---

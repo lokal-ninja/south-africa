@@ -1,5 +1,5 @@
 ---
 title: "Truworths"
 url: /newcastle/truworths/
-shop: Modehaus
+shop: boutique
 ---

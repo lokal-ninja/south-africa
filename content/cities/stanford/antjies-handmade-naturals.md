@@ -1,5 +1,5 @@
 ---
 title: "Antjie's Handmade Naturals"
 url: /stanford/antjies-handmade-naturals/
-shop: Andenken
+shop: gift
 ---

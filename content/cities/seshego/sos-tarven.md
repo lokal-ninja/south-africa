@@ -1,5 +1,5 @@
 ---
 title: "SOS Tarven."
 url: /seshego/sos-tarven/
-shop: Spirituosen
+shop: alcohol
 ---

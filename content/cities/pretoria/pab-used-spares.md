@@ -1,5 +1,5 @@
 ---
 title: "Pab Used Spares"
 url: /pretoria/pab-used-spares/
-shop: Autoteile
+shop: car parts
 ---

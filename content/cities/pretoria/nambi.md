@@ -1,5 +1,5 @@
 ---
 title: "Nambi"
 url: /pretoria/nambi/
-shop: Dorfladen
+shop: general
 ---

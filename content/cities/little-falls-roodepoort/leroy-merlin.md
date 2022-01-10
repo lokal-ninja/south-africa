@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /little-falls-roodepoort/leroy-merlin/
-shop: Baumarkt
+shop: doityourself
 ---

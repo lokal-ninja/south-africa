@@ -1,5 +1,5 @@
 ---
 title: "Designer Chair Warehouse"
 url: /cape-town/designer-chair-warehouse/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Nu Shop"
 url: /vereeniging/the-nu-shop/
-shop: Textil
+shop: fabric
 ---

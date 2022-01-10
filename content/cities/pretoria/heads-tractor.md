@@ -1,5 +1,5 @@
 ---
 title: "Heads Tractor"
 url: /pretoria/heads-tractor/
-shop: Autohaus
+shop: car
 ---

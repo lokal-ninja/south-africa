@@ -1,5 +1,5 @@
 ---
 title: "Jay Tyres"
 url: /pretoria/jay-tyres/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stationers"
 url: /johannesburg/stationers/
-shop: Schreibwaren
+shop: office supplies
 ---

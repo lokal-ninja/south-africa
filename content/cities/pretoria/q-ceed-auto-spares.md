@@ -1,5 +1,5 @@
 ---
 title: "Q-Ceed Auto Spares"
 url: /pretoria/q-ceed-auto-spares/
-shop: Autoteile
+shop: car parts
 ---

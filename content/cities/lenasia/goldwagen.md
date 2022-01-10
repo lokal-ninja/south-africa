@@ -1,5 +1,5 @@
 ---
 title: "Goldwagen"
 url: /lenasia/goldwagen/
-shop: Autoteile
+shop: car parts
 ---

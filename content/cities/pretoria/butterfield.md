@@ -1,5 +1,5 @@
 ---
 title: "Butterfield"
 url: /pretoria/butterfield/
-shop: Bäckerei
+shop: bakery
 ---

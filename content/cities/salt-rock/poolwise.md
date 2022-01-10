@@ -1,5 +1,5 @@
 ---
 title: "Poolwise"
 url: /salt-rock/poolwise/
-shop: Pool
+shop: swimming pool
 ---

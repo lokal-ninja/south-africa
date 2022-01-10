@@ -1,5 +1,5 @@
 ---
 title: "Pretoria Self Storage"
 url: /pretoria/pretoria-self-storage/
-shop: Mieten
+shop: storage rental
 ---

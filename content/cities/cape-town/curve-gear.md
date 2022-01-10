@@ -1,5 +1,5 @@
 ---
 title: "Curve Gear"
 url: /cape-town/curve-gear/
-shop: Kleidung
+shop: clothes
 ---

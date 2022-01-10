@@ -1,5 +1,5 @@
 ---
 title: "InspectaCar"
 url: /pretoria/inspectacar/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pep"
 url: /mogwadi/pep/
-shop: Kleidung
+shop: clothes
 ---

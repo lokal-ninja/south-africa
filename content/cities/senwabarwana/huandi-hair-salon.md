@@ -1,5 +1,5 @@
 ---
 title: "Huandi Hair Salon"
 url: /senwabarwana/huandi-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

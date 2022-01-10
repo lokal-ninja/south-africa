@@ -1,5 +1,5 @@
 ---
 title: "Sabrina's"
 url: /bromhof/sabrinas/
-shop: Friseur
+shop: hairdresser
 ---

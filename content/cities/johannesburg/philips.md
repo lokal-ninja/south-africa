@@ -1,5 +1,5 @@
 ---
 title: "Philips"
 url: /johannesburg/philips/
-shop: Sanitätshaus
+shop: medical supply
 ---

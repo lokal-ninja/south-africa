@@ -1,5 +1,5 @@
 ---
 title: "Kestell Bottle Store"
 url: /kestell/kestell-bottle-store/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlas Tyres"
 url: /pretoria/atlas-tyres/
-shop: Reifen
+shop: tyres
 ---

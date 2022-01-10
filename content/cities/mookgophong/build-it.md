@@ -1,5 +1,5 @@
 ---
 title: "Build It"
 url: /mookgophong/build-it/
-shop: Eisenwaren
+shop: hardware
 ---

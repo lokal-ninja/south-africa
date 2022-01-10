@@ -1,5 +1,5 @@
 ---
 title: "Good Cheap Clothing"
 url: /pretoria/good-cheap-clothing/
-shop: Kleidung
+shop: clothes
 ---

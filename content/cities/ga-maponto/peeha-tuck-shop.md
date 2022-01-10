@@ -1,5 +1,5 @@
 ---
 title: "Peeha Tuck Shop"
 url: /ga-maponto/peeha-tuck-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /pretoria/checkers/
-shop: Supermarkt
+shop: supermarket
 ---

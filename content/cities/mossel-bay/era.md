@@ -1,5 +1,5 @@
 ---
 title: "ERA"
 url: /mossel-bay/era/
-shop: Immobilien
+shop: estate agent
 ---

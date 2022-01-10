@@ -1,5 +1,5 @@
 ---
 title: "Marito Slaghuis"
 url: /pretoria/marito-slaghuis/
-shop: Metzgerei
+shop: butcher
 ---

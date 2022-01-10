@@ -1,5 +1,5 @@
 ---
 title: "Isigidi Medical Supplies"
 url: /johannesburg/isigidi-medical-supplies/
-shop: Sanitätshaus
+shop: medical supply
 ---
