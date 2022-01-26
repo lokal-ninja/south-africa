@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Express"
-url: /salt-river/bicycle-express/
+url: /cape-town/bicycle-express/
 shop: bicycle
 ---
