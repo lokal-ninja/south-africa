@@ -1,6 +1,6 @@
 ---
 title: Humansdorp
 url: /humansdorp/
-latitude: -34.021
-longitude: 24.745
+latitude: -34.025
+longitude: 24.753
 ---
