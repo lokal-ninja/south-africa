@@ -1,6 +1,6 @@
 ---
 title: Gqeberha
 url: /gqeberha/
-latitude: -33.96
-longitude: 25.602
+latitude: -33.943
+longitude: 25.57
 ---
