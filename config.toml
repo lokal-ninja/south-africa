@@ -1,4 +1,4 @@
-baseURL = "https://za.shoogle.net/south-africa"
+baseURL = "https://za.shoogle.net/south-africa/"
 languageCode = "en"
 title = "South Africa"
 theme = "ln-base"
