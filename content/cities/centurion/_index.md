@@ -1,6 +1,6 @@
 ---
 title: Centurion
 url: /centurion/
-latitude: -25.856
-longitude: 28.217
+latitude: -25.862
+longitude: 28.191
 ---
