@@ -1,6 +1,6 @@
 ---
 title: Durban
 url: /durban/
-latitude: -29.855
-longitude: 30.997
+latitude: -29.93
+longitude: 31.002
 ---
