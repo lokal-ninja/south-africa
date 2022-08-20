@@ -1,6 +1,6 @@
 ---
 title: Strand
 url: /strand/
-latitude: -34.117
-longitude: 18.831
+latitude: -34.122
+longitude: 18.837
 ---

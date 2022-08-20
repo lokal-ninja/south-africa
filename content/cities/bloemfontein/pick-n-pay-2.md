@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /port-elizabeth/pick-n-pay/
+url: /bloemfontein/pick-n-pay-2/
 shop: supermarket
 ---
