@@ -1,6 +1,6 @@
 ---
 title: Mthatha
 url: /mthatha/
-latitude: -31.595
-longitude: 28.786
+latitude: -31.593
+longitude: 28.79
 ---
