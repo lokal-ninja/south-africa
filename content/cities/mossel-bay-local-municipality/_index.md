@@ -1,6 +1,6 @@
 ---
 title: Mossel Bay Local Municipality
 url: /mossel-bay-local-municipality/
-latitude: -34.171
-longitude: 22.114
+latitude: -34.17
+longitude: 22.117
 ---
