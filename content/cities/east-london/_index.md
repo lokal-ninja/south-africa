@@ -1,6 +1,6 @@
 ---
 title: East London
 url: /east-london/
-latitude: -33.016
-longitude: 27.913
+latitude: -33.035
+longitude: 27.866
 ---
