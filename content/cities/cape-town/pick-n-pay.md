@@ -1,5 +1,5 @@
 ---
-title: "Pick 'n Pay"
+title: "Pick n Pay"
 url: /cape-town/pick-n-pay/
-shop: convenience
+shop: supermarket
 ---

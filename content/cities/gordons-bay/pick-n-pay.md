@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /gordon-s-bay/pick-n-pay/
+url: /gordons-bay/pick-n-pay/
 shop: supermarket
 ---
