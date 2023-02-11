@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /bloemfontein/pick-n-pay-2/
+url: /bloemfontein/pick-n-pay/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Port"
-url: /pretoria/hair-port-2/
+url: /pretoria/hair-port/
 shop: hairdresser
 ---

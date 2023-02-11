@@ -1,5 +1,5 @@
 ---
 title: "Pep Cell"
-url: /senwabarwana/pep-cell-2/
+url: /senwabarwana/pep-cell/
 shop: mobile phone
 ---

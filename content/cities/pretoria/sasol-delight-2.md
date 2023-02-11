@@ -1,5 +1,5 @@
 ---
 title: "Sasol Delight"
-url: /pretoria/sasol-delight-2/
+url: /pretoria/sasol-delight/
 shop: convenience
 ---

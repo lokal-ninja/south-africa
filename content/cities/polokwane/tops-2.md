@@ -1,5 +1,5 @@
 ---
 title: "Tops"
-url: /polokwane/tops-2/
+url: /polokwane/tops/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allen Joss Ford"
-url: /pretoria/allen-joss-ford-2/
+url: /pretoria/allen-joss-ford/
 shop: car
 ---

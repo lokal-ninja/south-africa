@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
-url: /pretoria/levis-2/
+url: /pretoria/levis/
 shop: clothes
 ---

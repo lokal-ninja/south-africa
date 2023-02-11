@@ -1,5 +1,5 @@
 ---
 title: "Markham"
-url: /pretoria/markham-2/
+url: /pretoria/markham/
 shop: clothes
 ---

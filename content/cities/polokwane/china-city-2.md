@@ -1,5 +1,5 @@
 ---
 title: "China City"
-url: /polokwane/china-city-2/
+url: /polokwane/china-city/
 shop: mall
 ---

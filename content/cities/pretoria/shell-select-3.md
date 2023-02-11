@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
-url: /pretoria/shell-select-3/
+url: /pretoria/shell-select/
 shop: convenience
 ---
