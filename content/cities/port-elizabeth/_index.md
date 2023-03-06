@@ -1,6 +1,6 @@
 ---
 title: Port Elizabeth
 url: /port-elizabeth/
-latitude: -33.97
-longitude: 25.527
+latitude: -33.986
+longitude: 25.485
 ---
