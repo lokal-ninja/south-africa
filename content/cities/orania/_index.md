@@ -1,6 +1,6 @@
 ---
 title: Orania
 url: /orania/
-latitude: -29.815
+latitude: -29.813
 longitude: 24.41
 ---
