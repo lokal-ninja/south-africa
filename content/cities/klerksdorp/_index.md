@@ -1,6 +1,6 @@
 ---
 title: Klerksdorp
 url: /klerksdorp/
-latitude: -26.861
-longitude: 26.668
+latitude: -26.858
+longitude: 26.643
 ---
