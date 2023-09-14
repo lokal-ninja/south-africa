@@ -1,5 +1,5 @@
 ---
 title: "Goldwagen"
-url: /pretoria/goldwagen/
+url: /pretoria/goldwagen-paul-kruger-street/
 shop: car
 ---

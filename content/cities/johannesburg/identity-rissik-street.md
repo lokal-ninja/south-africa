@@ -1,5 +1,5 @@
 ---
 title: "Identity"
-url: /johannesburg/identity/
+url: /johannesburg/identity-rissik-street/
 shop: clothes
 ---

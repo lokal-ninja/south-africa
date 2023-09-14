@@ -1,5 +1,5 @@
 ---
 title: "Spitz"
-url: /johannesburg/spitz/
+url: /johannesburg/spitz-plein-street/
 shop: shoes
 ---

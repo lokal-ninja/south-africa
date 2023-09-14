@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
-url: /polokwane/superspar/
+url: /polokwane/superspar-munnik-avenue/
 shop: supermarket
 ---

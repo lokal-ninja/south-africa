@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
-url: /pretoria/checkers/
+url: /pretoria/checkers-kirkness-street/
 shop: supermarket
 ---

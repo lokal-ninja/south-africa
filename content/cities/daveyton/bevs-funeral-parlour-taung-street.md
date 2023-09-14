@@ -1,5 +1,5 @@
 ---
 title: "Bevs Funeral Parlour"
-url: /daveyton/bevs-funeral-parlour/
+url: /daveyton/bevs-funeral-parlour-taung-street/
 shop: funeral directors
 ---

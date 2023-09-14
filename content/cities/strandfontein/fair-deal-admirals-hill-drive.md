@@ -1,5 +1,5 @@
 ---
 title: "Fair Deal"
-url: /strandfontein/fair-deal/
+url: /strandfontein/fair-deal-admirals-hill-drive/
 shop: shop
 ---

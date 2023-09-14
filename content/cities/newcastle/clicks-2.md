@@ -1,5 +1,5 @@
 ---
 title: "Clicks"
-url: /newcastle/clicks/
+url: /newcastle/clicks-2/
 shop: chemist
 ---

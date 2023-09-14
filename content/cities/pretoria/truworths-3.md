@@ -1,5 +1,5 @@
 ---
 title: "Truworths"
-url: /pretoria/truworths/
+url: /pretoria/truworths-3/
 shop: clothes
 ---

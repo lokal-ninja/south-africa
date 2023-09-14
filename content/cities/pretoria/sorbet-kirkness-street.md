@@ -1,5 +1,5 @@
 ---
 title: "Sorbet"
-url: /pretoria/sorbet/
+url: /pretoria/sorbet-kirkness-street/
 shop: beauty
 ---

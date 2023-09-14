@@ -1,5 +1,5 @@
 ---
 title: "Adult World"
-url: /cape-town/adult-world/
+url: /cape-town/adult-world-voortrekker-road/
 shop: erotic
 ---

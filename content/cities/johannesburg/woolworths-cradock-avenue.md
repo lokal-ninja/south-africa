@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
-url: /johannesburg/woolworths/
+url: /johannesburg/woolworths-cradock-avenue/
 shop: clothes
 ---

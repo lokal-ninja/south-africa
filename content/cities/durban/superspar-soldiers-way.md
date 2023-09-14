@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
-url: /durban/superspar/
+url: /durban/superspar-soldiers-way/
 shop: supermarket
 ---

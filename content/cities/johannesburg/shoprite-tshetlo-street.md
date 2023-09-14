@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
-url: /johannesburg/shoprite/
+url: /johannesburg/shoprite-tshetlo-street/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supa Quick"
-url: /johannesburg/supa-quick/
+url: /johannesburg/supa-quick-harry-street/
 shop: tyres
 ---

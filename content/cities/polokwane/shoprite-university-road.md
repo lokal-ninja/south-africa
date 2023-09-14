@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
-url: /polokwane/shoprite/
+url: /polokwane/shoprite-university-road/
 shop: supermarket
 ---

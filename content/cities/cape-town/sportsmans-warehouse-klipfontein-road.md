@@ -1,5 +1,5 @@
 ---
 title: "Sportsman's Warehouse"
-url: /cape-town/sportsmans-warehouse/
+url: /cape-town/sportsmans-warehouse-klipfontein-road/
 shop: sports
 ---

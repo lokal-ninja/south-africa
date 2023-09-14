@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
-url: /cape-town/checkers/
+url: /cape-town/checkers-wood-drive/
 shop: supermarket
 ---
