@@ -1,6 +1,6 @@
 ---
 title: Polokwane
 url: /polokwane/
-latitude: -23.902
-longitude: 29.445
+latitude: -23.897
+longitude: 29.447
 ---
