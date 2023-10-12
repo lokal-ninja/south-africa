@@ -1,5 +1,5 @@
 ---
 title: "Baychem Pharmacy"
-url: /gordon-s-bay/baychem-pharmacy/
+url: /gordons-bay/baychem-pharmacy/
 shop: chemist
 ---

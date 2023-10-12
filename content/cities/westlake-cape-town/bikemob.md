@@ -1,5 +1,5 @@
 ---
 title: "BikeMob"
-url: /cape-town/bikemob/
+url: /westlake-cape-town/bikemob/
 shop: bicycle
 ---
