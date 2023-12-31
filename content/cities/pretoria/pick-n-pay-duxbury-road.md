@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /pretoria/pick-n-pay-2/
+url: /pretoria/pick-n-pay-duxbury-road/
 shop: supermarket
 ---
