@@ -1,5 +1,5 @@
 ---
 title: "Game"
-url: /johannesburg/game/
+url: /cape-town/game/
 shop: supermarket
 ---

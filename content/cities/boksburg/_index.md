@@ -1,6 +1,6 @@
 ---
 title: Boksburg
 url: /boksburg/
-latitude: -26.259
-longitude: 28.271
+latitude: -26.182
+longitude: 28.24
 ---

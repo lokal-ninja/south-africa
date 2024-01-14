@@ -1,6 +1,6 @@
 ---
 title: George
 url: /george/
-latitude: -33.984
-longitude: 22.504
+latitude: -33.958
+longitude: 22.466
 ---
