@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /polokwane/pick-n-pay-rissik-street/
+url: /polokwane/pick-n-pay-2/
 shop: supermarket
 ---
