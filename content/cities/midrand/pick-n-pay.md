@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /port-elizabeth/pick-n-pay-church-road/
+url: /midrand/pick-n-pay/
 shop: supermarket
 ---
