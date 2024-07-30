@@ -1,6 +1,6 @@
 ---
 title: Mtubatuba
 url: /mtubatuba/
-latitude: -28.415
-longitude: 32.193
+latitude: -28.413
+longitude: 32.187
 ---
