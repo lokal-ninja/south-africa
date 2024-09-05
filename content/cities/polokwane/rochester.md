@@ -1,5 +1,5 @@
 ---
 title: "Rochester"
 url: /polokwane/rochester/
-shop: furniture
+shop: Möbel
 ---

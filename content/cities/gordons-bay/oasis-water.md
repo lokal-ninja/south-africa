@@ -1,5 +1,5 @@
 ---
 title: "Oasis Water"
 url: /gordons-bay/oasis-water/
-shop: water
+shop: Wasser
 ---

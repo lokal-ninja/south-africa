@@ -1,5 +1,5 @@
 ---
 title: "Springbok Information Systems"
 url: /plumstead/springbok-information-systems/
-shop: computer
+shop: Computer
 ---

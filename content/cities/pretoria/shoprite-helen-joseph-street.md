@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /pretoria/shoprite-helen-joseph-street/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /boksburg/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

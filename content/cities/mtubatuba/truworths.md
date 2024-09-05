@@ -1,5 +1,5 @@
 ---
 title: "Truworths"
 url: /mtubatuba/truworths/
-shop: clothes
+shop: Kleidung
 ---

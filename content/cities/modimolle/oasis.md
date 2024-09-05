@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /modimolle/oasis/
-shop: water
+shop: Wasser
 ---

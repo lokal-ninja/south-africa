@@ -1,5 +1,5 @@
 ---
 title: "Rage"
 url: /mtubatuba/rage/
-shop: clothes
+shop: Kleidung
 ---

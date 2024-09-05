@@ -1,5 +1,5 @@
 ---
 title: "Karoolus"
 url: /orania/karoolus/
-shop: convenience
+shop: Lebensmittel
 ---

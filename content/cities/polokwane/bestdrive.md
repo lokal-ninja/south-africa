@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /polokwane/bestdrive/
-shop: tyres
+shop: Reifen
 ---

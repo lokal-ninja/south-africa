@@ -1,5 +1,5 @@
 ---
 title: "1 Plus"
 url: /pretoria/1-plus/
-shop: convenience
+shop: Lebensmittel
 ---

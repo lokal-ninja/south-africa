@@ -1,5 +1,5 @@
 ---
 title: "Rare Earth Crystals"
 url: /durban/rare-earth-crystals/
-shop: shop
+shop: Allgemein
 ---

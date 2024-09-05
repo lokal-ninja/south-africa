@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /pretoria/lovisa/
-shop: jewelry
+shop: Schmuck
 ---

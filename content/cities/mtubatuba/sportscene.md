@@ -1,5 +1,5 @@
 ---
 title: "sportscene"
 url: /mtubatuba/sportscene/
-shop: clothes
+shop: Kleidung
 ---

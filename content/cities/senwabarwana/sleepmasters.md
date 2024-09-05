@@ -1,5 +1,5 @@
 ---
 title: "Sleepmasters"
 url: /senwabarwana/sleepmasters/
-shop: bed
+shop: Betten
 ---

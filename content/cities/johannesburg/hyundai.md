@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /johannesburg/hyundai/
-shop: car
+shop: Autohaus
 ---

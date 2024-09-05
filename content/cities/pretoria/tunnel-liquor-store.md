@@ -1,5 +1,5 @@
 ---
 title: "Tunnel Liquor Store"
 url: /pretoria/tunnel-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /emalahleni/woolworths/
-shop: clothes
+shop: Kleidung
 ---

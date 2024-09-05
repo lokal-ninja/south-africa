@@ -1,5 +1,5 @@
 ---
 title: "Agrimark"
 url: /porterville/agrimark/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

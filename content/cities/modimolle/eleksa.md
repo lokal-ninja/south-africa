@@ -1,5 +1,5 @@
 ---
 title: "ElekSA"
 url: /modimolle/eleksa/
-shop: motorcycle
+shop: Motorrad
 ---

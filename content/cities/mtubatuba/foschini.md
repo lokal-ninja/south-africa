@@ -1,5 +1,5 @@
 ---
 title: "Foschini"
 url: /mtubatuba/foschini/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /cape-town/giant/
-shop: bicycle
+shop: Fahrrad
 ---

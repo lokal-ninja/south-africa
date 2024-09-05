@@ -1,5 +1,5 @@
 ---
 title: "Orion Hardeware"
 url: /orania/orion-hardeware/
-shop: hardware
+shop: Eisenwaren
 ---

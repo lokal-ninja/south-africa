@@ -1,5 +1,5 @@
 ---
 title: "Intaba Crafters"
 url: /hogsback/intaba-crafters/
-shop: gift
+shop: Andenken
 ---

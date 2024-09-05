@@ -1,5 +1,5 @@
 ---
 title: "Wilco Groep"
 url: /orania/wilco-groep/
-shop: hardware
+shop: Eisenwaren
 ---

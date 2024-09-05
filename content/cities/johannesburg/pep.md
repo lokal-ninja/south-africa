@@ -1,5 +1,5 @@
 ---
 title: "Pep"
 url: /johannesburg/pep/
-shop: clothes
+shop: Kleidung
 ---

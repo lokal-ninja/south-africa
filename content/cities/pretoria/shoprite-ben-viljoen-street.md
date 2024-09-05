@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /pretoria/shoprite-ben-viljoen-street/
-shop: supermarket
+shop: Supermarkt
 ---

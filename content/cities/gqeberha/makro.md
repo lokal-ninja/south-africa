@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /gqeberha/makro/
-shop: wholesale
+shop: Großhandel
 ---

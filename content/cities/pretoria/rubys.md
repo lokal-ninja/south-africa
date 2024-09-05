@@ -1,5 +1,5 @@
 ---
 title: "Rubys"
 url: /pretoria/rubys/
-shop: craft
+shop: Basteln
 ---

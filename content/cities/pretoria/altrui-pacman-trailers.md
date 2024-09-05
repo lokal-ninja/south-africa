@@ -1,5 +1,5 @@
 ---
 title: "Altrui Pacman Trailers"
 url: /pretoria/altrui-pacman-trailers/
-shop: caravan
+shop: Wohnwagen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ackermans"
 url: /johannesburg/ackermans/
-shop: clothes
+shop: Kleidung
 ---

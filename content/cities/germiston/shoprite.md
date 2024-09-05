@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /germiston/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

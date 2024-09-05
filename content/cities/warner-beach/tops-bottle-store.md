@@ -1,5 +1,5 @@
 ---
 title: "Tops (Bottle Store)"
 url: /warner-beach/tops-bottle-store/
-shop: alcohol
+shop: Spirituosen
 ---

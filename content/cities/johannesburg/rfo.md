@@ -1,5 +1,5 @@
 ---
 title: "RFO"
 url: /johannesburg/rfo/
-shop: clothes
+shop: Kleidung
 ---

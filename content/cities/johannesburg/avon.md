@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /johannesburg/avon/
-shop: beauty
+shop: Kosmetik
 ---

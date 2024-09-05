@@ -1,5 +1,5 @@
 ---
 title: "Selfast"
 url: /mtubatuba/selfast/
-shop: clothes
+shop: Kleidung
 ---

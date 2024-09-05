@@ -1,5 +1,5 @@
 ---
 title: "Ackermans"
 url: /senwabarwana/ackermans/
-shop: clothes
+shop: Kleidung
 ---

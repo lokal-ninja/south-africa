@@ -1,5 +1,5 @@
 ---
 title: "Agri Deli"
 url: /bela-bela/agri-deli/
-shop: butcher
+shop: Metzgerei
 ---

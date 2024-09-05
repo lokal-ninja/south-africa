@@ -1,5 +1,5 @@
 ---
 title: "Knapsak"
 url: /orania/knapsak/
-shop: general
+shop: Dorfladen
 ---

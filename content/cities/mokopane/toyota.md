@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /mokopane/toyota/
-shop: car
+shop: Autohaus
 ---

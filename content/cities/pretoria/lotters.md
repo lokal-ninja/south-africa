@@ -1,5 +1,5 @@
 ---
 title: "Lotters"
 url: /pretoria/lotters/
-shop: furniture
+shop: Möbel
 ---

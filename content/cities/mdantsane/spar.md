@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /mdantsane/spar/
-shop: supermarket
+shop: Supermarkt
 ---

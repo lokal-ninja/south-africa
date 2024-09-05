@@ -1,5 +1,5 @@
 ---
 title: "Xaklee Vape"
 url: /roodepoort/xaklee-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

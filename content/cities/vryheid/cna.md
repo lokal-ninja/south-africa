@@ -1,5 +1,5 @@
 ---
 title: "CNA"
 url: /vryheid/cna/
-shop: newsagent
+shop: Zeitungen
 ---

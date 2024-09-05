@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /potchefstroom/superspar/
-shop: supermarket
+shop: Supermarkt
 ---

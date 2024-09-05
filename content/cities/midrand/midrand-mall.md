@@ -1,5 +1,5 @@
 ---
 title: "Midrand Mall"
 url: /midrand/midrand-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

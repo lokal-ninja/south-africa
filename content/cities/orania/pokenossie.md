@@ -1,5 +1,5 @@
 ---
 title: "Pokenossie"
 url: /orania/pokenossie/
-shop: leather
+shop: Leder
 ---

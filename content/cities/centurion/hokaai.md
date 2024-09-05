@@ -1,5 +1,5 @@
 ---
 title: "Hokaai"
 url: /centurion/hokaai/
-shop: butcher
+shop: Metzgerei
 ---

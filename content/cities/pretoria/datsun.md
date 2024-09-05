@@ -1,5 +1,5 @@
 ---
 title: "Datsun"
 url: /pretoria/datsun/
-shop: car
+shop: Autohaus
 ---

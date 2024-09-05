@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /senwabarwana/oasis/
-shop: water
+shop: Wasser
 ---

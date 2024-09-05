@@ -1,5 +1,5 @@
 ---
 title: "Polokwane Equipment"
 url: /polokwane/polokwane-equipment/
-shop: trade
+shop: Baustoffe
 ---

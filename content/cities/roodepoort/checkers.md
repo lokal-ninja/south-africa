@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /roodepoort/checkers/
-shop: supermarket
+shop: Supermarkt
 ---

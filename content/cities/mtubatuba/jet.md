@@ -1,5 +1,5 @@
 ---
 title: "Jet"
 url: /mtubatuba/jet/
-shop: clothes
+shop: Kleidung
 ---

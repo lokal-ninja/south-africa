@@ -1,5 +1,5 @@
 ---
 title: "Akhona Furnishers"
 url: /johannesburg/akhona-furnishers-watt-avenue/
-shop: furniture
+shop: Möbel
 ---

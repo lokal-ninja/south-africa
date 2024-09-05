@@ -1,5 +1,5 @@
 ---
 title: "Sleepmasters"
 url: /mtubatuba/sleepmasters/
-shop: bed
+shop: Betten
 ---

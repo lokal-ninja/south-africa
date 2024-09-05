@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /benoni/superspar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Planet Nails"
 url: /roodepoort/planet-nails/
-shop: supermarket
+shop: Supermarkt
 ---

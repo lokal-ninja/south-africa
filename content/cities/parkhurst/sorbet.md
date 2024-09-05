@@ -1,5 +1,5 @@
 ---
 title: "Sorbet"
 url: /parkhurst/sorbet/
-shop: beauty
+shop: Kosmetik
 ---

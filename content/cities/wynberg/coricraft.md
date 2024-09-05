@@ -1,5 +1,5 @@
 ---
 title: "Coricraft"
 url: /wynberg/coricraft/
-shop: furniture
+shop: Möbel
 ---

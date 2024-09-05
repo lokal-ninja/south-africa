@@ -1,5 +1,5 @@
 ---
 title: "JVL"
 url: /pretoria/jvl/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

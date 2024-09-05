@@ -1,5 +1,5 @@
 ---
 title: "Royal Tombstones"
 url: /mtubatuba/royal-tombstones/
-shop: shop
+shop: Allgemein
 ---

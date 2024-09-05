@@ -1,5 +1,5 @@
 ---
 title: "Identity"
 url: /mtubatuba/identity/
-shop: clothes
+shop: Kleidung
 ---

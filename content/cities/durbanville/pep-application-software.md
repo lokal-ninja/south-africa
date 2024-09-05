@@ -1,5 +1,5 @@
 ---
 title: "Pep Application Software"
 url: /durbanville/pep-application-software/
-shop: computer
+shop: Computer
 ---

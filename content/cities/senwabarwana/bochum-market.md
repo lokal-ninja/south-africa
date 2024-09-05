@@ -1,5 +1,5 @@
 ---
 title: "Bochum Market"
 url: /senwabarwana/bochum-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

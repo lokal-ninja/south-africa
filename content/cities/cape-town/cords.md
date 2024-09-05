@@ -1,5 +1,5 @@
 ---
 title: "CORDS"
 url: /cape-town/cords/
-shop: wholesale
+shop: Großhandel
 ---

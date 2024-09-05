@@ -1,5 +1,5 @@
 ---
 title: "Ougoud toffies"
 url: /orania/ougoud-toffies/
-shop: confectionery
+shop: Süßwaren
 ---

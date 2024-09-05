@@ -1,5 +1,5 @@
 ---
 title: "BUCO"
 url: /mtubatuba/buco/
-shop: hardware
+shop: Eisenwaren
 ---

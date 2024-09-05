@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /middelburg/superspar/
-shop: supermarket
+shop: Supermarkt
 ---

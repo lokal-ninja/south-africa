@@ -1,5 +1,5 @@
 ---
 title: "Russells"
 url: /mtubatuba/russells/
-shop: furniture
+shop: Möbel
 ---

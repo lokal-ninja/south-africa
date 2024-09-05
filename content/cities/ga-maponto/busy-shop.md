@@ -1,5 +1,5 @@
 ---
 title: "Busy Shop"
 url: /ga-maponto/busy-shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Afrox"
 url: /pretoria/afrox/
-shop: trade
+shop: Baustoffe
 ---

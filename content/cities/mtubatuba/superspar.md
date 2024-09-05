@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /mtubatuba/superspar/
-shop: supermarket
+shop: Supermarkt
 ---

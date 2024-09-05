@@ -1,5 +1,5 @@
 ---
 title: "Usave - Delft"
 url: /cape-town/usave-delft/
-shop: supermarket
+shop: Supermarkt
 ---

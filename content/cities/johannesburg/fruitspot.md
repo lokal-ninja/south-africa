@@ -1,5 +1,5 @@
 ---
 title: "Fruitspot"
 url: /johannesburg/fruitspot/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

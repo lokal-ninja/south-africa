@@ -1,5 +1,5 @@
 ---
 title: "Kestell Butchery"
 url: /kestell/kestell-butchery/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boxer"
 url: /mitchells-plain/boxer/
-shop: supermarket
+shop: Supermarkt
 ---

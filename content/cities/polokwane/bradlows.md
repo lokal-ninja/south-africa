@@ -1,5 +1,5 @@
 ---
 title: "Bradlows"
 url: /polokwane/bradlows/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dischem"
 url: /pretoria/dischem/
-shop: chemist
+shop: Drogerie
 ---

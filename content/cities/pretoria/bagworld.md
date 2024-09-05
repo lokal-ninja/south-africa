@@ -1,5 +1,5 @@
 ---
 title: "BagWorld"
 url: /pretoria/bagworld/
-shop: bag
+shop: Taschen & Koffer
 ---

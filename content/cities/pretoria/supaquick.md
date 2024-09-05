@@ -1,5 +1,5 @@
 ---
 title: "SupaQuick"
 url: /pretoria/supaquick/
-shop: tyres
+shop: Reifen
 ---

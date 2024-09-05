@@ -1,5 +1,5 @@
 ---
 title: "Bakone 4 Tombstone"
 url: /ga-maponto/bakone-4-tombstone/
-shop: shop
+shop: Allgemein
 ---

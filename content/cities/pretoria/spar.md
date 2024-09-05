@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pretoria/spar/
-shop: supermarket
+shop: Supermarkt
 ---

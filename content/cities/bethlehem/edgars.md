@@ -1,5 +1,5 @@
 ---
 title: "Edgars"
 url: /bethlehem/edgars/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LEGiT"
 url: /pretoria/legit/
-shop: clothes
+shop: Kleidung
 ---

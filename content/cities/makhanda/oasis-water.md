@@ -1,5 +1,5 @@
 ---
 title: "Oasis Water"
 url: /makhanda/oasis-water/
-shop: water
+shop: Wasser
 ---

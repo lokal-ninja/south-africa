@@ -1,5 +1,5 @@
 ---
 title: "Autozone"
 url: /pretoria/autozone/
-shop: car repair
+shop: Autowerkstatt
 ---

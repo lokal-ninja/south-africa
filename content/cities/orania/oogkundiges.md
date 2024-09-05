@@ -1,5 +1,5 @@
 ---
 title: "Oogkundiges"
 url: /orania/oogkundiges/
-shop: optician
+shop: Optiker
 ---

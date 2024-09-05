@@ -1,5 +1,5 @@
 ---
 title: "Luvland"
 url: /pretoria/luvland/
-shop: erotic
+shop: Erotik
 ---

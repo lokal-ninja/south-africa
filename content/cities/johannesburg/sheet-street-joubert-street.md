@@ -1,5 +1,5 @@
 ---
 title: "Sheet Street"
 url: /johannesburg/sheet-street-joubert-street/
-shop: bed
+shop: Betten
 ---

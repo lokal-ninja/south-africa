@@ -1,5 +1,5 @@
 ---
 title: "Identity"
 url: /newcastle/identity/
-shop: clothes
+shop: Kleidung
 ---

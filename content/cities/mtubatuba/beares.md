@@ -1,5 +1,5 @@
 ---
 title: "Beares"
 url: /mtubatuba/beares/
-shop: furniture
+shop: Möbel
 ---

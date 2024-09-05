@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /cape-town/superspar/
-shop: supermarket
+shop: Supermarkt
 ---

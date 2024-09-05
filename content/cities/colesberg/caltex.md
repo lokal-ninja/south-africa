@@ -1,5 +1,5 @@
 ---
 title: "Caltex"
 url: /colesberg/caltex/
-shop: convenience
+shop: Lebensmittel
 ---

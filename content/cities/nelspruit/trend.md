@@ -1,5 +1,5 @@
 ---
 title: "Trend"
 url: /nelspruit/trend/
-shop: doityourself
+shop: Baumarkt
 ---

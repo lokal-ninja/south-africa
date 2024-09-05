@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wesselsbron/spar/
-shop: supermarket
+shop: Supermarkt
 ---

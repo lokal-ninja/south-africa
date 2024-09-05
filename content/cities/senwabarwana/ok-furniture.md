@@ -1,5 +1,5 @@
 ---
 title: "OK Furniture"
 url: /senwabarwana/ok-furniture/
-shop: furniture
+shop: Möbel
 ---

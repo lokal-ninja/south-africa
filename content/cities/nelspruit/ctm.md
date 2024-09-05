@@ -1,5 +1,5 @@
 ---
 title: "CTM"
 url: /nelspruit/ctm/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /johannesburg/woolworths-bradford-road/
-shop: clothes
+shop: Kleidung
 ---
