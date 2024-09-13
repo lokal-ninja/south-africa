@@ -1,5 +1,5 @@
 ---
 title: "Auto Platinum"
 url: /pretoria/auto-platinum/
-shop: Autohaus
+shop: car
 ---

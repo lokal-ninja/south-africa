@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /kuruman/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

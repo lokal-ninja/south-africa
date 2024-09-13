@@ -1,5 +1,5 @@
 ---
 title: "Bethel Farm"
 url: /swellendam/bethel-farm/
-shop: Hofladen
+shop: farm
 ---

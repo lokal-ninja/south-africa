@@ -1,5 +1,5 @@
 ---
 title: "Noise Boys"
 url: /pretoria/noise-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

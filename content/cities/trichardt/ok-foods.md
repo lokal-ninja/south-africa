@@ -1,5 +1,5 @@
 ---
 title: "OK Foods"
 url: /trichardt/ok-foods/
-shop: Supermarkt
+shop: supermarket
 ---

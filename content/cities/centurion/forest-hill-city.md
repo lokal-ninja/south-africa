@@ -1,5 +1,5 @@
 ---
 title: "Forest Hill City"
 url: /centurion/forest-hill-city/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savemore Superette"
 url: /cape-town/savemore-superette/
-shop: Lebensmittel
+shop: convenience
 ---

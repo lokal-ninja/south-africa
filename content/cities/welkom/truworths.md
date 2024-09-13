@@ -1,5 +1,5 @@
 ---
 title: "Truworths"
 url: /welkom/truworths/
-shop: Kleidung
+shop: clothes
 ---

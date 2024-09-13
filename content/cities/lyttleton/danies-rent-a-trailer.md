@@ -1,5 +1,5 @@
 ---
 title: "Danie's Rent a trailer"
 url: /lyttleton/danies-rent-a-trailer/
-shop: Mieten
+shop: storage rental
 ---

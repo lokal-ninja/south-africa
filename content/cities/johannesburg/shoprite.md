@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /johannesburg/shoprite/
-shop: Lebensmittel
+shop: convenience
 ---

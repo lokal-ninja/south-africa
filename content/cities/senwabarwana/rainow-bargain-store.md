@@ -1,5 +1,5 @@
 ---
 title: "Rainow Bargain Store"
 url: /senwabarwana/rainow-bargain-store/
-shop: Dorfladen
+shop: general
 ---

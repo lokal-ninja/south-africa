@@ -1,5 +1,5 @@
 ---
 title: "Spice 'n Stuff"
 url: /mtubatuba/spice-n-stuff/
-shop: Gewürze
+shop: spices
 ---

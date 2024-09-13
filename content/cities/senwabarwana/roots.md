@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /senwabarwana/roots/
-shop: Metzgerei
+shop: butcher
 ---

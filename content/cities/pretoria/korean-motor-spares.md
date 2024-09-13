@@ -1,5 +1,5 @@
 ---
 title: "Korean Motor Spares"
 url: /pretoria/korean-motor-spares/
-shop: Autoteile
+shop: car parts
 ---

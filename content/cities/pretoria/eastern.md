@@ -1,5 +1,5 @@
 ---
 title: "Eastern"
 url: /pretoria/eastern/
-shop: Möbel
+shop: furniture
 ---

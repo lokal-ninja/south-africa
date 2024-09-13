@@ -1,5 +1,5 @@
 ---
 title: "The Gear Change"
 url: /mowbray/the-gear-change/
-shop: Fahrrad
+shop: bicycle
 ---

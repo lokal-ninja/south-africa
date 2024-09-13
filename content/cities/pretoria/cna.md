@@ -1,5 +1,5 @@
 ---
 title: "CNA"
 url: /pretoria/cna/
-shop: Zeitungen
+shop: newsagent
 ---

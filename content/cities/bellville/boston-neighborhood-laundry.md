@@ -1,5 +1,5 @@
 ---
 title: "Boston Neighborhood Laundry"
 url: /bellville/boston-neighborhood-laundry/
-shop: Wäscherei
+shop: laundry
 ---

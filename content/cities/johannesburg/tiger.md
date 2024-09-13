@@ -1,5 +1,5 @@
 ---
 title: "Tiger"
 url: /johannesburg/tiger/
-shop: Autowerkstatt
+shop: car repair
 ---

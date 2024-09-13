@@ -1,5 +1,5 @@
 ---
 title: "Edgars"
 url: /sandton/edgars/
-shop: Warenhaus
+shop: department store
 ---

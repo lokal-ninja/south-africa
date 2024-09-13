@@ -1,5 +1,5 @@
 ---
 title: "Penford Cafe"
 url: /kariega/penford-cafe/
-shop: Lebensmittel
+shop: convenience
 ---

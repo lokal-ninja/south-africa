@@ -1,5 +1,5 @@
 ---
 title: "Grobler Hardware"
 url: /pretoria/grobler-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

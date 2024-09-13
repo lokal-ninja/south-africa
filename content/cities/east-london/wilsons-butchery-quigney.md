@@ -1,5 +1,5 @@
 ---
 title: "Wilsons Butchery Quigney"
 url: /east-london/wilsons-butchery-quigney/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moffat Optical"
 url: /mtubatuba/moffat-optical/
-shop: Optiker
+shop: optician
 ---

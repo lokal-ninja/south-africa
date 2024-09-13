@@ -1,5 +1,5 @@
 ---
 title: "Cherry"
 url: /newcastle/cherry/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /rustenburg/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

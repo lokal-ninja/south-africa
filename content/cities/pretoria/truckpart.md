@@ -1,5 +1,5 @@
 ---
 title: "TruckPart"
 url: /pretoria/truckpart/
-shop: Autoteile
+shop: car parts
 ---

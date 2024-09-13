@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /dlamini-soweto/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

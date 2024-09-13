@@ -1,5 +1,5 @@
 ---
 title: "Limpopo Midas"
 url: /polokwane/limpopo-midas/
-shop: Autowerkstatt
+shop: car repair
 ---

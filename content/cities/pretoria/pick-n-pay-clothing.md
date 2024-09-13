@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay Clothing"
 url: /pretoria/pick-n-pay-clothing/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schubart Motors"
 url: /pretoria/schubart-motors/
-shop: Autoteile
+shop: car parts
 ---

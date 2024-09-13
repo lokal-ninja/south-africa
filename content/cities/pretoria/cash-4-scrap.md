@@ -1,5 +1,5 @@
 ---
 title: "Cash 4 Scrap"
 url: /pretoria/cash-4-scrap/
-shop: Autoteile
+shop: car parts
 ---

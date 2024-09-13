@@ -1,5 +1,5 @@
 ---
 title: "Rage"
 url: /senwabarwana/rage/
-shop: Kleidung
+shop: clothes
 ---

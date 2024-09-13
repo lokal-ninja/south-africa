@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /port-elizabeth/superspar/
-shop: Supermarkt
+shop: supermarket
 ---

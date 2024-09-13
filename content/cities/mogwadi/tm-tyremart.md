@@ -1,5 +1,5 @@
 ---
 title: "TM Tyremart"
 url: /mogwadi/tm-tyremart/
-shop: Reifen
+shop: tyres
 ---

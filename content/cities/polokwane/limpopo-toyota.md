@@ -1,5 +1,5 @@
 ---
 title: "Limpopo Toyota"
 url: /polokwane/limpopo-toyota/
-shop: Autohaus
+shop: car
 ---

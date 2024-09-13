@@ -1,5 +1,5 @@
 ---
 title: "Mundy's Book Exchange"
 url: /gqeberha/mundys-book-exchange/
-shop: Bücher
+shop: books
 ---

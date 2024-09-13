@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /johannesburg/woolworths-kerk-street/
-shop: Kleidung
+shop: clothes
 ---

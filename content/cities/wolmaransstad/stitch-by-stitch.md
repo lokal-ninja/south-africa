@@ -1,5 +1,5 @@
 ---
 title: "Stitch by Stitch"
 url: /wolmaransstad/stitch-by-stitch/
-shop: Möbel
+shop: furniture
 ---

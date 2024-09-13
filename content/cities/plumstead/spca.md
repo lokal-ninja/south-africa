@@ -1,5 +1,5 @@
 ---
 title: "SPCA"
 url: /plumstead/spca/
-shop: Tiere
+shop: pet
 ---

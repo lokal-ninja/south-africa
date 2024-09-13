@@ -1,5 +1,5 @@
 ---
 title: "Dixon"
 url: /mogwadi/dixon/
-shop: Dorfladen
+shop: general
 ---

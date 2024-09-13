@@ -1,5 +1,5 @@
 ---
 title: "Hearing Aid Labs"
 url: /pretoria/hearing-aid-labs/
-shop: Hörgeräte
+shop: hearing aids
 ---

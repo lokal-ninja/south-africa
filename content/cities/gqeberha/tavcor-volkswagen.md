@@ -1,5 +1,5 @@
 ---
 title: "Tavcor Volkswagen"
 url: /gqeberha/tavcor-volkswagen/
-shop: Autohaus
+shop: car
 ---

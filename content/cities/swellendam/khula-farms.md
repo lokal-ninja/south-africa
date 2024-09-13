@@ -1,5 +1,5 @@
 ---
 title: "Khula Farms"
 url: /swellendam/khula-farms/
-shop: Hofladen
+shop: farm
 ---

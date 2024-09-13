@@ -1,5 +1,5 @@
 ---
 title: "KLK Landbou"
 url: /pofadder/klk-landbou/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

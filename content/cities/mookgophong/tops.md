@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /mookgophong/tops/
-shop: Spirituosen
+shop: alcohol
 ---

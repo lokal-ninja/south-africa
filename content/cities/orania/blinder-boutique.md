@@ -1,5 +1,5 @@
 ---
 title: "Blinder Boutique"
 url: /orania/blinder-boutique/
-shop: Jalousien
+shop: window blind
 ---

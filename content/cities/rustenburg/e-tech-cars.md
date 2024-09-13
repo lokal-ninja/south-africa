@@ -1,5 +1,5 @@
 ---
 title: "E-Tech Cars"
 url: /rustenburg/e-tech-cars/
-shop: Autohaus
+shop: car
 ---

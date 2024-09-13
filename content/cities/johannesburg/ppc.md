@@ -1,5 +1,5 @@
 ---
 title: "PPC"
 url: /johannesburg/ppc/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /midrand/checkers/
-shop: Supermarkt
+shop: supermarket
 ---

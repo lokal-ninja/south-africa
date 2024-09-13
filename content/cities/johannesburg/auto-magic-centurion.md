@@ -1,5 +1,5 @@
 ---
 title: "Auto Magic Centurion"
 url: /johannesburg/auto-magic-centurion/
-shop: Autowerkstatt
+shop: car repair
 ---

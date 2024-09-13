@@ -1,5 +1,5 @@
 ---
 title: "Frontline Hyper"
 url: /lenasia/frontline-hyper/
-shop: Supermarkt
+shop: supermarket
 ---

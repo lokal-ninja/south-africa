@@ -1,5 +1,5 @@
 ---
 title: "LTA Plaza"
 url: /lenasia/lta-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vastrap Motors"
 url: /orania/vastrap-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

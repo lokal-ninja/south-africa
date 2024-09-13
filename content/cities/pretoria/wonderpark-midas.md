@@ -1,5 +1,5 @@
 ---
 title: "Wonderpark Midas"
 url: /pretoria/wonderpark-midas/
-shop: Autowerkstatt
+shop: car repair
 ---

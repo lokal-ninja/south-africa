@@ -1,5 +1,5 @@
 ---
 title: "Mangat Motors"
 url: /pretoria/mangat-motors/
-shop: Autohaus
+shop: car
 ---

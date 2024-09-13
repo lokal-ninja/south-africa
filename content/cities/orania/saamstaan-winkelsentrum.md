@@ -1,5 +1,5 @@
 ---
 title: "Saamstaan Winkelsentrum"
 url: /orania/saamstaan-winkelsentrum/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /boksburg/checkers/
-shop: Supermarkt
+shop: supermarket
 ---

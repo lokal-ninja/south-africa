@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /mokopane/superspar/
-shop: Supermarkt
+shop: supermarket
 ---

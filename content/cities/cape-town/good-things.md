@@ -1,5 +1,5 @@
 ---
 title: "Good Things"
 url: /cape-town/good-things/
-shop: Tattoo
+shop: tattoo
 ---

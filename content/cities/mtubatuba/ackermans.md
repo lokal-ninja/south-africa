@@ -1,5 +1,5 @@
 ---
 title: "Ackermans"
 url: /mtubatuba/ackermans/
-shop: Kleidung
+shop: clothes
 ---

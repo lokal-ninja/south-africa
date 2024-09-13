@@ -1,5 +1,5 @@
 ---
 title: "Cartridge Hyper"
 url: /pretoria/cartridge-hyper-lynnwood-road/
-shop: Kopieren
+shop: copyshop
 ---

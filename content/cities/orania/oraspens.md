@@ -1,5 +1,5 @@
 ---
 title: "OraSpens"
 url: /orania/oraspens/
-shop: Dorfladen
+shop: general
 ---

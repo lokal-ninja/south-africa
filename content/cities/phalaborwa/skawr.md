@@ -1,5 +1,5 @@
 ---
 title: "Skawr"
 url: /phalaborwa/skawr/
-shop: Autowerkstatt
+shop: car repair
 ---

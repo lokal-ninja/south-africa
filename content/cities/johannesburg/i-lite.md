@@ -1,5 +1,5 @@
 ---
 title: "I-Lite"
 url: /johannesburg/i-lite/
-shop: Elektronik
+shop: electronics
 ---

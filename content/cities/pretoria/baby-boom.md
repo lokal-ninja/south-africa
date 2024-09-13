@@ -1,5 +1,5 @@
 ---
 title: "Baby Boom"
 url: /pretoria/baby-boom/
-shop: Babysachen
+shop: baby goods
 ---

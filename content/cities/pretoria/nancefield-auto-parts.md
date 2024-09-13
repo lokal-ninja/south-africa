@@ -1,5 +1,5 @@
 ---
 title: "Nancefield Auto Parts"
 url: /pretoria/nancefield-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

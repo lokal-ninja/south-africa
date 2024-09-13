@@ -1,5 +1,5 @@
 ---
 title: "Pic 'n Frame"
 url: /pretoria/pic-n-frame/
-shop: Rahmen
+shop: frame
 ---

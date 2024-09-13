@@ -1,5 +1,5 @@
 ---
 title: "Ideals"
 url: /bethlehem/ideals/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RemStaal"
 url: /orania/remstaal/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pinelands/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodacom"
 url: /east-london/vodacom/
-shop: Handy
+shop: mobile phone
 ---

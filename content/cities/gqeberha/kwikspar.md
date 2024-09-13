@@ -1,5 +1,5 @@
 ---
 title: "Kwikspar"
 url: /gqeberha/kwikspar/
-shop: Supermarkt
+shop: supermarket
 ---

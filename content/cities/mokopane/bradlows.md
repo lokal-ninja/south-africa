@@ -1,5 +1,5 @@
 ---
 title: "Bradlows"
 url: /mokopane/bradlows/
-shop: Möbel
+shop: furniture
 ---

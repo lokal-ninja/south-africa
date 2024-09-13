@@ -1,5 +1,5 @@
 ---
 title: "Woolworths Food"
 url: /gordons-bay/woolworths-food/
-shop: Supermarkt
+shop: supermarket
 ---

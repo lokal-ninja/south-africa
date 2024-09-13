@@ -1,5 +1,5 @@
 ---
 title: "Battery Centre Woodstock"
 url: /cape-town/battery-centre-woodstock/
-shop: Autoteile
+shop: car parts
 ---

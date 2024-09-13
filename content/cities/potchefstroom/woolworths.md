@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /potchefstroom/woolworths/
-shop: Kleidung
+shop: clothes
 ---

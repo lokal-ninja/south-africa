@@ -1,5 +1,5 @@
 ---
 title: "Ackermans Woman"
 url: /pretoria/ackermans-woman/
-shop: Supermarkt
+shop: supermarket
 ---

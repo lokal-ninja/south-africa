@@ -1,5 +1,5 @@
 ---
 title: "OK Liquor"
 url: /meyerton/ok-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

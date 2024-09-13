@@ -1,5 +1,5 @@
 ---
 title: "Edgars"
 url: /bloemfontein/edgars/
-shop: Warenhaus
+shop: department store
 ---

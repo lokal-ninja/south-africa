@@ -1,5 +1,5 @@
 ---
 title: "Bargain Tyres"
 url: /pretoria/bargain-tyres/
-shop: Reifen
+shop: tyres
 ---

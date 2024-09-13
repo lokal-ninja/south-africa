@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /pretoria/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

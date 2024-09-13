@@ -1,5 +1,5 @@
 ---
 title: "WELTCO"
 url: /wolmaransstad/weltco/
-shop: Eisenwaren
+shop: hardware
 ---

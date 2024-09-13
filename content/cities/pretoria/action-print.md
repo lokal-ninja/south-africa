@@ -1,5 +1,5 @@
 ---
 title: "Action Print"
 url: /pretoria/action-print/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridal Room"
 url: /pretoria/bridal-room/
-shop: Kleidung
+shop: clothes
 ---

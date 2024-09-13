@@ -1,5 +1,5 @@
 ---
 title: "Legit Auto Parts"
 url: /pretoria/legit-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

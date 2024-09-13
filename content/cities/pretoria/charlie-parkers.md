@@ -1,5 +1,5 @@
 ---
 title: "Charlie Parkers"
 url: /pretoria/charlie-parkers/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Choppies"
 url: /bela-bela/choppies/
-shop: Großhandel
+shop: wholesale
 ---

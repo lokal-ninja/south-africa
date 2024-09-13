@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
 url: /lotus-river/pick-n-pay/
-shop: Supermarkt
+shop: supermarket
 ---

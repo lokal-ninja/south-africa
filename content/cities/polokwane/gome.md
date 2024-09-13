@@ -1,5 +1,5 @@
 ---
 title: "GOME"
 url: /polokwane/gome/
-shop: Dorfladen
+shop: general
 ---

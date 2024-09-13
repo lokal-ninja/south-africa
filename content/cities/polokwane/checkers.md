@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /polokwane/checkers/
-shop: Supermarkt
+shop: supermarket
 ---

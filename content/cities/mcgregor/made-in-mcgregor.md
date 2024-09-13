@@ -1,5 +1,5 @@
 ---
 title: "Made in McGregor"
 url: /mcgregor/made-in-mcgregor/
-shop: Supermarkt
+shop: supermarket
 ---

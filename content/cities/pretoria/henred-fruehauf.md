@@ -1,5 +1,5 @@
 ---
 title: "Henred Fruehauf"
 url: /pretoria/henred-fruehauf/
-shop: Autoteile
+shop: car parts
 ---

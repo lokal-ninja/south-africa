@@ -1,5 +1,5 @@
 ---
 title: "Somerset Timbers"
 url: /cape-town/somerset-timbers/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sentraal Bakwerke"
 url: /malmesbury/sentraal-bakwerke/
-shop: Autowerkstatt
+shop: car repair
 ---

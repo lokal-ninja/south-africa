@@ -1,5 +1,5 @@
 ---
 title: "Elite self storage"
 url: /erand-gardens/elite-self-storage/
-shop: Mieten
+shop: storage rental
 ---

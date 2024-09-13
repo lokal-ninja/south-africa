@@ -1,5 +1,5 @@
 ---
 title: "Speedy Car Sales"
 url: /pretoria/speedy-car-sales/
-shop: Autohaus
+shop: car
 ---

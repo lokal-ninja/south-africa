@@ -1,5 +1,5 @@
 ---
 title: "Bosveld Mall"
 url: /bela-bela/bosveld-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

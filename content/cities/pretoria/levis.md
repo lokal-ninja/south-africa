@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /pretoria/levis/
-shop: Kleidung
+shop: clothes
 ---

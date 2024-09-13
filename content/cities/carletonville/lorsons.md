@@ -1,5 +1,5 @@
 ---
 title: "Lorsons"
 url: /carletonville/lorsons/
-shop: Supermarkt
+shop: supermarket
 ---

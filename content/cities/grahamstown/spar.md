@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /grahamstown/spar/
-shop: Supermarkt
+shop: supermarket
 ---

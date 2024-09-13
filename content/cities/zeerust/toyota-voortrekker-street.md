@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /zeerust/toyota-voortrekker-street/
-shop: Autowerkstatt
+shop: car repair
 ---

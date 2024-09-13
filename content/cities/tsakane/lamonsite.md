@@ -1,5 +1,5 @@
 ---
 title: "Lamonsite"
 url: /tsakane/lamonsite/
-shop: Computer
+shop: computer
 ---

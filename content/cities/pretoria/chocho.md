@@ -1,5 +1,5 @@
 ---
 title: "Chocho"
 url: /pretoria/chocho/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

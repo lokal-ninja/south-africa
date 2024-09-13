@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /cape-town/checkers-de-beers-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

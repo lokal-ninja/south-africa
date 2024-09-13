@@ -1,5 +1,5 @@
 ---
 title: "Rage"
 url: /johannesburg/rage/
-shop: Schuhe
+shop: shoes
 ---

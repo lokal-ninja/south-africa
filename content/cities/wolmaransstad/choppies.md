@@ -1,5 +1,5 @@
 ---
 title: "Choppies"
 url: /wolmaransstad/choppies/
-shop: Supermarkt
+shop: supermarket
 ---

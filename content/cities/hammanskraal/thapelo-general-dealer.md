@@ -1,5 +1,5 @@
 ---
 title: "Thapelo General Dealer"
 url: /hammanskraal/thapelo-general-dealer/
-shop: Baustoffe
+shop: trade
 ---

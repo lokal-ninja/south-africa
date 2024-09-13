@@ -1,5 +1,5 @@
 ---
 title: "Benita"
 url: /mossel-bay/benita/
-shop: Kosmetik
+shop: beauty
 ---

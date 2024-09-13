@@ -1,5 +1,5 @@
 ---
 title: "DN Brigg (Pty)"
 url: /orania/dn-brigg-pty/
-shop: Haushaltsartikel
+shop: houseware
 ---

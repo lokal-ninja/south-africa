@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /pretoria/metro/
-shop: Großhandel
+shop: wholesale
 ---

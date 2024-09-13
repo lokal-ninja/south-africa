@@ -1,5 +1,5 @@
 ---
 title: "Cashbuild"
 url: /mtubatuba/cashbuild/
-shop: Baumarkt
+shop: doityourself
 ---

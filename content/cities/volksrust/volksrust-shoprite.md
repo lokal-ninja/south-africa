@@ -1,5 +1,5 @@
 ---
 title: "Volksrust Shoprite"
 url: /volksrust/volksrust-shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

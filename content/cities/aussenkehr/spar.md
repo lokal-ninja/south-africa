@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /aussenkehr/spar/
-shop: Supermarkt
+shop: supermarket
 ---

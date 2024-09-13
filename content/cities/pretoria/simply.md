@@ -1,5 +1,5 @@
 ---
 title: "Simply"
 url: /pretoria/simply/
-shop: Schuhe
+shop: shoes
 ---

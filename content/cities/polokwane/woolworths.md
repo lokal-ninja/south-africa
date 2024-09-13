@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /polokwane/woolworths/
-shop: Kleidung
+shop: clothes
 ---

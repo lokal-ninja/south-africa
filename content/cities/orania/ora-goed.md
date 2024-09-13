@@ -1,5 +1,5 @@
 ---
 title: "Ora Goed"
 url: /orania/ora-goed/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duroc Foods"
 url: /senwabarwana/duroc-foods/
-shop: Dorfladen
+shop: general
 ---

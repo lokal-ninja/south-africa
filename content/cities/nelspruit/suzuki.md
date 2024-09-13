@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /nelspruit/suzuki/
-shop: Autohaus
+shop: car
 ---

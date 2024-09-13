@@ -1,5 +1,5 @@
 ---
 title: "HailTech"
 url: /roodeport/hailtech/
-shop: Autowerkstatt
+shop: car repair
 ---

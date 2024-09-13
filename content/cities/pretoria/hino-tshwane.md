@@ -1,5 +1,5 @@
 ---
 title: "Hino Tshwane"
 url: /pretoria/hino-tshwane/
-shop: Autohaus
+shop: car
 ---

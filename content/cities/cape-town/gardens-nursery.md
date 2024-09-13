@@ -1,5 +1,5 @@
 ---
 title: "Gardens Nursery"
 url: /cape-town/gardens-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

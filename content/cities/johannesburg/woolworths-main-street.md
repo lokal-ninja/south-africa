@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /johannesburg/woolworths-main-street/
-shop: Kleidung
+shop: clothes
 ---

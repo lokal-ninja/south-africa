@@ -1,5 +1,5 @@
 ---
 title: "Classica"
 url: /mossel-bay/classica/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Russels"
 url: /senwabarwana/russels/
-shop: Möbel
+shop: furniture
 ---

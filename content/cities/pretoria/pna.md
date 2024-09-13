@@ -1,5 +1,5 @@
 ---
 title: "PnA"
 url: /pretoria/pna/
-shop: Schreibwaren
+shop: office supplies
 ---

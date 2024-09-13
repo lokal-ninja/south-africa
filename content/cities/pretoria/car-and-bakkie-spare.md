@@ -1,5 +1,5 @@
 ---
 title: "Car and Bakkie Spare"
 url: /pretoria/car-and-bakkie-spare/
-shop: Autoteile
+shop: car parts
 ---

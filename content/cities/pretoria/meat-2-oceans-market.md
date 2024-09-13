@@ -1,5 +1,5 @@
 ---
 title: "Meat 2 Oceans Market"
 url: /pretoria/meat-2-oceans-market/
-shop: Metzgerei
+shop: butcher
 ---

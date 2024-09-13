@@ -1,5 +1,5 @@
 ---
 title: "Game centre"
 url: /groblersdal/game-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

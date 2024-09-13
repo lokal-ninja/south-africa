@@ -1,5 +1,5 @@
 ---
 title: "Checkery Hyper Liquor Store"
 url: /pretoria/checkery-hyper-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /polowane/jumbo/
-shop: Großhandel
+shop: wholesale
 ---

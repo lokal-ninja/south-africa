@@ -1,5 +1,5 @@
 ---
 title: "Shoprite"
 url: /pretoria/shoprite-lilian-ngoyi-street/
-shop: Supermarkt
+shop: supermarket
 ---

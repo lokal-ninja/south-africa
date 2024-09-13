@@ -1,5 +1,5 @@
 ---
 title: "Pro Auto"
 url: /pretoria/pro-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

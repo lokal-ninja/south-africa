@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /rustenburg/game/
-shop: Supermarkt
+shop: supermarket
 ---

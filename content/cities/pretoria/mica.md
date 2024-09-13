@@ -1,5 +1,5 @@
 ---
 title: "Mica"
 url: /pretoria/mica/
-shop: Baumarkt
+shop: doityourself
 ---

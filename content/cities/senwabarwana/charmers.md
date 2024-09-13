@@ -1,5 +1,5 @@
 ---
 title: "Charmers"
 url: /senwabarwana/charmers/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

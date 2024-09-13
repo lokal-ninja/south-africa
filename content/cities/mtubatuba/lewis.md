@@ -1,5 +1,5 @@
 ---
 title: "Lewis"
 url: /mtubatuba/lewis/
-shop: Möbel
+shop: furniture
 ---

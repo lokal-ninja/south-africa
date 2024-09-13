@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
 url: /cape-town/pick-n-pay-church-street/
-shop: Supermarkt
+shop: supermarket
 ---

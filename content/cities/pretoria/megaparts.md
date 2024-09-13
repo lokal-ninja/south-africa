@@ -1,5 +1,5 @@
 ---
 title: "Megaparts"
 url: /pretoria/megaparts/
-shop: Autoteile
+shop: car parts
 ---

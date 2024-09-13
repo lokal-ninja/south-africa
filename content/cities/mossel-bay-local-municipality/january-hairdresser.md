@@ -1,5 +1,5 @@
 ---
 title: "January Hairdresser"
 url: /mossel-bay-local-municipality/january-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldwagen"
 url: /randfontein/goldwagen/
-shop: Autoteile
+shop: car parts
 ---

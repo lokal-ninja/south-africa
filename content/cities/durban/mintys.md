@@ -1,5 +1,5 @@
 ---
 title: "Minty's"
 url: /durban/mintys/
-shop: Kleidung
+shop: clothes
 ---

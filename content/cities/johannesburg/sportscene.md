@@ -1,5 +1,5 @@
 ---
 title: "Sportscene"
 url: /johannesburg/sportscene/
-shop: Kleidung
+shop: clothes
 ---

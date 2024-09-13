@@ -1,5 +1,5 @@
 ---
 title: "Peninsula Funerals"
 url: /cape-town/peninsula-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

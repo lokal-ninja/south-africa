@@ -1,5 +1,5 @@
 ---
 title: "Glasfit"
 url: /pretoria/glasfit/
-shop: Autowerkstatt
+shop: car repair
 ---

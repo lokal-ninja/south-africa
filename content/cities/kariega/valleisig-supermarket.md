@@ -1,5 +1,5 @@
 ---
 title: "Valleisig Supermarket"
 url: /kariega/valleisig-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maker Station"
 url: /cape-town/maker-station/
-shop: Elektronik
+shop: electronics
 ---

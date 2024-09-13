@@ -1,5 +1,5 @@
 ---
 title: "Salt Day Spa"
 url: /gordons-bay/salt-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

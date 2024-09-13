@@ -1,5 +1,5 @@
 ---
 title: "Super Sconto"
 url: /johannesburg/super-sconto/
-shop: Supermarkt
+shop: supermarket
 ---

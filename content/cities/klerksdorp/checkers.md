@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /klerksdorp/checkers/
-shop: Supermarkt
+shop: supermarket
 ---

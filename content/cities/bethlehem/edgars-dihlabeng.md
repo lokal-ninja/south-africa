@@ -1,5 +1,5 @@
 ---
 title: "Edgars Dihlabeng"
 url: /bethlehem/edgars-dihlabeng/
-shop: Warenhaus
+shop: department store
 ---

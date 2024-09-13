@@ -1,5 +1,5 @@
 ---
 title: "Laundry"
 url: /pretoria/laundry/
-shop: Wäscherei
+shop: laundry
 ---

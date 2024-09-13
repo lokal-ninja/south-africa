@@ -1,5 +1,5 @@
 ---
 title: "Integrity Hair"
 url: /durban/integrity-hair/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cape Town Surfing"
 url: /hout-bay/cape-town-surfing/
-shop: Sport
+shop: sports
 ---

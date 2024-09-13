@@ -1,5 +1,5 @@
 ---
 title: "Communica"
 url: /pretoria/communica/
-shop: Elektronik
+shop: electronics
 ---

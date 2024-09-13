@@ -1,5 +1,5 @@
 ---
 title: "Station Square"
 url: /pretoria/station-square/
-shop: Einkaufszentrum
+shop: mall
 ---

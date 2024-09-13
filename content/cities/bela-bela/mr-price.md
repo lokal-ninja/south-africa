@@ -1,5 +1,5 @@
 ---
 title: "Mr Price"
 url: /bela-bela/mr-price/
-shop: Kleidung
+shop: clothes
 ---

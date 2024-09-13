@@ -1,5 +1,5 @@
 ---
 title: "Saverite Sunnyside"
 url: /pretoria/saverite-sunnyside/
-shop: Supermarkt
+shop: supermarket
 ---

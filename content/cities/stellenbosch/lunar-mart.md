@@ -1,5 +1,5 @@
 ---
 title: "Lunar Mart"
 url: /stellenbosch/lunar-mart/
-shop: Supermarkt
+shop: supermarket
 ---

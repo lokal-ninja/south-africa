@@ -1,5 +1,5 @@
 ---
 title: "Stor-Age"
 url: /pierre-van-ryneveld/stor-age/
-shop: Mieten
+shop: storage rental
 ---

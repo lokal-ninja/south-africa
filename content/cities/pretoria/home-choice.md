@@ -1,5 +1,5 @@
 ---
 title: "Home Choice"
 url: /pretoria/home-choice/
-shop: Möbel
+shop: furniture
 ---

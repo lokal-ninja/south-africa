@@ -1,5 +1,5 @@
 ---
 title: "Sheet Street"
 url: /mtubatuba/sheet-street/
-shop: Haushaltsartikel
+shop: houseware
 ---

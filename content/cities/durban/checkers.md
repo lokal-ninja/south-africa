@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
 url: /durban/checkers/
-shop: Supermarkt
+shop: supermarket
 ---

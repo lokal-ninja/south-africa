@@ -1,5 +1,5 @@
 ---
 title: "Yokohoma"
 url: /pretoria/yokohoma/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West pack"
 url: /roodepoort/west-pack/
-shop: Supermarkt
+shop: supermarket
 ---

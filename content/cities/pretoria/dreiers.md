@@ -1,5 +1,5 @@
 ---
 title: "Dreiers"
 url: /pretoria/dreiers/
-shop: Eisenwaren
+shop: hardware
 ---

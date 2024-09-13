@@ -1,5 +1,5 @@
 ---
 title: "DW Motors"
 url: /pretoria/dw-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas Kimberley"
 url: /kimberley/midas-kimberley/
-shop: Autowerkstatt
+shop: car repair
 ---

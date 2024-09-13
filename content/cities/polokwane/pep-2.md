@@ -1,5 +1,5 @@
 ---
 title: "Pep"
 url: /polokwane/pep-2/
-shop: Kleidung
+shop: clothes
 ---

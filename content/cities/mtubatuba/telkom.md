@@ -1,5 +1,5 @@
 ---
 title: "Telkom"
 url: /mtubatuba/telkom/
-shop: Handy
+shop: mobile phone
 ---

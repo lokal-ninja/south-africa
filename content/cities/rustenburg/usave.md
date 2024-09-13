@@ -1,5 +1,5 @@
 ---
 title: "Usave"
 url: /rustenburg/usave/
-shop: Supermarkt
+shop: supermarket
 ---

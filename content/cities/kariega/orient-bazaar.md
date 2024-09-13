@@ -1,5 +1,5 @@
 ---
 title: "Orient Bazaar"
 url: /kariega/orient-bazaar/
-shop: Lebensmittel
+shop: convenience
 ---

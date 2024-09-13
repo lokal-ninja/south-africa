@@ -1,5 +1,5 @@
 ---
 title: "Edgars"
 url: /welkom/edgars/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperPump"
 url: /pretoria/superpump/
-shop: Eisenwaren
+shop: hardware
 ---

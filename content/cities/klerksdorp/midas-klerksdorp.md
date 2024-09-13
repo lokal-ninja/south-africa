@@ -1,5 +1,5 @@
 ---
 title: "Midas Klerksdorp"
 url: /klerksdorp/midas-klerksdorp/
-shop: Autoteile
+shop: car parts
 ---
