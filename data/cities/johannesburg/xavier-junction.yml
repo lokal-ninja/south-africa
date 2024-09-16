@@ -1,11 +1,11 @@
 id: 200912650
-type: way
+type: node
 latitude: -26.24106
 longitude: 28.00744
 postcode: "2000"
 city: Johannesburg
-street: "Rente Street"
-housenumber: 5
+street: Rente Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

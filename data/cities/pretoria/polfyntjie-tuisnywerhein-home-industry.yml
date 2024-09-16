@@ -1,10 +1,10 @@
 id: 1002612695
-type: way
+type: node
 latitude: -25.77233
 longitude: 28.2541
 postcode: "0081"
 city: Pretoria
-street: "13th Street"
+street: 13th Street
 housenumber: 73B
 phone: ""
 opening_hours: ""

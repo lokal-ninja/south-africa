@@ -1,11 +1,11 @@
 id: 702545873
-type: way
+type: node
 latitude: -25.77381
 longitude: 28.22493
 postcode: "0181"
 city: Pretoria
-street: "Middel Street"
-housenumber: 113
-phone: "+27 12 346 8134"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 07:00-15:00"
-website: "https://www.skinrenewal.co.za/skin-renewal-brooklyn"
+street: Middel Street
+housenumber: "113"
+phone: +27 12 346 8134
+opening_hours: Mo-Fr 08:30-17:00; Sa 07:00-15:00
+website: https://www.skinrenewal.co.za/skin-renewal-brooklyn

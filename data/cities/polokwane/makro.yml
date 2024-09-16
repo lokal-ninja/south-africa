@@ -1,11 +1,12 @@
 id: 559687531
-type: way
+type: node
 latitude: -23.87548
 longitude: 29.46435
 postcode: "0699"
 city: Polokwane
-street: "Marmer Street"
-housenumber: 1
+street: Marmer Street
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:30-17:30; Tu 09:00-17:30; We-Fr 08:30-17:30; Sa 08:00-16:00; Su 09:00-13:00"
-website: "https://www.makro.co.za/contact-us/store/polokwane-northern-province-M22"
+opening_hours: Mo 08:30-17:30; Tu 09:00-17:30; We-Fr 08:30-17:30; Sa 08:00-16:00;
+    Su 09:00-13:00
+website: https://www.makro.co.za/contact-us/store/polokwane-northern-province-M22

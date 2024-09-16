@@ -1,11 +1,11 @@
 id: 693453564
-type: way
+type: node
 latitude: -25.7186
 longitude: 28.15164
 postcode: "0019"
 city: Pretoria
-street: "Van Der Hoff Road"
-housenumber: 512
+street: Van Der Hoff Road
+housenumber: "512"
 phone: ""
 opening_hours: ""
 website: ""

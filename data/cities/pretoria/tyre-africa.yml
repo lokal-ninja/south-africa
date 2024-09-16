@@ -1,11 +1,11 @@
 id: 683511652
-type: way
+type: node
 latitude: -25.72181
 longitude: 28.15722
 postcode: "0030"
 city: Pretoria
-street: "Van Der Hoff Road"
-housenumber: 390
-phone: "+27 12 377 0150"
+street: Van Der Hoff Road
+housenumber: "390"
+phone: +27 12 377 0150
 opening_hours: ""
-website: "https://tyreafrica.co.za/"
+website: https://tyreafrica.co.za/

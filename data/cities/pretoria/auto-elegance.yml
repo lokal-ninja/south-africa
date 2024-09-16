@@ -1,11 +1,11 @@
 id: 790967082
-type: way
+type: node
 latitude: -25.69918
 longitude: 28.19905
 postcode: ""
 city: Pretoria
-street: "Steve Biko Street"
-housenumber: 1149
-phone: "+27 12 335 7057"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-13:00"
-website: "https://autoelegance.co.za"
+street: Steve Biko Street
+housenumber: "1149"
+phone: +27 12 335 7057
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-13:00
+website: https://autoelegance.co.za

@@ -1,11 +1,11 @@
 id: 663122197
-type: way
+type: node
 latitude: -33.99358
 longitude: 25.65869
 postcode: "6001"
 city: Port Elizabeth
-street: "Louis Botha Crescent"
-housenumber: 19
+street: Louis Botha Crescent
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

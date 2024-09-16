@@ -1,11 +1,11 @@
 id: 246180922
-type: way
+type: node
 latitude: -33.93294
 longitude: 18.42669
 postcode: ""
 city: Cape Town
-street: "Roeland Street"
-housenumber: 121
+street: Roeland Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://stor-age.co.za/"
+website: https://stor-age.co.za/

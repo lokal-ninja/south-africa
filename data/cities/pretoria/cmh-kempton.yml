@@ -1,11 +1,11 @@
 id: 778748957
-type: way
+type: node
 latitude: -25.71362
 longitude: 28.20186
 postcode: "0084"
 city: Pretoria
-street: "Steve Biko Street"
-housenumber: 610
+street: Steve Biko Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://cmhford.co.za/pretoria-north/"
+website: https://cmhford.co.za/pretoria-north/

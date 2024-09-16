@@ -1,11 +1,11 @@
 id: 995978653
-type: way
+type: node
 latitude: -26.32431
 longitude: 27.86629
 postcode: "1827"
 city: Johannesburg
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.southerntoyota.co.za/"
+website: https://www.southerntoyota.co.za/

@@ -1,11 +1,11 @@
 id: 362029466
-type: way
+type: node
 latitude: -34.04226
 longitude: 18.35084
 postcode: "7806"
 city: Hout Bay
-street: "Brighton Street"
-housenumber: 11
+street: Brighton Street
+housenumber: "11"
 phone: "+27217901581"
 opening_hours: ""
-website: "https://www.mica.co.za/"
+website: https://www.mica.co.za/

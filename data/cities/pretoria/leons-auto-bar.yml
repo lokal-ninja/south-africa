@@ -1,11 +1,11 @@
 id: 715287223
-type: way
+type: node
 latitude: -25.7201
 longitude: 28.20454
 postcode: "0084"
 city: Pretoria
-street: "Johan Heyns Drive"
-housenumber: 454
-phone: "+27 12 335 9354"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:30"
-website: "https://leonsautobar.co.za"
+street: Johan Heyns Drive
+housenumber: "454"
+phone: +27 12 335 9354
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:30
+website: https://leonsautobar.co.za

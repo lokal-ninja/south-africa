@@ -1,11 +1,11 @@
 id: 229291850
-type: way
+type: node
 latitude: -25.68736
 longitude: 27.26106
 postcode: ""
 city: Rustenburg
-street: "Kgwebo Street"
-housenumber: 2
-phone: "+27 14 592 4337"
-opening_hours: "Mo-Fr 07:30 - 17:00"
+street: Kgwebo Street
+housenumber: "2"
+phone: +27 14 592 4337
+opening_hours: Mo-Fr 07:30 - 17:00
 website: ""

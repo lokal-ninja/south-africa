@@ -1,11 +1,11 @@
 id: 1116391575
-type: way
+type: node
 latitude: -25.6799
 longitude: 28.26986
 postcode: "0182"
 city: Pretoria
-street: "Breed Street"
-housenumber: 555
+street: Breed Street
+housenumber: "555"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00"
+opening_hours: Mo-Fr 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 695770862
-type: way
+type: node
 latitude: -24.17779
 longitude: 29.0152
 postcode: "0600"
 city: Mokopane
-street: "Thabo Mbeki Drive"
-housenumber: 28
-phone: "+27 62 723 6541"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"
-website: "https://bbmazdamok.co.za"
+street: Thabo Mbeki Drive
+housenumber: "28"
+phone: +27 62 723 6541
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00
+website: https://bbmazdamok.co.za

@@ -1,11 +1,11 @@
 id: 783809121
-type: way
+type: node
 latitude: -26.10329
 longitude: 28.07231
 postcode: "2146"
 city: Johannesburg
-street: "Katherine Street"
-housenumber: 148
-phone: "+27 11 386 9000"
+street: Katherine Street
+housenumber: "148"
+phone: +27 11 386 9000
 opening_hours: ""
-website: "https://ppc.africa"
+website: https://ppc.africa

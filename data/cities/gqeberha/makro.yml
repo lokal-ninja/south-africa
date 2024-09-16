@@ -1,11 +1,11 @@
 id: 1068973144
-type: way
+type: node
 latitude: -33.93486
 longitude: 25.47501
 postcode: "6025"
 city: Gqeberha
-street: "Cape Road"
-housenumber: 735
+street: Cape Road
+housenumber: "735"
 phone: ""
 opening_hours: ""
 website: ""

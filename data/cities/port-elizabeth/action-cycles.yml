@@ -1,11 +1,11 @@
 id: 1234385625
-type: way
+type: node
 latitude: -33.97873
 longitude: 25.60076
 postcode: ""
 city: Port Elizabeth
-street: "Heugh Road"
-housenumber: 
+street: Heugh Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.actioncycles.co.za/"
+website: https://www.actioncycles.co.za/

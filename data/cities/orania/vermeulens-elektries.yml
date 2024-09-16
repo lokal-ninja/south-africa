@@ -1,11 +1,11 @@
 id: 524122246
-type: way
+type: node
 latitude: -29.82393
 longitude: 24.42073
 postcode: "8752"
 city: Orania
-street: "Driedoringlaan"
-housenumber: 52
+street: Driedoringlaan
+housenumber: "52"
 phone: "+27837401503"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

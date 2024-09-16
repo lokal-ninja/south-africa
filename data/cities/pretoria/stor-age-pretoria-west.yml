@@ -1,11 +1,11 @@
 id: 730016355
-type: way
+type: node
 latitude: -25.71502
 longitude: 28.11264
 postcode: "0183"
 city: Pretoria
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://stor-age.co.za/pretoria/pretoria-west"
+website: https://stor-age.co.za/pretoria/pretoria-west

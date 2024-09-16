@@ -1,11 +1,11 @@
 id: 697514180
-type: way
+type: node
 latitude: -25.67013
 longitude: 28.19408
 postcode: ""
 city: Pretoria
-street: "Lavender Road"
-housenumber: 311
+street: Lavender Road
+housenumber: "311"
 phone: ""
 opening_hours: ""
-website: "https://www.dfdiesel.co.za"
+website: https://www.dfdiesel.co.za

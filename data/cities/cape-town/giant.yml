@@ -4,8 +4,8 @@ latitude: -33.91618
 longitude: 18.42318
 postcode: "8001"
 city: Cape Town
-street: "Hans Strijdom Avenue"
-housenumber: 42
-phone: "+27 21 286 1089"
-opening_hours: "Mo-Fr 08:00-17:30, Sa 09:00-13:00"
-website: "http://www.giantcapetown.co.za/"
+street: Hans Strijdom Avenue
+housenumber: "42"
+phone: +27 21 286 1089
+opening_hours: Mo-Fr 08:00-17:30, Sa 09:00-13:00
+website: http://www.giantcapetown.co.za/

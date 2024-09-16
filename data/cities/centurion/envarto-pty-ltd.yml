@@ -1,11 +1,11 @@
 id: 1049638695
-type: way
+type: node
 latitude: -25.84473
 longitude: 28.19595
 postcode: "0157"
 city: Centurion
-street: "Murati Avenue"
-housenumber: 7
-phone: "+27 126640532"
-opening_hours: "Mondays - Fridays 8am - 4; 30pm"
-website: "https://envarto.co.za/"
+street: Murati Avenue
+housenumber: "7"
+phone: +27 126640532
+opening_hours: Mondays - Fridays 8am - 4; 30pm
+website: https://envarto.co.za/

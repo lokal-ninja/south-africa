@@ -1,11 +1,11 @@
 id: 537936163
-type: way
+type: node
 latitude: -26.04212
 longitude: 28.10122
 postcode: ""
 city: Johannesburg
 street: ""
-housenumber: 
-phone: "+27 11 471 5000"
+housenumber: ""
+phone: +27 11 471 5000
 opening_hours: ""
-website: "https://www.philips.co.za"
+website: https://www.philips.co.za

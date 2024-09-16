@@ -1,11 +1,11 @@
 id: 130153765
-type: way
+type: node
 latitude: -25.85528
 longitude: 28.18719
 postcode: ""
 city: Pretoria
-street: "Gordon Hood Avenue"
-housenumber: 1269
-phone: "+27 12 663 1702"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.centurionmall.co.za/"
+street: Gordon Hood Avenue
+housenumber: "1269"
+phone: +27 12 663 1702
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.centurionmall.co.za/

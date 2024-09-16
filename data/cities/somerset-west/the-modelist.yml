@@ -4,8 +4,8 @@ latitude: -34.08195
 longitude: 18.84939
 postcode: "7130"
 city: Somerset West
-street: "Main Road"
-housenumber: 139
+street: Main Road
+housenumber: "139"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00, Sa 07:00-16:00"
-website: "https://themodelist.co.za"
+opening_hours: Tu-Fr 09:00-19:00, Sa 07:00-16:00
+website: https://themodelist.co.za

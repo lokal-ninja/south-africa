@@ -1,11 +1,11 @@
 id: 784377056
-type: way
+type: node
 latitude: -26.12605
 longitude: 28.04926
 postcode: ""
 city: Johannesburg
-street: "Rivonia Road"
-housenumber: 14
-phone: "+27 11 268 0000"
+street: Rivonia Road
+housenumber: "14"
+phone: +27 11 268 0000
 opening_hours: ""
-website: "https://www.designplus.co.za"
+website: https://www.designplus.co.za

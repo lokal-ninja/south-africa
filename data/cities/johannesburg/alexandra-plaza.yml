@@ -1,11 +1,11 @@
 id: 146170257
-type: way
+type: node
 latitude: -26.10474
 longitude: 28.08631
 postcode: "2090"
 city: Johannesburg
-street: "3rd Street"
-housenumber: 43
-phone: "+27 11 786 0424"
+street: 3rd Street
+housenumber: "43"
+phone: +27 11 786 0424
 opening_hours: ""
 website: ""

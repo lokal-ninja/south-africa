@@ -1,11 +1,11 @@
 id: 1045115021
-type: way
+type: node
 latitude: -29.75485
 longitude: 30.80912
 postcode: "3652"
 city: Durban
-street: "Rowles Avenue"
-housenumber: 6
-phone: "+27 823039032"
+street: Rowles Avenue
+housenumber: "6"
+phone: +27 823039032
 opening_hours: ""
 website: ""

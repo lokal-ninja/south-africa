@@ -1,11 +1,11 @@
 id: 805285729
-type: way
+type: node
 latitude: -34.07042
 longitude: 18.55923
 postcode: "7798"
 city: Strandfontein
-street: "Admiral's Hill Drive"
-housenumber: 1
+street: Admiral's Hill Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

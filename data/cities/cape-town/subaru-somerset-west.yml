@@ -1,11 +1,11 @@
 id: 320034402
-type: way
+type: node
 latitude: -34.09576
 longitude: 18.84361
 postcode: "7140"
 city: Cape Town
-street: "Gerber Boulevard"
-housenumber: 27
-phone: "+27 21 853 8618"
+street: Gerber Boulevard
+housenumber: "27"
+phone: +27 21 853 8618
 opening_hours: ""
-website: "https://www.subarusomersetwest.co.za"
+website: https://www.subarusomersetwest.co.za

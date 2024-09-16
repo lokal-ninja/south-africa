@@ -4,8 +4,8 @@ latitude: -28.4129
 longitude: 32.18534
 postcode: "3935"
 city: Mtubatuba
-street: "John Ross Highway"
-housenumber: 20
-phone: "+27 35 550 0085"
-opening_hours: "24/7"
-website: "https://www.okfoods.co.za/find-a-store.html?stName=OK%20EXPRESS%20JABULA&storeType=OK%20EXPRESS"
+street: John Ross Highway
+housenumber: "20"
+phone: +27 35 550 0085
+opening_hours: 24/7
+website: https://www.okfoods.co.za/find-a-store.html?stName=OK%20EXPRESS%20JABULA&storeType=OK%20EXPRESS

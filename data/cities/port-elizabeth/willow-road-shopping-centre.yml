@@ -1,11 +1,11 @@
 id: 680555234
-type: way
+type: node
 latitude: -33.96883
 longitude: 25.52694
 postcode: "6001"
 city: Port Elizabeth
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

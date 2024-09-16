@@ -1,11 +1,11 @@
 id: 835629298
-type: way
+type: node
 latitude: -34.00872
 longitude: 18.51662
 postcode: ""
 city: Ottery
-street: "Old Strandfontein Road"
-housenumber: 62
+street: Old Strandfontein Road
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

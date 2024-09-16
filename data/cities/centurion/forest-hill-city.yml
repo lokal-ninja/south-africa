@@ -1,11 +1,11 @@
 id: 313384084
-type: way
+type: node
 latitude: -25.88996
 longitude: 28.09914
 postcode: ""
 city: Centurion
-street: "Marie Street"
-housenumber: 
+street: Marie Street
+housenumber: ""
 phone: ""
-opening_hours: "09:00-19:00"
-website: "https://foresthillcity.co.za/"
+opening_hours: 09:00-19:00
+website: https://foresthillcity.co.za/

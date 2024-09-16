@@ -1,11 +1,11 @@
 id: 907689251
-type: way
+type: node
 latitude: -33.51274
 longitude: 18.47614
 postcode: "7347"
 city: Cape Town
-street: "Lord Somerset Street"
-housenumber: 16
+street: Lord Somerset Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

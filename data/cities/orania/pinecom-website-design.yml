@@ -1,11 +1,11 @@
 id: 1178033867
-type: way
-latitude: -29.82029
-longitude: 24.38827
+type: node
+latitude: -29.8203
+longitude: 24.38828
 postcode: "8752"
 city: Orania
-street: "Granaatsteenstraat"
-housenumber: 
+street: Granaatsteenstraat
+housenumber: ""
 phone: "+27538800140"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.pinecom-website-design.co.za/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.pinecom-website-design.co.za/

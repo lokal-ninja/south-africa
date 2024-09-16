@@ -1,11 +1,11 @@
 id: 640341314
-type: way
+type: node
 latitude: -25.68274
 longitude: 28.19394
 postcode: "0182"
 city: Pretoria
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.allenjoss.co.za/ford/"
+website: https://www.allenjoss.co.za/ford/

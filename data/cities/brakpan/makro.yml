@@ -1,11 +1,11 @@
 id: 533006169
-type: way
+type: node
 latitude: -26.23647
 longitude: 28.32348
 postcode: "1544"
 city: Brakpan
-street: "Beechwood Street"
-housenumber: 16
+street: Beechwood Street
+housenumber: "16"
 phone: "+27860300999"
 opening_hours: ""
-website: "https://www.makro.co.za/"
+website: https://www.makro.co.za/

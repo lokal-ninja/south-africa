@@ -1,11 +1,11 @@
 id: 1010978374
-type: way
+type: node
 latitude: -33.92732
 longitude: 18.45658
 postcode: ""
 city: Cape Town
-street: "Albert Road"
-housenumber: 369
+street: Albert Road
+housenumber: "369"
 phone: ""
 opening_hours: ""
-website: "https://www.klose.co.za/home"
+website: https://www.klose.co.za/home

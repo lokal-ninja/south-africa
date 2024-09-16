@@ -1,11 +1,11 @@
 id: 894686678
-type: way
+type: node
 latitude: -33.92768
 longitude: 18.45952
 postcode: "7925"
 city: Cape Town
-street: "Albert Road"
-housenumber: 443
+street: Albert Road
+housenumber: "443"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "http://goodhopeonthego.co.za/"
+opening_hours: Mo-Sa 09:00-17:00
+website: http://goodhopeonthego.co.za/

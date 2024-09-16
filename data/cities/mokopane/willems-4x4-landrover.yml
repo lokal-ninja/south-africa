@@ -1,11 +1,11 @@
 id: 758888894
-type: way
+type: node
 latitude: -24.1723
 longitude: 29.00255
 postcode: "0601"
 city: Mokopane
-street: "Bonsmara Street"
-housenumber: 21
+street: Bonsmara Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 717031152
-type: way
+type: node
 latitude: -25.72611
 longitude: 28.17368
 postcode: ""
 city: Pretoria
-street: "Behrens Street"
-housenumber: 330
+street: Behrens Street
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1040628142
-type: way
+type: node
 latitude: -33.92743
 longitude: 18.45574
 postcode: ""
 city: Cape Town
-street: "Albert Road"
-housenumber: 335
+street: Albert Road
+housenumber: "335"
 phone: ""
 opening_hours: ""
-website: "https://worldofrusticframes.co.za/"
+website: https://worldofrusticframes.co.za/

@@ -1,11 +1,11 @@
 id: 1003732867
-type: way
+type: node
 latitude: -25.75993
 longitude: 28.25629
 postcode: "0081"
 city: Pretoria
-street: "Church Avenue"
-housenumber: 
+street: Church Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

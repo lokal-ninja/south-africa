@@ -1,11 +1,11 @@
 id: 25841315
-type: way
+type: node
 latitude: -29.85605
 longitude: 31.0238
 postcode: "4001"
 city: Durban
-street: "Soldiers Way"
-housenumber: 2
-phone: "+27 31 493 0119"
+street: Soldiers Way
+housenumber: "2"
+phone: +27 31 493 0119
 opening_hours: ""
 website: ""

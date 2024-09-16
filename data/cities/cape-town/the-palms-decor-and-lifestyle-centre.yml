@@ -1,11 +1,11 @@
 id: 1011300981
-type: way
+type: node
 latitude: -33.9274
 longitude: 18.44071
 postcode: "7925"
 city: Cape Town
-street: "Sir Lowry Road"
-housenumber: 145
+street: Sir Lowry Road
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://www.palms.co.za/"
+website: https://www.palms.co.za/

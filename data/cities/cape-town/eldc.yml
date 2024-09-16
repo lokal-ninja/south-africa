@@ -1,11 +1,11 @@
 id: 1022981526
-type: way
+type: node
 latitude: -33.93162
 longitude: 18.45565
 postcode: ""
 city: Cape Town
-street: "Victoria Road"
-housenumber: 310
-phone: "+27 21 448 8684"
+street: Victoria Road
+housenumber: "310"
+phone: +27 21 448 8684
 opening_hours: ""
-website: "https://www.eldc.co.za/?email"
+website: https://www.eldc.co.za/?email

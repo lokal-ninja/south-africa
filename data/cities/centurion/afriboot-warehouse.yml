@@ -1,11 +1,11 @@
 id: 1049644736
-type: way
+type: node
 latitude: -25.84775
 longitude: 28.22164
 postcode: "0182"
 city: Centurion
-street: "Theron Avenue"
-housenumber: 35
-phone: "+27 125613001"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.afriboot.co.za/"
+street: Theron Avenue
+housenumber: "35"
+phone: +27 125613001
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.afriboot.co.za/

@@ -1,11 +1,11 @@
 id: 733500021
-type: way
+type: node
 latitude: -26.08942
 longitude: 28.08658
 postcode: ""
 city: Johannesburg
 street: ""
-housenumber: 
-phone: "+27 11 262 8600"
+housenumber: ""
+phone: +27 11 262 8600
 opening_hours: ""
-website: "http://fruitspot.co.za"
+website: http://fruitspot.co.za

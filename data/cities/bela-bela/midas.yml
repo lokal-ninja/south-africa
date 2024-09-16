@@ -1,11 +1,11 @@
 id: 681553350
-type: way
+type: node
 latitude: -24.88667
 longitude: 28.29633
 postcode: "0480"
 city: Bela-Bela
-street: "Potgieter Road"
-housenumber: 
-phone: "+27 14 736 5798"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-15:00; Su 09:00-13:00"
-website: "https://www.midas.co.za"
+street: Potgieter Road
+housenumber: ""
+phone: +27 14 736 5798
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-15:00; Su 09:00-13:00
+website: https://www.midas.co.za

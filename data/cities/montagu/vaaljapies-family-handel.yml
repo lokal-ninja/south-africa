@@ -1,11 +1,11 @@
 id: 892294467
-type: way
+type: node
 latitude: -33.78534
 longitude: 20.12718
 postcode: "6720"
 city: Montagu
-street: "Cross Street"
-housenumber: 5
+street: Cross Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

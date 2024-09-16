@@ -1,11 +1,11 @@
 id: 157767104
-type: way
+type: node
 latitude: -33.98728
 longitude: 25.66768
 postcode: "6001"
 city: Port Elizabeth
-street: "8th Avenue"
-housenumber: 
-phone: "+27 41 583 4052"
+street: 8th Avenue
+housenumber: ""
+phone: +27 41 583 4052
 opening_hours: ""
-website: "https://summerstrandvillage.co.za/"
+website: https://summerstrandvillage.co.za/

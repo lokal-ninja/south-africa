@@ -1,11 +1,11 @@
 id: 458548707
-type: way
+type: node
 latitude: -33.94824
 longitude: 18.47418
 postcode: "7700"
 city: Cape Town
-street: "Saint Peter's Road"
-housenumber: 32
+street: Saint Peter's Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

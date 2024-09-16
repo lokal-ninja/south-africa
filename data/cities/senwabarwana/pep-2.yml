@@ -5,7 +5,8 @@ longitude: 29.13704
 postcode: "0790"
 city: Senwabarwana
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 08:30-17:30; Th 09:00-17:30; Fr 08:30-17:30; Sa 08:00-15:00; Su 09:00-13:00"
-website: "https://www.pepstores.com/"
+opening_hours: Mo-We 08:30-17:30; Th 09:00-17:30; Fr 08:30-17:30; Sa 08:00-15:00;
+    Su 09:00-13:00
+website: https://www.pepstores.com/

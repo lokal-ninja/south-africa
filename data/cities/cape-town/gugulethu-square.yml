@@ -1,11 +1,11 @@
 id: 1227599975
-type: way
+type: node
 latitude: -33.98674
 longitude: 18.56656
 postcode: "7750"
 city: Cape Town
-street: "Steve Biko Drive"
-housenumber: 25
+street: Steve Biko Drive
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

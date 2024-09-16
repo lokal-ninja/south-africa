@@ -1,11 +1,11 @@
 id: 589939385
-type: way
+type: node
 latitude: -25.77504
 longitude: 28.26713
 postcode: "0102"
 city: Pretoria
-street: "Umgazi Road"
-housenumber: 5
+street: Umgazi Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

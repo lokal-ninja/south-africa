@@ -1,11 +1,11 @@
 id: 316835872
-type: way
+type: node
 latitude: -34.11656
 longitude: 18.83074
 postcode: "7140"
 city: Strand
-street: "Main Road"
-housenumber: 45
-phone: "+27 21 8544 284"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Main Road
+housenumber: "45"
+phone: +27 21 8544 284
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

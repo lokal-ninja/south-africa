@@ -1,11 +1,11 @@
 id: 684647898
-type: way
+type: node
 latitude: -25.93202
 longitude: 28.14134
 postcode: "0157"
 city: Pretoria
-street: "Landmarks Avenue"
-housenumber: 71
-phone: "+27 12 657 8500"
+street: Landmarks Avenue
+housenumber: "71"
+phone: +27 12 657 8500
 opening_hours: ""
-website: "https://www.esquire.co.za/"
+website: https://www.esquire.co.za/

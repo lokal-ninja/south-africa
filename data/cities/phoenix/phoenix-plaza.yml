@@ -4,8 +4,8 @@ latitude: -29.70091
 longitude: 31.0057
 postcode: "4068"
 city: Phoenix
-street: "Parthenon Street"
-housenumber: 19
+street: Parthenon Street
+housenumber: "19"
 phone: "+27315078505"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.thephoenixplaza.co.za/contact-us/"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.thephoenixplaza.co.za/contact-us/

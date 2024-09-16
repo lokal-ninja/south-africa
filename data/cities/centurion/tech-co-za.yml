@@ -1,11 +1,11 @@
 id: 1292209262
-type: way
+type: node
 latitude: -25.86134
 longitude: 28.25723
 postcode: "0178"
 city: Centurion
-street: "88 Sovereign Drive"
-housenumber: 88
+street: 88 Sovereign Drive
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

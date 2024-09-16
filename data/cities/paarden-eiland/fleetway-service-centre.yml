@@ -1,11 +1,11 @@
 id: 741961572
-type: way
+type: node
 latitude: -33.91464
 longitude: 18.47539
 postcode: "7405"
 city: Paarden Eiland
-street: "Section Road"
-housenumber: 54
+street: Section Road
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

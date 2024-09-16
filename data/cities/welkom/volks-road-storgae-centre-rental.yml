@@ -1,11 +1,11 @@
 id: 984499734
-type: way
+type: node
 latitude: -27.97882
 longitude: 26.75628
 postcode: "9459"
 city: WELKOM
-street: "Volks Road"
-housenumber: 45
+street: Volks Road
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

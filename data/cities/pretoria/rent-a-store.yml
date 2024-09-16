@@ -1,11 +1,11 @@
 id: 684212740
-type: way
+type: node
 latitude: -25.70633
 longitude: 28.16883
 postcode: ""
 city: Pretoria
 street: ""
-housenumber: 
-phone: "+27 861 73 6827"
-opening_hours: "Mo-Su 06:00-18:00"
-website: "https://rentastore.co.za/locations/pretoria.php"
+housenumber: ""
+phone: +27 861 73 6827
+opening_hours: Mo-Su 06:00-18:00
+website: https://rentastore.co.za/locations/pretoria.php

@@ -1,11 +1,11 @@
 id: 715908096
-type: way
+type: node
 latitude: -25.75927
 longitude: 28.24111
 postcode: "0181"
 city: Pretoria
-street: "Lynnwood Road"
-housenumber: 203
-phone: "+27 12 362 1968"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-14:30"
-website: "https://www.superiorclothing.co.za/"
+street: Lynnwood Road
+housenumber: "203"
+phone: +27 12 362 1968
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-14:30
+website: https://www.superiorclothing.co.za/

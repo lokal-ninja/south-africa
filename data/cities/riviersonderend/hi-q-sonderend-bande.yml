@@ -1,11 +1,11 @@
 id: 592762640
-type: way
+type: node
 latitude: -34.15121
 longitude: 19.91893
 postcode: "7250"
 city: Riviersonderend
-street: "Main Road"
-housenumber: 2
-phone: "+27 28 261 1225"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-11:00; Su off; PH off"
-website: "https://hiq.co.za/store/hi-q-sonderend-bande-riversonderend/"
+street: Main Road
+housenumber: "2"
+phone: +27 28 261 1225
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-11:00; Su off; PH off
+website: https://hiq.co.za/store/hi-q-sonderend-bande-riversonderend/

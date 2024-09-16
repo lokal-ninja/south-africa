@@ -1,11 +1,11 @@
 id: 1047501419
-type: way
+type: node
 latitude: -26.68003
 longitude: 27.83291
 postcode: "1911"
 city: Vanderbijlpark
-street: "S. F. N. Gie Street"
-housenumber: 5
+street: S. F. N. Gie Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

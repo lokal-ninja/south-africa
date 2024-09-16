@@ -4,8 +4,8 @@ latitude: -33.90835
 longitude: 18.4108
 postcode: ""
 city: Cape Town
-street: "Main Road"
-housenumber: 83
-phone: "+27 21 433 0538"
-opening_hours: "Tu-Fr 07:00-15:00; Sa 07:00-14:00; Su 09:00-14:00; PH off"
-website: "https://www.jasonbakery.co.za"
+street: Main Road
+housenumber: "83"
+phone: +27 21 433 0538
+opening_hours: Tu-Fr 07:00-15:00; Sa 07:00-14:00; Su 09:00-14:00; PH off
+website: https://www.jasonbakery.co.za

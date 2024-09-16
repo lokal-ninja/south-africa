@@ -1,11 +1,11 @@
 id: 131384848
-type: way
+type: node
 latitude: -26.25848
 longitude: 27.90039
 postcode: "1809"
 city: Soweto
-street: "Chris Hani Road"
-housenumber: 2127
-phone: "+27 11 938 4448"
+street: Chris Hani Road
+housenumber: "2127"
+phone: +27 11 938 4448
 opening_hours: ""
-website: "https://maponyamall.co.za"
+website: https://maponyamall.co.za

@@ -1,11 +1,11 @@
 id: 1289175275
-type: way
+type: node
 latitude: -26.47656
 longitude: 29.23029
 postcode: "2301"
 city: Trichardt
-street: "Hennops Street"
-housenumber: 
+street: Hennops Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

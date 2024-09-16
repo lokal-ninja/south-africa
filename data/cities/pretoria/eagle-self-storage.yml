@@ -1,11 +1,11 @@
 id: 686774702
-type: way
+type: node
 latitude: -25.64036
 longitude: 28.10335
 postcode: "0118"
 city: Pretoria
 street: ""
-housenumber: 
-phone: "+27 12 549 2294"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://eaglecc.co.za"
+housenumber: ""
+phone: +27 12 549 2294
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://eaglecc.co.za

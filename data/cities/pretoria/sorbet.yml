@@ -5,7 +5,7 @@ longitude: 28.23518
 postcode: ""
 city: Pretoria
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00"
-website: "https://www.sorbet.co.za/store-locator/sorbet-man-brooklyn-mall/"
+opening_hours: Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00
+website: https://www.sorbet.co.za/store-locator/sorbet-man-brooklyn-mall/

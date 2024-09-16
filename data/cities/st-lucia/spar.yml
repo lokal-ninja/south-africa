@@ -1,11 +1,11 @@
 id: 304720203
-type: way
+type: node
 latitude: -28.37586
 longitude: 32.41167
 postcode: "3936"
 city: St. Lucia
-street: "McKenzie Street"
-housenumber: 65
-phone: "+27 35 590 1007"
-opening_hours: "Mo-Su,PH 07:00-19:00"
+street: McKenzie Street
+housenumber: "65"
+phone: +27 35 590 1007
+opening_hours: Mo-Su,PH 07:00-19:00
 website: ""

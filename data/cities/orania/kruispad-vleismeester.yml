@@ -1,11 +1,11 @@
 id: 1219648034
-type: way
+type: node
 latitude: -29.81395
 longitude: 24.40925
 postcode: "8752"
 city: Orania
 street: ""
-housenumber: 138
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 08:00-14:00"
-website: "http://www.vleismeester.co.za/"
+opening_hours: Mo-Fr 09:00-17:30; Sa 08:00-14:00
+website: http://www.vleismeester.co.za/

@@ -1,11 +1,11 @@
 id: 1003011709
-type: way
+type: node
 latitude: -33.92753
 longitude: 18.44254
 postcode: ""
 city: Cape Town
-street: "Barron Street"
-housenumber: 21
+street: Barron Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

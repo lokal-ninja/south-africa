@@ -1,11 +1,11 @@
 id: 944305408
-type: way
+type: node
 latitude: -25.71025
 longitude: 28.19228
 postcode: ""
 city: Pretoria
-street: "Booysen Street"
-housenumber: 330
+street: Booysen Street
+housenumber: "330"
 phone: ""
 opening_hours: ""
-website: "https://corelliwellness.co.za"
+website: https://corelliwellness.co.za

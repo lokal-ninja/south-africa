@@ -1,11 +1,11 @@
 id: 1118108885
-type: way
+type: node
 latitude: -26.52403
 longitude: 29.18
 postcode: "2302"
 city: Secunda
-street: "Nelson Mandela Drive"
-housenumber: 
+street: Nelson Mandela Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

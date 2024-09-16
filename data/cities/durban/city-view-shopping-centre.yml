@@ -1,11 +1,11 @@
 id: 619372583
-type: way
+type: node
 latitude: -29.84286
 longitude: 31.02179
 postcode: "4001"
 city: Durban
-street: "Mathews Meyiwa Road"
-housenumber: 10
-phone: "+27 31 309 6737"
+street: Mathews Meyiwa Road
+housenumber: "10"
+phone: +27 31 309 6737
 opening_hours: ""
-website: "https://www.cityview.co.za/"
+website: https://www.cityview.co.za/

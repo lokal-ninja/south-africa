@@ -4,8 +4,8 @@ latitude: -25.7513
 longitude: 28.22284
 postcode: "0007"
 city: Pretoria
-street: "Kirkness Street"
-housenumber: 416
-phone: "+27 12 492 5883"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-17:00; Su 09:00-15:00"
-website: "https://jvl.co.za/"
+street: Kirkness Street
+housenumber: "416"
+phone: +27 12 492 5883
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-17:00; Su 09:00-15:00
+website: https://jvl.co.za/

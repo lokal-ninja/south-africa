@@ -1,11 +1,11 @@
 id: 770123735
-type: way
+type: node
 latitude: -23.91543
 longitude: 29.44448
 postcode: "0700"
 city: Polokwane
-street: "Pringle Street"
-housenumber: 2
-phone: "+27 15 291 3933"
+street: Pringle Street
+housenumber: "2"
+phone: +27 15 291 3933
 opening_hours: ""
-website: "https://www.autopedigree.co.za/"
+website: https://www.autopedigree.co.za/

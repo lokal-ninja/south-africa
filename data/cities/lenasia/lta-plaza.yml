@@ -1,11 +1,11 @@
 id: 835203696
-type: way
+type: node
 latitude: -26.32124
 longitude: 27.83148
 postcode: ""
 city: Lenasia
-street: "Rose Avenue"
-housenumber: 91
+street: Rose Avenue
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

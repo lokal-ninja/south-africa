@@ -1,11 +1,11 @@
 id: 1176348470
-type: way
+type: node
 latitude: -29.82658
 longitude: 24.41882
 postcode: "8752"
 city: Orania
-street: "Gannaboslaan"
-housenumber: 518
-phone: "+27 72 738 6927"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-15:00; Su 09:00-14:00"
+street: Gannaboslaan
+housenumber: "518"
+phone: +27 72 738 6927
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-15:00; Su 09:00-14:00
 website: ""

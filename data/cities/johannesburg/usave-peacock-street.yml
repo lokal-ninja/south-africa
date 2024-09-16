@@ -4,8 +4,8 @@ latitude: -26.38089
 longitude: 27.84391
 postcode: "1827"
 city: Johannesburg
-street: "Peacock Street"
-housenumber: 6763
-phone: "+27 11 211 3333"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 08:00-15:00; PH 08:00-15:00"
+street: Peacock Street
+housenumber: "6763"
+phone: +27 11 211 3333
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 08:00-15:00; PH 08:00-15:00
 website: ""

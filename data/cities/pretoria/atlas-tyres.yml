@@ -1,11 +1,11 @@
 id: 686259209
-type: way
+type: node
 latitude: -25.71856
 longitude: 28.14902
 postcode: ""
 city: Pretoria
-street: "Van Der Hoff Road"
-housenumber: 
-phone: "+27 12 379 5036"
+street: Van Der Hoff Road
+housenumber: ""
+phone: +27 12 379 5036
 opening_hours: ""
-website: "https://atlastyres.co.za"
+website: https://atlastyres.co.za

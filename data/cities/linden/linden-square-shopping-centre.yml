@@ -1,11 +1,11 @@
 id: 607706483
-type: way
+type: node
 latitude: -26.14109
 longitude: 27.9937
 postcode: "2129"
 city: Linden
-street: "8th Street"
-housenumber: 
+street: 8th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

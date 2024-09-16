@@ -1,11 +1,11 @@
 id: 1002557779
-type: way
+type: node
 latitude: -25.75792
 longitude: 28.26869
 postcode: "0081"
 city: Pretoria
-street: "Miller's Mile"
-housenumber: 458
+street: Miller's Mile
+housenumber: "458"
 phone: ""
 opening_hours: ""
-website: "https://dermadure.co.za/"
+website: https://dermadure.co.za/

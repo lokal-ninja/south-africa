@@ -1,11 +1,11 @@
 id: 837318190
-type: way
+type: node
 latitude: -26.32257
 longitude: 27.83902
 postcode: "1821"
 city: Lenasia
-street: "Rose Avenue"
-housenumber: 160
+street: Rose Avenue
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

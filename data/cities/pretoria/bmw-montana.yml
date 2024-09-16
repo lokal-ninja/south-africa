@@ -1,11 +1,11 @@
 id: 558054034
-type: way
+type: node
 latitude: -25.68115
 longitude: 28.27044
 postcode: ""
 city: Pretoria
-street: "Breed Street"
-housenumber: 501
-phone: "+27 12 523 3600"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:30-13:00"
-website: "http://www.bmw-zambesiauto.co.za"
+street: Breed Street
+housenumber: "501"
+phone: +27 12 523 3600
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:30-13:00
+website: http://www.bmw-zambesiauto.co.za

@@ -4,8 +4,8 @@ latitude: -33.94709
 longitude: 18.47033
 postcode: ""
 city: Cape Town
-street: "Main Road"
-housenumber: 93
+street: Main Road
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://shawco.org/"
+website: https://shawco.org/

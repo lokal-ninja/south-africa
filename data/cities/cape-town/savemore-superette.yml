@@ -1,11 +1,11 @@
 id: 899804071
-type: way
+type: node
 latitude: -33.51138
 longitude: 18.47423
 postcode: "7347"
 city: Cape Town
-street: "Main Road"
-housenumber: 67
+street: Main Road
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

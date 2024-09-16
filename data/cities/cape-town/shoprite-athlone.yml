@@ -1,11 +1,11 @@
 id: 1287300430
-type: way
+type: node
 latitude: -33.9614
 longitude: 18.50218
 postcode: "7764"
 city: Cape Town
-street: "Tembe Road"
-housenumber: 1
+street: Tembe Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

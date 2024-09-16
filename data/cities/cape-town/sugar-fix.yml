@@ -1,11 +1,11 @@
 id: 1030612540
-type: way
+type: node
 latitude: -33.93223
 longitude: 18.46029
 postcode: ""
 city: Cape Town
-street: "Durham Avenue"
-housenumber: 83
+street: Durham Avenue
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

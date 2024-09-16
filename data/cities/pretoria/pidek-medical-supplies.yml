@@ -1,11 +1,11 @@
 id: 744553592
-type: way
+type: node
 latitude: -25.83847
 longitude: 28.21227
 postcode: "0157"
 city: Pretoria
-street: "Botha Avenue"
-housenumber: 19
-phone: "+27 12 664 5442"
+street: Botha Avenue
+housenumber: "19"
+phone: +27 12 664 5442
 opening_hours: ""
-website: "https://pidekmedical.co.za"
+website: https://pidekmedical.co.za

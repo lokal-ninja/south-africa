@@ -1,11 +1,11 @@
 id: 1026304728
-type: way
+type: node
 latitude: -33.9792
 longitude: 25.58384
 postcode: ""
 city: Port Elizabeth
-street: "Main Road"
-housenumber: 130
+street: Main Road
+housenumber: "130"
 phone: "+27415814311"
 opening_hours: ""
 website: ""

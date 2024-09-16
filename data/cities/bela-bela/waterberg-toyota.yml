@@ -1,11 +1,11 @@
 id: 681553344
-type: way
+type: node
 latitude: -24.88693
 longitude: 28.29561
 postcode: "0480"
 city: Bela-Bela
-street: "Potgieter Road"
-housenumber: 12
-phone: "+27 14 736 2127"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
-website: "http://belabela.waterbergtoyota.co.za"
+street: Potgieter Road
+housenumber: "12"
+phone: +27 14 736 2127
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
+website: http://belabela.waterbergtoyota.co.za

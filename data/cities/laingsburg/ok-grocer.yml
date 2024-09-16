@@ -1,11 +1,11 @@
 id: 437323769
-type: way
+type: node
 latitude: -33.19718
 longitude: 20.85753
 postcode: ""
 city: Laingsburg
-street: "Van Riebeeck Street"
-housenumber: 17
-phone: "+27 23 551 1012"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-13:00;Su,PH 09:00-12:00;Dec 25 off"
-website: "https://www.okfoods.co.za/"
+street: Van Riebeeck Street
+housenumber: "17"
+phone: +27 23 551 1012
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-13:00;Su,PH 09:00-12:00;Dec 25 off
+website: https://www.okfoods.co.za/

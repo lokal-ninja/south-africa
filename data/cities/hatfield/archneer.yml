@@ -1,11 +1,11 @@
 id: 710420546
-type: way
+type: node
 latitude: -25.74913
 longitude: 28.23766
 postcode: ""
 city: Hatfield
-street: "Park Street East"
-housenumber: 1153
-phone: "+27 12 342 8432"
+street: Park Street East
+housenumber: "1153"
+phone: +27 12 342 8432
 opening_hours: ""
-website: "https://www.archneer.co.za"
+website: https://www.archneer.co.za

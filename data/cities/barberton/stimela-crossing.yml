@@ -1,11 +1,11 @@
 id: 732259960
-type: way
+type: node
 latitude: -25.78394
 longitude: 31.0477
 postcode: "1300"
 city: Barberton
-street: "General Street"
-housenumber: 
+street: General Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

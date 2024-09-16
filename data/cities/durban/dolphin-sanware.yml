@@ -1,11 +1,11 @@
 id: 1047470041
-type: way
+type: node
 latitude: -29.78675
 longitude: 31.02196
 postcode: "4051"
 city: Durban
-street: "Chris Hani Road"
-housenumber: 714
-phone: "+27 31 563 3588"
+street: Chris Hani Road
+housenumber: "714"
+phone: +27 31 563 3588
 opening_hours: ""
-website: "https://dolphinsanware.co.za/"
+website: https://dolphinsanware.co.za/

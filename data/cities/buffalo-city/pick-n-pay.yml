@@ -1,11 +1,11 @@
 id: 397444244
-type: way
+type: node
 latitude: -33.00411
 longitude: 27.90094
 postcode: "5213"
 city: Buffalo City
-street: "Oxford Street"
-housenumber: 
+street: Oxford Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

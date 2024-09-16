@@ -1,11 +1,11 @@
 id: 888338256
-type: way
+type: node
 latitude: -33.78687
 longitude: 20.12167
 postcode: "6720"
 city: Montagu
-street: "Bath Street"
-housenumber: 48
+street: Bath Street
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

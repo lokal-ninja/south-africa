@@ -1,11 +1,11 @@
 id: 1236242119
-type: way
+type: node
 latitude: -33.81671
 longitude: 18.66029
 postcode: "7550"
 city: Cape Town
-street: "Protea Way"
-housenumber: 2
-phone: "+27 21 975 0711"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Protea Way
+housenumber: "2"
+phone: +27 21 975 0711
+opening_hours: Mo-Su 07:00-20:00
 website: ""

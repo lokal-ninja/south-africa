@@ -1,11 +1,11 @@
 id: 730012510
-type: way
+type: node
 latitude: -25.72697
 longitude: 28.16656
 postcode: "0084"
 city: Pretoria
-street: "Van Der Hoff Road"
-housenumber: 183
-phone: "+27 83 875 8412"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-14:00"
-website: "https://www.allmercedesspares.co.za"
+street: Van Der Hoff Road
+housenumber: "183"
+phone: +27 83 875 8412
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-14:00
+website: https://www.allmercedesspares.co.za

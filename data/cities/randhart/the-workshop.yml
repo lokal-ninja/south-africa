@@ -1,11 +1,11 @@
 id: 1137608145
-type: way
+type: node
 latitude: -26.28554
 longitude: 28.11002
 postcode: "1449"
 city: Randhart
-street: "Nelson Mandela Ave, Unit 1"
-housenumber: 71
-phone: "071-050-5367"
+street: Nelson Mandela Ave, Unit 1
+housenumber: "71"
+phone: 071-050-5367
 opening_hours: ""
 website: ""

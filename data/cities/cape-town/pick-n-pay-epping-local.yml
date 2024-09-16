@@ -4,8 +4,8 @@ latitude: -33.92484
 longitude: 18.55002
 postcode: "7460"
 city: Cape Town
-street: "Mail Street"
-housenumber: 11
-phone: "+27 21 5341034"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-17:00"
+street: Mail Street
+housenumber: "11"
+phone: +27 21 5341034
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-17:00
 website: ""

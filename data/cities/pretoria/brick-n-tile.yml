@@ -1,11 +1,11 @@
 id: 739478310
-type: way
+type: node
 latitude: -25.72025
 longitude: 28.15389
 postcode: ""
 city: Pretoria
-street: "Van Der Hoff Road"
-housenumber: 467
-phone: "+27 12 379 8736"
-opening_hours: "Mo-Fr 07:30-16:30; Sa 08:00-13:00"
-website: "http://www.brickntile.co.za"
+street: Van Der Hoff Road
+housenumber: "467"
+phone: +27 12 379 8736
+opening_hours: Mo-Fr 07:30-16:30; Sa 08:00-13:00
+website: http://www.brickntile.co.za

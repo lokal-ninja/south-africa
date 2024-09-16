@@ -1,11 +1,11 @@
 id: 813065504
-type: way
+type: node
 latitude: -34.07815
 longitude: 18.82587
 postcode: "7140"
 city: Somerset West
-street: "Pacific Close"
-housenumber: 2
+street: Pacific Close
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

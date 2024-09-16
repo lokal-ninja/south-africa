@@ -1,11 +1,11 @@
 id: 1177105280
-type: way
-latitude: -29.81805
-longitude: 24.41842
+type: node
+latitude: -29.81806
+longitude: 24.41848
 postcode: "8752"
 city: Orania
-street: "Kareeboomlaan"
-housenumber: 61
-phone: "+27 79 524 4725"
-opening_hours: "Ma-Fr 08:00-18:00; Sa 09:00-18:00"
-website: "https://oraniasakekamer.co.za/2023/09/05/oraspens/"
+street: Kareeboomlaan
+housenumber: "61"
+phone: +27 79 524 4725
+opening_hours: Ma-Fr 08:00-18:00; Sa 09:00-18:00
+website: https://oraniasakekamer.co.za/2023/09/05/oraspens/

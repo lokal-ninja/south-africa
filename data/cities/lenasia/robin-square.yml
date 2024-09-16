@@ -1,11 +1,11 @@
 id: 1301246139
-type: way
+type: node
 latitude: -26.317
 longitude: 27.82996
 postcode: ""
 city: Lenasia
-street: "Robin Avenue"
-housenumber: 117
+street: Robin Avenue
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

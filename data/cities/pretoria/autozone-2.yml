@@ -1,11 +1,11 @@
 id: 729382597
-type: way
+type: node
 latitude: -25.74075
 longitude: 28.19564
 postcode: ""
 city: Pretoria
 street: ""
-housenumber: 
-phone: "+27 12 326 5376"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 08:00-15:00; PH 08:00-15:00"
-website: "https://autozone.co.za/store-locator/gauteng/pretoria/"
+housenumber: ""
+phone: +27 12 326 5376
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 08:00-15:00; PH 08:00-15:00
+website: https://autozone.co.za/store-locator/gauteng/pretoria/

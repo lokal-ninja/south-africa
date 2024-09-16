@@ -1,11 +1,11 @@
 id: 823324503
-type: way
+type: node
 latitude: -23.91002
 longitude: 29.44992
 postcode: "0699"
 city: Polokwane
-street: "Church Street"
-housenumber: 58
+street: Church Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

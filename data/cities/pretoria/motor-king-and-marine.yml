@@ -1,11 +1,11 @@
 id: 140162637
-type: way
+type: node
 latitude: -25.70842
 longitude: 28.201
 postcode: "0084"
 city: Pretoria
-street: "Steve Biko Street"
-housenumber: 954
-phone: "+27 12 335 2800"
+street: Steve Biko Street
+housenumber: "954"
+phone: +27 12 335 2800
 opening_hours: ""
-website: "https://mkm.co.za"
+website: https://mkm.co.za

@@ -1,11 +1,11 @@
 id: 539071117
-type: way
+type: node
 latitude: -29.74924
 longitude: 30.81196
 postcode: "3652"
 city: Durban
-street: "Inanda Road"
-housenumber: 141
-phone: "+27 31 763 1551"
+street: Inanda Road
+housenumber: "141"
+phone: +27 31 763 1551
 opening_hours: ""
-website: "https://watercrestmall.co.za/"
+website: https://watercrestmall.co.za/

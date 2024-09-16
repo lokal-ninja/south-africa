@@ -1,11 +1,11 @@
 id: 690591384
-type: way
+type: node
 latitude: -34.05936
 longitude: 18.41829
 postcode: ""
 city: Cape Town
-street: "Tokai Road"
-housenumber: 
+street: Tokai Road
+housenumber: ""
 phone: "+27217127471"
-opening_hours: "Mo-Fr 08:00-12:30,13:00-15:45"
-website: "https://www.sanparks.org/"
+opening_hours: Mo-Fr 08:00-12:30,13:00-15:45
+website: https://www.sanparks.org/

@@ -1,11 +1,11 @@
 id: 719968064
-type: way
+type: node
 latitude: -33.98518
 longitude: 18.46554
 postcode: "7708"
 city: Claremont
-street: "Main Road"
-housenumber: 218
+street: Main Road
+housenumber: "218"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -25.76649
 longitude: 28.25727
 postcode: ""
 city: Pretoria
-street: "10th Street"
-housenumber: 98
+street: 10th Street
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://nerdsonsite.co.za/?utm_source=gmb&utm_medium=local"
+opening_hours: Mo-Fr 07:00-18:00
+website: https://nerdsonsite.co.za/?utm_source=gmb&utm_medium=local

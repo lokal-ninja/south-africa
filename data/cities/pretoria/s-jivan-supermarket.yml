@@ -1,11 +1,11 @@
 id: 689678153
-type: way
+type: node
 latitude: -25.73972
 longitude: 28.17674
 postcode: ""
 city: Pretoria
-street: "Boom Street"
-housenumber: 393
+street: Boom Street
+housenumber: "393"
 phone: ""
 opening_hours: ""
 website: ""
