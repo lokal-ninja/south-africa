@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /roodepoort/woolworths/
-shop: supermarket
+shop: clothes
 ---
