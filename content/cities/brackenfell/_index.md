@@ -1,6 +1,6 @@
 ---
 title: Brackenfell
 url: /brackenfell/
-latitude: -33.853
-longitude: 18.694
+latitude: -33.88
+longitude: 18.706
 ---

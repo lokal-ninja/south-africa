@@ -1,6 +1,6 @@
 ---
 title: Siyabuswa
 url: /siyabuswa/
-latitude: -25.111
-longitude: 29.064
+latitude: -25.11
+longitude: 29.071
 ---

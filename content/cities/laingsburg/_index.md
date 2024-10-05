@@ -1,6 +1,6 @@
 ---
 title: Laingsburg
 url: /laingsburg/
-latitude: -33.197
-longitude: 20.858
+latitude: -33.196
+longitude: 20.862
 ---

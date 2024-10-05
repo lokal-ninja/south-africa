@@ -1,6 +1,6 @@
 ---
 title: Hogsback
 url: /hogsback/
-latitude: -32.597
-longitude: 26.939
+latitude: -32.594
+longitude: 26.937
 ---
