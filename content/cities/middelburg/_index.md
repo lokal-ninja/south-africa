@@ -1,6 +1,6 @@
 ---
 title: Middelburg
 url: /middelburg/
-latitude: -25.789
-longitude: 29.452
+latitude: -25.834
+longitude: 29.794
 ---

@@ -1,6 +1,6 @@
 ---
 title: Milnerton
 url: /milnerton/
-latitude: -33.869
-longitude: 18.515
+latitude: -33.895
+longitude: 18.509
 ---

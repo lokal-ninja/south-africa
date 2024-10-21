@@ -1,6 +1,6 @@
 ---
 title: Manguzi
 url: /manguzi/
-latitude: -26.991
-longitude: 32.754
+latitude: -26.987
+longitude: 32.757
 ---

@@ -1,6 +1,6 @@
 ---
 title: Phalaborwa
 url: /phalaborwa/
-latitude: -23.945
-longitude: 31.152
+latitude: -23.949
+longitude: 31.133
 ---

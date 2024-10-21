@@ -1,6 +1,6 @@
 ---
 title: Johannesburg South
 url: /johannesburg-south/
-latitude: -26.341
-longitude: 27.931
+latitude: -26.258
+longitude: 28.008
 ---

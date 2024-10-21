@@ -1,6 +1,6 @@
 ---
 title: Melmoth
 url: /melmoth/
-latitude: -28.59
-longitude: 31.397
+latitude: -28.589
+longitude: 31.396
 ---

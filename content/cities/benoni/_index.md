@@ -1,6 +1,6 @@
 ---
 title: Benoni
 url: /benoni/
-latitude: -26.184
-longitude: 28.317
+latitude: -26.163
+longitude: 28.322
 ---

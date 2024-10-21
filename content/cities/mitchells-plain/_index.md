@@ -1,6 +1,6 @@
 ---
 title: Mitchells Plain
 url: /mitchells-plain/
-latitude: -34.049
-longitude: 18.622
+latitude: -34.066
+longitude: 18.602
 ---

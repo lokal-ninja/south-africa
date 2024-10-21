@@ -1,6 +1,6 @@
 ---
 title: Springs
 url: /springs/
-latitude: -26.251
-longitude: 28.442
+latitude: -26.294
+longitude: 28.453
 ---

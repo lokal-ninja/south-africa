@@ -1,6 +1,6 @@
 ---
 title: Hillcrest
 url: /hillcrest/
-latitude: -29.78
-longitude: 30.765
+latitude: -29.781
+longitude: 30.762
 ---

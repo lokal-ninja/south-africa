@@ -1,6 +1,6 @@
 ---
 title: Ermelo
 url: /ermelo/
-latitude: -26.535
-longitude: 29.99
+latitude: -26.536
+longitude: 29.995
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hazyview
 url: /hazyview/
-latitude: -25.046
-longitude: 31.13
+latitude: -25.053
+longitude: 31.131
 ---

@@ -1,6 +1,6 @@
 ---
 title: Langebaan
 url: /langebaan/
-latitude: -33.027
-longitude: 18.106
+latitude: -33.09
+longitude: 18.034
 ---

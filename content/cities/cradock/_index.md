@@ -1,6 +1,6 @@
 ---
 title: Cradock
 url: /cradock/
-latitude: -32.165
-longitude: 25.616
+latitude: -32.17
+longitude: 25.621
 ---

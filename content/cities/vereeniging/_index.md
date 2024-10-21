@@ -1,6 +1,6 @@
 ---
 title: Vereeniging
 url: /vereeniging/
-latitude: -26.654
-longitude: 27.971
+latitude: -26.639
+longitude: 27.939
 ---

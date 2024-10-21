@@ -1,6 +1,6 @@
 ---
 title: Pietermaritzburg
 url: /pietermaritzburg/
-latitude: -29.624
-longitude: 30.409
+latitude: -29.572
+longitude: 30.356
 ---

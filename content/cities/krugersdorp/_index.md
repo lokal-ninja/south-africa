@@ -1,6 +1,6 @@
 ---
 title: Krugersdorp
 url: /krugersdorp/
-latitude: -26.097
-longitude: 27.763
+latitude: -26.09
+longitude: 27.818
 ---
