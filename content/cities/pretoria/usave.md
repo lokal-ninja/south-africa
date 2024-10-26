@@ -1,5 +1,5 @@
 ---
 title: "Usave"
 url: /pretoria/usave/
-shop: convenience
+shop: supermarket
 ---

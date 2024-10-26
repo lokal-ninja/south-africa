@@ -1,6 +1,6 @@
 ---
 title: Secunda
 url: /secunda/
-latitude: -26.509
-longitude: 29.185
+latitude: -26.545
+longitude: 29.078
 ---

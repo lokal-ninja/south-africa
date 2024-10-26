@@ -1,6 +1,6 @@
 ---
 title: Kathu
 url: /kathu/
-latitude: -27.693
-longitude: 23.071
+latitude: -27.697
+longitude: 23.046
 ---

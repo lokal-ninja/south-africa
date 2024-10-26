@@ -2,5 +2,5 @@
 title: Thabazimbi
 url: /thabazimbi/
 latitude: -24.589
-longitude: 27.399
+longitude: 27.411
 ---

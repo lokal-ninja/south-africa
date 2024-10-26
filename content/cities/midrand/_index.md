@@ -1,6 +1,6 @@
 ---
 title: Midrand
 url: /midrand/
-latitude: -25.976
-longitude: 28.117
+latitude: -25.998
+longitude: 28.126
 ---

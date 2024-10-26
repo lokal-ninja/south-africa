@@ -1,6 +1,6 @@
 ---
 title: Sandton
 url: /sandton/
-latitude: -26.02
-longitude: 28.005
+latitude: -26.11
+longitude: 28.052
 ---

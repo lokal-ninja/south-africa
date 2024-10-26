@@ -1,6 +1,6 @@
 ---
 title: Olifantsfontein
 url: /olifantsfontein/
-latitude: -25.966
-longitude: 28.215
+latitude: -25.976
+longitude: 28.23
 ---

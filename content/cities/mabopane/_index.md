@@ -1,6 +1,6 @@
 ---
 title: Mabopane
 url: /mabopane/
-latitude: -25.495
-longitude: 28.056
+latitude: -25.496
+longitude: 28.084
 ---

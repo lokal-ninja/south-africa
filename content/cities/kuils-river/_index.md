@@ -1,6 +1,6 @@
 ---
 title: Kuils River
 url: /kuils-river/
-latitude: -33.921
-longitude: 18.676
+latitude: -33.98
+longitude: 18.698
 ---

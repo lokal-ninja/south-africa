@@ -1,6 +1,6 @@
 ---
 title: Temba
 url: /temba/
-latitude: -25.395
-longitude: 28.263
+latitude: -25.377
+longitude: 28.26
 ---

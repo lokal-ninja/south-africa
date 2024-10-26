@@ -1,6 +1,6 @@
 ---
 title: Kraaifontein
 url: /kraaifontein/
-latitude: -33.842
-longitude: 18.709
+latitude: -33.855
+longitude: 18.726
 ---

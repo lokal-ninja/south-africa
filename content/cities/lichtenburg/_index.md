@@ -1,6 +1,6 @@
 ---
 title: Lichtenburg
 url: /lichtenburg/
-latitude: -26.151
-longitude: 26.176
+latitude: -26.15
+longitude: 26.161
 ---

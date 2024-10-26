@@ -1,6 +1,6 @@
 ---
 title: Uitenhage
 url: /uitenhage/
-latitude: -33.743
-longitude: 25.409
+latitude: -33.769
+longitude: 25.397
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ennerdale
 url: /ennerdale/
-latitude: -26.414
-longitude: 27.841
+latitude: -26.405
+longitude: 27.831
 ---

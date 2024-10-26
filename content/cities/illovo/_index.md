@@ -1,6 +1,6 @@
 ---
 title: Illovo
 url: /illovo/
-latitude: -26.125
-longitude: 28.055
+latitude: -26.128
+longitude: 28.047
 ---

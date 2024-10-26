@@ -1,6 +1,6 @@
 ---
 title: Klawer
 url: /klawer/
-latitude: -31.779
-longitude: 18.635
+latitude: -31.778
+longitude: 18.624
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tembisa
 url: /tembisa/
-latitude: -26.021
-longitude: 28.192
+latitude: -26.027
+longitude: 28.196
 ---

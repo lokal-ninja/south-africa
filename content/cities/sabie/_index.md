@@ -1,6 +1,6 @@
 ---
 title: Sabie
 url: /sabie/
-latitude: -25.097
+latitude: -25.096
 longitude: 30.778
 ---
