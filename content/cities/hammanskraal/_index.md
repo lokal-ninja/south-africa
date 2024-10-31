@@ -1,6 +1,6 @@
 ---
 title: Hammanskraal
 url: /hammanskraal/
-latitude: -25.402
+latitude: -25.406
 longitude: 28.282
 ---

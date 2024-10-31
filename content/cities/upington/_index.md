@@ -1,6 +1,6 @@
 ---
 title: Upington
 url: /upington/
-latitude: -28.46
-longitude: 21.243
+latitude: -28.45
+longitude: 21.247
 ---

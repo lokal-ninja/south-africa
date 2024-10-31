@@ -1,6 +1,6 @@
 ---
 title: Johannesburg
 url: /johannesburg/
-latitude: -26.146
-longitude: 27.984
+latitude: -26.176
+longitude: 28
 ---

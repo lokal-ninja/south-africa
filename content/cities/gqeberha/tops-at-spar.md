@@ -1,5 +1,5 @@
 ---
-title: "TOPS at Spar"
+title: "Tops at Spar"
 url: /gqeberha/tops-at-spar/
 shop: alcohol
 ---

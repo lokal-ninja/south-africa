@@ -1,6 +1,6 @@
 ---
 title: Lynnwood, Pretoria
 url: /lynnwood-pretoria/
-latitude: -25.768
-longitude: 28.266
+latitude: -25.765
+longitude: 28.317
 ---

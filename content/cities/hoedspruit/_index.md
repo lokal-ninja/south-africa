@@ -1,6 +1,6 @@
 ---
 title: Hoedspruit
 url: /hoedspruit/
-latitude: -24.351
-longitude: 30.958
+latitude: -24.353
+longitude: 30.95
 ---
