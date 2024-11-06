@@ -1,6 +1,6 @@
 ---
 title: Thohoyandou
 url: /thohoyandou/
-latitude: -22.972
-longitude: 30.488
+latitude: -22.948
+longitude: 30.471
 ---
