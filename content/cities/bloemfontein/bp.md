@@ -1,5 +1,5 @@
 ---
 title: "BP"
-url: /gqeberha/bp/
+url: /bloemfontein/bp/
 shop: kiosk
 ---

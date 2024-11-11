@@ -1,5 +1,5 @@
 ---
 title: "BP"
-url: /uitenhage/bp/
+url: /king-williams-town/bp/
 shop: convenience
 ---
