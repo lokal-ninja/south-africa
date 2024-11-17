@@ -1,6 +1,6 @@
 ---
 title: Bluff
 url: /bluff/
-latitude: -29.939
-longitude: 30.989
+latitude: -29.93
+longitude: 31.001
 ---

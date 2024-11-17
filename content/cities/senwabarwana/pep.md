@@ -1,5 +1,5 @@
 ---
-title: "Pep"
+title: "PEP"
 url: /senwabarwana/pep/
 shop: clothes
 ---

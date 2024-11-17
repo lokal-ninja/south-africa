@@ -1,6 +1,6 @@
 ---
 title: Bushbuckridge
 url: /bushbuckridge/
-latitude: -24.835
-longitude: 31.07
+latitude: -24.833
+longitude: 31.069
 ---

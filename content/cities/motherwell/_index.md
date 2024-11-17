@@ -1,6 +1,6 @@
 ---
 title: Motherwell
 url: /motherwell/
-latitude: -33.81
-longitude: 25.595
+latitude: -33.824
+longitude: 25.594
 ---

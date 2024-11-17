@@ -1,6 +1,6 @@
 ---
 title: Pinetown
 url: /pinetown/
-latitude: -29.812
-longitude: 30.871
+latitude: -29.811
+longitude: 30.857
 ---

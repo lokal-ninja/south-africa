@@ -1,6 +1,6 @@
 ---
 title: Mandeni
 url: /mandeni/
-latitude: -29.165
-longitude: 31.438
+latitude: -29.147
+longitude: 31.403
 ---

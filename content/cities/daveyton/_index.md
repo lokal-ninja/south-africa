@@ -1,6 +1,6 @@
 ---
 title: Daveyton
 url: /daveyton/
-latitude: -26.146
-longitude: 28.427
+latitude: -26.153
+longitude: 28.419
 ---

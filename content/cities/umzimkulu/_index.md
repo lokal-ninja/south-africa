@@ -1,6 +1,6 @@
 ---
 title: Umzimkulu
 url: /umzimkulu/
-latitude: -30.274
-longitude: 29.934
+latitude: -30.259
+longitude: 29.94
 ---

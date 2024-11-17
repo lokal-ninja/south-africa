@@ -1,6 +1,6 @@
 ---
-title: seshego
+title: Seshego
 url: /seshego/
-latitude: -23.847
-longitude: 29.354
+latitude: -23.852
+longitude: 29.379
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pep"
+title: "PEP"
 url: /mtubatuba/pep/
 shop: clothes
 ---

@@ -1,6 +1,6 @@
 ---
 title: KwaMashu
 url: /kwamashu/
-latitude: -29.748
-longitude: 30.974
+latitude: -29.747
+longitude: 30.975
 ---

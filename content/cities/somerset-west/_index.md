@@ -1,6 +1,6 @@
 ---
 title: Somerset West
 url: /somerset-west/
-latitude: -34.074
-longitude: 18.814
+latitude: -34.087
+longitude: 18.855
 ---

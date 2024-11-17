@@ -1,6 +1,6 @@
 ---
 title: Rosebank
 url: /rosebank/
-latitude: -33.954
-longitude: 18.475
+latitude: -26.146
+longitude: 28.042
 ---

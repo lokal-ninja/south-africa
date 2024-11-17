@@ -1,6 +1,6 @@
 ---
 title: Bryanston
 url: /bryanston/
-latitude: -26.075
-longitude: 28.028
+latitude: -26.042
+longitude: 28.014
 ---

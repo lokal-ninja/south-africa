@@ -1,5 +1,5 @@
 ---
-title: "Pep"
+title: "PEP"
 url: /mookgophong/pep/
 shop: clothes
 ---

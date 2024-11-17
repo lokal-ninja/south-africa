@@ -1,6 +1,6 @@
 ---
 title: Port Nolloth
 url: /port-nolloth/
-latitude: -29.255
-longitude: 16.872
+latitude: -29.256
+longitude: 16.87
 ---

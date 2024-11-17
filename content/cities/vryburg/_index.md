@@ -1,6 +1,6 @@
 ---
 title: Vryburg
 url: /vryburg/
-latitude: -26.96
-longitude: 24.728
+latitude: -26.951
+longitude: 24.723
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brackenhurst
 url: /brackenhurst/
-latitude: -26.312
-longitude: 28.097
+latitude: -26.315
+longitude: 28.098
 ---

@@ -1,6 +1,6 @@
 ---
 title: Alexandra
 url: /alexandra/
-latitude: -26.105
-longitude: 28.117
+latitude: -33.654
+longitude: 26.407
 ---

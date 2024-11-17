@@ -1,6 +1,6 @@
 ---
 title: Ballito
 url: /ballito/
-latitude: -29.524
-longitude: 31.2
+latitude: -29.526
+longitude: 31.204
 ---

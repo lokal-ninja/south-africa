@@ -1,6 +1,6 @@
 ---
 title: Bloemfontein
 url: /bloemfontein/
-latitude: -29.158
-longitude: 26.191
+latitude: -29.094
+longitude: 26.164
 ---

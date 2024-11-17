@@ -1,6 +1,6 @@
 ---
 title: Peddie
 url: /peddie/
-latitude: -33.195
-longitude: 27.119
+latitude: -33.197
+longitude: 27.118
 ---

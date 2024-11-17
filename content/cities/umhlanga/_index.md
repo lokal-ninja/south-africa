@@ -1,6 +1,6 @@
 ---
 title: Umhlanga
 url: /umhlanga/
-latitude: -29.723
-longitude: 31.087
+latitude: -29.728
+longitude: 31.067
 ---

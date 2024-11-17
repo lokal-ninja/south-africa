@@ -1,5 +1,5 @@
 ---
-title: "Pep"
+title: "PEP"
 url: /durban/pep/
 shop: clothes
 ---

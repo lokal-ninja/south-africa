@@ -1,6 +1,6 @@
 ---
 title: Bedfordview
 url: /bedfordview/
-latitude: -26.168
-longitude: 28.158
+latitude: -26.188
+longitude: 28.122
 ---

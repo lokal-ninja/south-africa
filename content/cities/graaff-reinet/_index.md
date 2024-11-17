@@ -1,6 +1,6 @@
 ---
 title: Graaff-Reinet
 url: /graaff-reinet/
-latitude: -32.248
-longitude: 24.538
+latitude: -32.252
+longitude: 24.536
 ---
