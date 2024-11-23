@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /germiston/pick-n-pay-webber-road/
+url: /pretoria/pick-n-pay-protea-road/
 shop: supermarket
 ---
