@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /pretoria/pep-12/
+url: /empangeni/pep-tanner-road/
 shop: clothes
 ---
