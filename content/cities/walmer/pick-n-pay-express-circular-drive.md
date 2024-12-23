@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay Express"
-url: /rustenburg/pick-n-pay-express-3/
+url: /walmer/pick-n-pay-express-circular-drive/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay Express"
-url: /springs/pick-n-pay-express-2/
+url: /sandton/pick-n-pay-express-rivonia-road/
 shop: convenience
 ---

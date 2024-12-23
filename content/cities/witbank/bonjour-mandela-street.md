@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
-url: /witbank/bonjour-2/
+url: /witbank/bonjour-mandela-street/
 shop: convenience
 ---
