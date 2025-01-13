@@ -7,5 +7,5 @@ city: Pinelands
 street: Central Square
 housenumber: "1"
 phone: "+27215316561"
-opening_hours: Mo-Su 07:00-20:00
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-20:00
 website: ""
