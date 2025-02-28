@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /germiston/pick-n-pay-webber-road/
+url: /durban/pick-n-pay-3/
 shop: supermarket
 ---
