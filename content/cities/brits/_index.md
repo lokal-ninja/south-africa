@@ -1,6 +1,6 @@
 ---
 title: Brits
 url: /brits/
-latitude: -25.635
-longitude: 27.781
+latitude: -25.633
+longitude: 27.782
 ---
