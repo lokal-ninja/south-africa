@@ -1,11 +1,12 @@
-id: 6447321316
+id: 6489827345
 type: node
-latitude: -25.69926
-longitude: 28.18321
-postcode: "0084"
+latitude: -25.74744
+longitude: 28.14897
+postcode: "1000"
 city: Pretoria
 street: ""
 housenumber: ""
-phone: +27 12 335 0969
-opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-16:00; Su 09:00-14:00
+phone: +27 12 327 0027
+opening_hours: Mo-Tu 09:00-18:00; We 08:00-18:00; Th-Fr 09:00-18:00; Sa 09:00-15:00;
+    Su 09:00-14:00
 website: ""
