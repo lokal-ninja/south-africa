@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /empangeni/pep-tanner-road/
+url: /east-london/pep-3/
 shop: clothes
 ---
