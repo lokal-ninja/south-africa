@@ -1,6 +1,6 @@
 ---
 title: Katlehong
 url: /katlehong/
-latitude: -26.33
-longitude: 28.154
+latitude: -26.327
+longitude: 28.146
 ---
