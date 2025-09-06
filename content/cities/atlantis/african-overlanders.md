@@ -1,5 +1,5 @@
 ---
 title: "African Overlanders"
-url: /stellenbosch-farms/african-overlanders/
+url: /atlantis/african-overlanders/
 shop: travel agency
 ---
