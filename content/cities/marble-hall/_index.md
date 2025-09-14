@@ -1,6 +1,6 @@
 ---
 title: Marble Hall
 url: /marble-hall/
-latitude: -25.313
-longitude: 28.94
+latitude: -24.971
+longitude: 29.293
 ---

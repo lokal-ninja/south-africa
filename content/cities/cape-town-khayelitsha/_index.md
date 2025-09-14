@@ -1,6 +1,6 @@
 ---
 title: Cape Town, Khayelitsha
 url: /cape-town-khayelitsha/
-latitude: -34.045
-longitude: 18.699
+latitude: -34.041
+longitude: 18.698
 ---
