@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /goodwood/pick-n-pay-mcdonald-street/
+url: /germiston/pick-n-pay-3/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tzaneen
 url: /tzaneen/
-latitude: -23.826
-longitude: 30.163
+latitude: -23.83
+longitude: 30.162
 ---

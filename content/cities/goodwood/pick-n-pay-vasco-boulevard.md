@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /germiston/pick-n-pay-webber-road/
+url: /goodwood/pick-n-pay-vasco-boulevard/
 shop: supermarket
 ---
