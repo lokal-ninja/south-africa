@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /pretoria/pep-rasie-street/
+url: /vereeniging/pep-2/
 shop: clothes
 ---

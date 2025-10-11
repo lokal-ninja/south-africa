@@ -1,6 +1,6 @@
 ---
 title: Pretoria
 url: /pretoria/
-latitude: -25.766
-longitude: 28.298
+latitude: -25.681
+longitude: 28.253
 ---

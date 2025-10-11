@@ -1,6 +1,6 @@
 ---
 title: Makhado
 url: /makhado/
-latitude: -23.039
-longitude: 29.91
+latitude: -23.046
+longitude: 29.918
 ---
