@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /rustenburg/pick-n-pay-smit-street/
+url: /germiston/pick-n-pay-3/
 shop: supermarket
 ---
