@@ -1,6 +1,6 @@
 ---
 title: Nelspruit
 url: /nelspruit/
-latitude: -25.469
-longitude: 30.981
+latitude: -25.437
+longitude: 30.968
 ---
