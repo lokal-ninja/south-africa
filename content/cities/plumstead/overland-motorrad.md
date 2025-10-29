@@ -1,5 +1,5 @@
 ---
 title: "Overland Motorrad"
-url: /woodstock-cape-town/overland-motorrad/
+url: /plumstead/overland-motorrad/
 shop: motorcycle
 ---
