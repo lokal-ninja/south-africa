@@ -1,6 +1,6 @@
 ---
 title: Witbank
 url: /witbank/
-latitude: -26.151
-longitude: 28.682
+latitude: -25.875
+longitude: 29.211
 ---

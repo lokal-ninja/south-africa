@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /soweto/pep-town-road/
+url: /soweto/pep-mohajana-street/
 shop: clothes
 ---

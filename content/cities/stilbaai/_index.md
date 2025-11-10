@@ -1,6 +1,6 @@
 ---
 title: Stilbaai
 url: /stilbaai/
-latitude: -34.371
-longitude: 21.406
+latitude: -34.313
+longitude: 21.342
 ---
