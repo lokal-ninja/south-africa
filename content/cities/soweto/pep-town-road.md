@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /klerksdorp/pep-golf-street/
+url: /soweto/pep-town-road/
 shop: clothes
 ---
