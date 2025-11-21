@@ -1,5 +1,5 @@
 ---
-title: "PnA"
+title: "PNA"
 url: /pretoria/pna/
 shop: office supplies
 ---

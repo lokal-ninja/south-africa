@@ -1,6 +1,6 @@
 ---
 title: Meyerton
 url: /meyerton/
-latitude: -26.561
-longitude: 28.018
+latitude: -26.551
+longitude: 28.034
 ---
