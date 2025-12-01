@@ -1,6 +1,6 @@
 ---
 title: Sebokeng
 url: /sebokeng/
-latitude: -26.531
-longitude: 27.826
+latitude: -26.597
+longitude: 27.849
 ---
