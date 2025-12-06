@@ -1,6 +1,6 @@
 ---
 title: Lethabong
 url: /lethabong/
-latitude: -26.104
-longitude: 28.173
+latitude: -26.115
+longitude: 28.135
 ---

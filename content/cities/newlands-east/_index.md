@@ -1,6 +1,6 @@
 ---
 title: Newlands East
 url: /newlands-east/
-latitude: -29.773
-longitude: 30.994
+latitude: -29.783
+longitude: 31.003
 ---
