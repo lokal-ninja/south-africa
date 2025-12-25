@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
-url: /boksburg/bonjour-heidelberg-road/
+url: /edenvale/bonjour-elm-street/
 shop: convenience
 ---

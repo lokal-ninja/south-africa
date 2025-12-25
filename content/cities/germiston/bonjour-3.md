@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
-url: /soweto/bonjour-2/
+url: /germiston/bonjour-3/
 shop: convenience
 ---

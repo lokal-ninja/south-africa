@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
-url: /johannesburg-south/bonjour-5/
+url: /midrand/bonjour-harry-galaun-drive/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sportscene"
+title: "sportscene"
 url: /cape-town/sportscene/
-shop: sports
+shop: clothes
 ---

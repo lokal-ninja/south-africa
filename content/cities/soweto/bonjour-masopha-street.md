@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
-url: /edenvale/bonjour-sandvale-road/
+url: /soweto/bonjour-masopha-street/
 shop: convenience
 ---
