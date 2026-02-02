@@ -1,5 +1,5 @@
 ---
 title: "Montspa"
 url: /montagu/montspa/
-shop: appliance
+shop: bed
 ---

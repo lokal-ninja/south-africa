@@ -1,6 +1,6 @@
 ---
 title: Wolmaransstad
 url: /wolmaransstad/
-latitude: -27.2
-longitude: 25.984
+latitude: -27.194
+longitude: 25.994
 ---
