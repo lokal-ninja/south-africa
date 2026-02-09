@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /katlehong/pep-nota-street/
+url: /empangeni/pep-tanner-road/
 shop: clothes
 ---
