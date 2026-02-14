@@ -1,6 +1,6 @@
 ---
 title: Edenvale
 url: /edenvale/
-latitude: -26.125
-longitude: 28.17
+latitude: -26.159
+longitude: 28.167
 ---
