@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
-url: /durban/checkers-grays-inn-road/
+url: /durban/checkers-6/
 shop: supermarket
 ---

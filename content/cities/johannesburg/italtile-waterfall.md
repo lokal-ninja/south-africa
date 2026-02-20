@@ -1,5 +1,5 @@
 ---
-title: "Italtile  Waterfall"
+title: "Italtile Waterfall"
 url: /johannesburg/italtile-waterfall/
 shop: tiles
 ---
