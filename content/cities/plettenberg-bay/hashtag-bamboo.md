@@ -1,5 +1,5 @@
 ---
 title: "Hashtag Bamboo"
-url: /sedgefield/hashtag-bamboo-n2/
+url: /plettenberg-bay/hashtag-bamboo/
 shop: catalogue
 ---
