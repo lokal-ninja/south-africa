@@ -1,6 +1,6 @@
 ---
 title: Empangeni
 url: /empangeni/
-latitude: -28.773
-longitude: 31.903
+latitude: -28.741
+longitude: 31.89
 ---

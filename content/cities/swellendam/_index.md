@@ -1,6 +1,6 @@
 ---
 title: Swellendam
 url: /swellendam/
-latitude: -34.017
-longitude: 20.451
+latitude: -34.02
+longitude: 20.445
 ---
