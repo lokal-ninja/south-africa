@@ -1,6 +1,6 @@
 ---
 title: Rustenburg
 url: /rustenburg/
-latitude: -25.666
-longitude: 27.243
+latitude: -25.641
+longitude: 27.214
 ---

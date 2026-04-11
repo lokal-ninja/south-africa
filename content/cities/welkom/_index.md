@@ -1,6 +1,6 @@
 ---
 title: Welkom
 url: /welkom/
-latitude: -27.986
-longitude: 26.738
+latitude: -27.98
+longitude: 26.742
 ---
