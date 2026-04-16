@@ -1,6 +1,6 @@
 ---
 title: Ibhayi
 url: /ibhayi/
-latitude: -33.866
-longitude: 25.56
+latitude: -33.841
+longitude: 25.533
 ---
