@@ -1,6 +1,6 @@
 ---
 title: Kroonstad
 url: /kroonstad/
-latitude: -27.677
-longitude: 27.239
+latitude: -27.666
+longitude: 27.232
 ---
