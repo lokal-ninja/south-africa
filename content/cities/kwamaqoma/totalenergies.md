@@ -1,5 +1,5 @@
 ---
 title: "TotalEnergies"
-url: /fort-beaufort/totalenergies/
+url: /kwamaqoma/totalenergies/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Delareyville
 url: /delareyville/
-latitude: -26.688
-longitude: 25.457
+latitude: -26.69
+longitude: 25.458
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
-url: /gqeberha/bonjour-glenroy-drive/
+url: /kwamaqoma/bonjour/
 shop: convenience
 ---
