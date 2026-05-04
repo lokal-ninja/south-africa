@@ -1,6 +1,6 @@
 ---
 title: Greenstone Hill
 url: /greenstone-hill/
-latitude: -26.119
-longitude: 28.145
+latitude: -26.117
+longitude: 28.142
 ---
