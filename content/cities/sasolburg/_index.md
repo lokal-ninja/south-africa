@@ -1,6 +1,6 @@
 ---
 title: Sasolburg
 url: /sasolburg/
-latitude: -26.803
-longitude: 27.815
+latitude: -26.813
+longitude: 27.827
 ---

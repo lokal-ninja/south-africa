@@ -1,6 +1,6 @@
 ---
 title: Alice
 url: /alice/
-latitude: -32.789
-longitude: 26.835
+latitude: -32.787
+longitude: 26.841
 ---

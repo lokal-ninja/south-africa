@@ -1,6 +1,6 @@
 ---
-title: tlhabane
+title: Tlhabane
 url: /tlhabane/
-latitude: -25.636
-longitude: 27.207
+latitude: -25.645
+longitude: 27.211
 ---
