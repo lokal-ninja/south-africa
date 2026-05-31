@@ -1,6 +1,6 @@
 ---
 title: Fish Hoek
 url: /fish-hoek/
-latitude: -34.121
-longitude: 18.389
+latitude: -34.135
+longitude: 18.432
 ---

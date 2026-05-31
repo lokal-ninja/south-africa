@@ -1,6 +1,6 @@
 ---
-title: St. Lucia
+title: St Lucia
 url: /st-lucia/
-latitude: -28.374
-longitude: 32.412
+latitude: -28.378
+longitude: 32.411
 ---
