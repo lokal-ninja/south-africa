@@ -1,6 +1,6 @@
 ---
 title: Soshanguve
 url: /soshanguve/
-latitude: -25.54
-longitude: 28.104
+latitude: -25.505
+longitude: 28.108
 ---
