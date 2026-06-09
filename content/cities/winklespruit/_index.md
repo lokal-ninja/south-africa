@@ -1,6 +1,6 @@
 ---
 title: Winklespruit
 url: /winklespruit/
-latitude: -30.095
-longitude: 30.857
+latitude: -30.099
+longitude: 30.855
 ---
