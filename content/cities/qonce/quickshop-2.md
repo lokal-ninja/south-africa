@@ -1,5 +1,5 @@
 ---
 title: "Quickshop"
-url: /king-williams-town/quickshop/
+url: /qonce/quickshop-2/
 shop: convenience
 ---

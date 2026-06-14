@@ -1,5 +1,5 @@
 ---
 title: "BP"
-url: /king-williams-town/bp/
+url: /qonce/bp/
 shop: convenience
 ---

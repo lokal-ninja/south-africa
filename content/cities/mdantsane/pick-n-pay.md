@@ -1,5 +1,5 @@
 ---
 title: "Pick n Pay"
-url: /pretoria/pick-n-pay-protea-road/
+url: /mdantsane/pick-n-pay/
 shop: supermarket
 ---

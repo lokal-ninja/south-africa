@@ -1,6 +1,6 @@
 ---
 title: Qonce
 url: /qonce/
-latitude: -32.876
-longitude: 27.388
+latitude: -32.888
+longitude: 27.399
 ---
