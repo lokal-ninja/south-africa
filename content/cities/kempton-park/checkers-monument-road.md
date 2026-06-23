@@ -1,5 +1,5 @@
 ---
 title: "Checkers"
-url: /kempton-park/checkers-5/
+url: /kempton-park/checkers-monument-road/
 shop: supermarket
 ---

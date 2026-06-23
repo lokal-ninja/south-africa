@@ -1,6 +1,6 @@
 ---
 title: Macleantown
 url: /macleantown/
-latitude: -32.787
-longitude: 27.746
+latitude: -32.789
+longitude: 27.747
 ---

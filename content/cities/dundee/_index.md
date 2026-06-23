@@ -1,6 +1,6 @@
 ---
 title: Dundee
 url: /dundee/
-latitude: -28.165
-longitude: 30.228
+latitude: -28.162
+longitude: 30.238
 ---
