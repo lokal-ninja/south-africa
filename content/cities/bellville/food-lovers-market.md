@@ -1,5 +1,5 @@
 ---
-title: "Food Lovers Market"
+title: "Food Lover's Market"
 url: /bellville/food-lovers-market/
-shop: greengrocer
+shop: supermarket
 ---

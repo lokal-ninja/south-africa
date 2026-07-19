@@ -1,6 +1,6 @@
 ---
-title: Emalahleni
+title: eMalahleni
 url: /emalahleni/
-latitude: -25.888
-longitude: 29.265
+latitude: -25.874
+longitude: 29.236
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vanderbijlpark
 url: /vanderbijlpark/
-latitude: -26.725
-longitude: 27.845
+latitude: -26.701
+longitude: 27.838
 ---
