@@ -1,5 +1,5 @@
 ---
-title: "Wellness clinic"
+title: "Wellness Clinic"
 url: /swellendam/wellness-clinic/
 shop: massage
 ---

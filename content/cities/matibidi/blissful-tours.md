@@ -1,5 +1,5 @@
 ---
-title: "Blissful tours"
+title: "Blissful Tours"
 url: /matibidi/blissful-tours/
 shop: travel agency
 ---

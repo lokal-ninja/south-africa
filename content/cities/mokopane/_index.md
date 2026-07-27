@@ -1,6 +1,6 @@
 ---
 title: Mokopane
 url: /mokopane/
-latitude: -24.184
-longitude: 29.013
+latitude: -24.183
+longitude: 29.014
 ---
