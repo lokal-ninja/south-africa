@@ -1,5 +1,5 @@
 ---
-title: "Flhat Ink tattoo and piercing"
+title: "FLHAT Ink Tattoo and Piercing"
 url: /plettenberg-bay/flhat-ink-tattoo-and-piercing/
 shop: tattoo
 ---

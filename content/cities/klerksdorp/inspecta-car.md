@@ -1,5 +1,5 @@
 ---
-title: "Inspecta car"
+title: "Inspecta Car"
 url: /klerksdorp/inspecta-car/
 shop: car
 ---

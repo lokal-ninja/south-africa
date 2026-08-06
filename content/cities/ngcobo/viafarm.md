@@ -1,5 +1,5 @@
 ---
-title: "VIAFARM"
+title: "Viafarm"
 url: /ngcobo/viafarm/
 shop: convenience
 ---

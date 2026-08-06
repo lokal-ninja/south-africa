@@ -1,5 +1,5 @@
 ---
-title: "Westvaal motors"
+title: "Westvaal Motors"
 url: /klerksdorp/westvaal-motors/
 shop: car
 ---
