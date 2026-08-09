@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /pretoria/pep-12/
+url: /kugompo-city/pep-2/
 shop: clothes
 ---
