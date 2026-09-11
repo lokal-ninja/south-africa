@@ -1,6 +1,6 @@
 ---
 title: Ezibeleni
 url: /ezibeleni/
-latitude: -31.91
-longitude: 26.956
+latitude: -31.916
+longitude: 26.951
 ---
