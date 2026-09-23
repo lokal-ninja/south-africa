@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /umnambithi/pep-2/
+url: /vereeniging/pep-2/
 shop: clothes
 ---

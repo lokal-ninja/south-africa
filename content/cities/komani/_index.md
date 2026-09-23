@@ -1,6 +1,6 @@
 ---
 title: Komani
 url: /komani/
-latitude: -31.895
-longitude: 26.87
+latitude: -31.896
+longitude: 26.875
 ---
