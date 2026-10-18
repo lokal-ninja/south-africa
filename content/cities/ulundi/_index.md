@@ -2,5 +2,5 @@
 title: Ulundi
 url: /ulundi/
 latitude: -28.299
-longitude: 31.424
+longitude: 31.422
 ---

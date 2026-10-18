@@ -1,6 +1,6 @@
 ---
 title: Woodstock
 url: /woodstock/
-latitude: -33.929
-longitude: 18.451
+latitude: -33.931
+longitude: 18.453
 ---
