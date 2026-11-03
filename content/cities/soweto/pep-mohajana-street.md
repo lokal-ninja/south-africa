@@ -1,5 +1,5 @@
 ---
 title: "PEP"
-url: /pretoria/pep-rasie-street/
+url: /soweto/pep-mohajana-street/
 shop: clothes
 ---

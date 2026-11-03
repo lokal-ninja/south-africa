@@ -1,6 +1,6 @@
 ---
 title: Lephalale
 url: /lephalale/
-latitude: -23.687
-longitude: 27.705
+latitude: -23.678
+longitude: 27.737
 ---

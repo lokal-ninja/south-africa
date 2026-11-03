@@ -1,6 +1,6 @@
 ---
 title: Stanford
 url: /stanford/
-latitude: -34.44
-longitude: 19.457
+latitude: -34.439
+longitude: 19.456
 ---
